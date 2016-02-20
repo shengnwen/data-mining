@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Course website for STAT 365/665: Data Mining and Machine Learning">
+  <meta name="author" content="Taylor B. Arnold">
+  <title>Yale University STAT 365/665: Data Mining and Machine Learning</title>
+
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+  <!-- Google fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+</head>
+
+<body>
+
+<a href="https://github.com/statsmaths/stat665">
+  <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
+<div id="header">
+  <h1>STAT 365/665: Data Mining and Machine Learning</h1>
+  <div style="clear:both;"></div>
+</div>
+
+<div class="sechighlight">
+<div class="container sec">
+  <h2>Course Notes and Assignments</h2>
+
+  <i>Spring 2016<br> Monday, Wednesdays 14:30-15:45 <br> DL 220<br><br></i>
+
+<b>Instructor</b>: Taylor Arnold<br>
+<b>E-mail</b>: taylor.arnold@yale.edu<br>
+<b>Office Hours</b>: TBD <br>
+<b>Teaching Assistants</b>: Yu Lu, Jason Klusowski <br>
+<b>TA Session</b>: TBD <br>
+
+</div>
+</div>
+<div class="container sec">
+<table class="table">
+  <tr class="active">
+    <th>Date</th><th>Description</th><th>Resources</th><th>References</th>
+  </tr>
+  <tr>
+    <td>2016-01-20</td>
+    <td>Course Introduction</td>
+    <td>
+      <b>[<a href="syllabus/ML2016_Syllabus.pdf">Syllabus</a>]</b><br>
+    </td>
+    <td>
+      <ul>
+        <li>W. N. Venables, D. M. Smith and the R Core Team. <i>An Introduction to R. </i> [<a href="https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf">pdf notes</a>]</li>
+        <li>Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie. <i>The Elements of Statistical Learning</i>. (<b>EoSL</b>) [<a href="http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf">pdf book</a>]</li>
+        <li>Ian Goodfellow, Yoshua Bengio and Aaron Courville. Deep Learning. (<b>DL</b>) [<a href="http://www.deeplearningbook.org/">html book</a>]</li>
+        <li>Yoshua Bengio. Learning Deep Architectures for AI. [<a href="http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf">pdf paper</a>]</li>
+        <li>Juergen Schmidhuber. Deep Learning in Neural Networks: An Overview [<a href="http://arxiv.org/abs/1404.7828">pdf paper</a>]</li>
+        <li>L.J.P. van der Maaten, E.O. Postma, H.J. van den Herik. Dimensionality Reduction: A Comparative Review [<a href="http://pages.iai.uni-bonn.de/zimmermann_joerg//dimensionality_reduction_a_comparative_review.pdf">pdf paper</a>]</li>
+        <li>Yoshua Bengio, Aaron Courville, and Pascal Vincent. Representation Learning: A Review and New Perspectives [<a href="http://pages.iai.uni-bonn.de/zimmermann_joerg//dimensionality_reduction_a_comparative_review.pdf">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-01-22</td>
+    <td>Linear classification methods I</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>EoSL 3 &amp; 4</li>
+        <li>Cosma Rohilla Shalizi. <i>Advanced Data Analysis from an Elementary Point of View</i>. Book in preparation. [<a href="http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/">book pdf</a>]</li>
+        <li>Gyorfi, Laszlo, Michael Kohler, Adam Krzyzak and Harro Walk (2002). <i>A Distribution-Free Theory of Nonparametric Regression</i>. New York: Springer-Verlag. [<a href="http://web.stanford.edu/class/ee378a/books/book1.pdf">book pdf</a>]</li>
+        <li>Simonoff, Jeffrey S. (1996). <i>Smoothing Methods in Statistics</i>. Berlin: Springer-Verlag. [<a href="http://link.springer.com/book/10.1007%2F978-1-4612-4026-6">book pdf</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-01-25</td>
+    <td>Linear classification methods II</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>EoSL 3 &amp; 4</li>
+        <li>Buja, Andreas, Trevor Hastie and Robert Tibshirani (1989). “Linear Smoothers and Additive Models.” Annals of Statistics, 17: 453–555. [<a href="http:// projecteuclid.org/euclid.aos/1176347115. doi:10.1214/aos/1176347115">paper</a>]</li>
+        <li>Ye, Jianming (1998). “On Measuring and Correcting the Effects of Data Mining and Model Selection.” Journal of the American Statistical Association, 93: 120–131. doi:10.1080/01621459.1998.10474094. [<a href="http://www.tandfonline.com/doi/abs/10.1080/01621459.1998.10474094#.VpgGFmRhlE4">paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-01-27</td>
+    <td>Random forests and gradient boosting</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>EoSL 10 &amp; 15</li>
+        <li>Breiman, L. (2001). Random forests, Machine Learning 45: 5–32. [<a href="http://link.springer.com/article/10.1023%2FA%3A1010933404324">paper</a>]</li>
+        <li>Friedman, J., Hastie, T. and Tibshirani, R. (2000). Additive logistic regression: a statistical view of boosting (with discussion), Annals of Statistics 28: 337–307. [<a href="https://projecteuclid.org/euclid.aos/1016218223">paper</a>]</li>
+        <li>Friedman, J. (2001). Greedy function approximation: A gradient boosting machine, Annals of Statistics 29(5): 1189–1232. [<a href="https://projecteuclid.org/euclid.aos/1013203451">paper</a>]</li>
+        <li>Buhlmann, P. and Hothorn, T. (2007). Boosting algorithms: regularization, prediction and model fitting (with discussion), Statistical Science 22(4): 477–505. [<a href="https://projecteuclid.org/euclid.ss/1207580163">paper</a>]</li>
+        <li>randomForest: Breiman and Cutler's Random Forests for Classification and Regression. [<a href="https://cran.r-project.org/web/packages/randomForest/index.html">R package</a>] </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-02-01</td>
+    <td>Support vector machines I</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>EoSL 12</li>
+        <li>Burges, C. (1998). A tutorial on support vector machines for pattern recognition, Knowledge Discovery and Data Mining 2(2): 121–167. [<a href="http://research.microsoft.com/pubs/67119/svmtutorial.pdf">pdf</a>]</li>
+        <li>Vapnik, V. (1996). <i>The Nature of Statistical Learning Theory</i>, Springer, New York. [<a href="http://link.springer.com/book/10.1007%2F978-1-4757-3264-1">book pdf</a>]</li>
+        <li>Wahba, G., Lin, Y. and Zhang, H. (2000). GACV for support vector machines, in A. Smola, P. Bartlett, B. Scholkopf and D. Schuurmans (eds), Advances in Large Margin Classifiers, MIT Press, Cambridge, MA., pp. 297–311. [<a href="http://www.stat.wisc.edu/~wahba/ftp1/GACVforSVM.pdf">pdf</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-02-03</td>
+    <td>Support vector machines II</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>EoSL 12</li>
+        <li>Chang, Chih-Chung, and Chih-Jen Lin. "LIBSVM: A library for support vector machines." ACM Transactions on Intelligent Systems and Technology (TIST) 2.3 (2011): 27. [<a href="http://dl.acm.org/citation.cfm?id=1961199">pdf</a>, <a href="https://www.csie.ntu.edu.tw/~cjlin/libsvm/">website</a>]</li>
+        <li>Karatzoglou, Alexandros, David Meyer, and Kurt Hornik. "Support Vector Machines in R." Journal of Statistical Software 15.09 (2006). [<a href="http://www.jstatsoft.org/article/view/v015i09">pdf</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-02-04</td>
+    <td>Problem Set #1 Due</td>
+    <td>
+      <b>[<a href="psets/pset01/pset01.pdf">Problem Set #1</a>]</b><br>
+      [<a href="http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml">NYC Taxi Data</a>]<br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-02-08</td>
+    <td>Introduction to Neural Networks I</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 6.1-6.2</li>
+        <li>Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015.  [<a href="http://neuralnetworksanddeeplearning.com/">html tutorial</a>]</li>
+        <li>MNIST Database of Handwritten Digits [<a href="http://yann.lecun.com/exdb/mnist/">data files</a>] http://yann.lecun.com/exdb/mnist/</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-02-10</td>
+    <td>Introduction to Neural Networks II</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 6.3-6.4</li>
+        <li>Hinton, GE; Osindero, S; Teh, YW (Jul 2006). "A fast learning algorithm for deep belief nets.". Neural computation 18 (7): 1527–54. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/16764513">pdf paper</a>]</li>
+        <li>Bengio, Yoshua; Lamblin, Pascal; Popovici, Dan; Larochelle, Hugo (2007). "Greedy Layer-Wise Training of Deep Networks". Advances in Neural Information Processing Systems: 153–160. [<a href="http://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf">pdf paper</a>]</li>
+        <li>Ranzato, MarcAurelio; Poultney, Christopher; Chopra, Sumit; LeCun, Yann (2007). "Efficient Learning of Sparse Representations with an Energy-Based Model". Advances in Neural Information Processing Systems. [<a href="http://yann.lecun.com/exdb/publis/pdf/ranzato-06.pdf">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-02-11</td>
+    <td>Problem Set #2 Due</td>
+    <td>
+      <b>[<a href="psets/pset02/pset02.pdf">Problem Set #2</a>]</b><br>
+      [<a href="http://labrosa.ee.columbia.edu/millionsong/">Million Song Dataset</a>]<br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-02-15</td>
+    <td>Back-propagation</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 6.4</li>
+        <li>Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. "Learning representations by back-propagating errors." Cognitive modeling 5 (1988): 3. [<a href="http://www.nature.com/nature/journal/v323/n6088/pdf/323533a0.pdf">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-02-17</td>
+    <td>Gradient Descent</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 8.1-8.3</li>
+        <li>Saxe, A. M., McClelland, J. L., and Ganguli, S. (2013). Exact solutions to the nonlinear dynamics of learning in deep linear neural networks. In ICLR. [<a href="http://arxiv.org/abs/1312.6120">pdf paper</a>]</li>
+        <li>Goodfellow, I. J., Vinyals, O., and Saxe, A. M. (2015). Qualitatively characterizing neural network optimization problems. In International Conference on Learning Representations. [<a href="http://arxiv.org/abs/1412.6544">pdf paper</a>]</li>
+        <li>Choromanska, A., Henaff, M., Mathieu, M., Arous, G. B., and LeCun, Y. (2014). The loss surface of multilayer networks. [<a href="http://arxiv.org/abs/1412.0233">pdf paper</a>]</li>
+        <li>Dauphin, Y. and Bengio, Y. (2013). Stochastic ratio matching of RBMs for sparse high-dimensional inputs. [<a href="http://papers.nips.cc/paper/5022-stochastic-ratio-matching-of-rbms-for-sparse-high-dimensional-inputs">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-02-18</td>
+    <td>Problem Set #3 Due</td>
+    <td>
+      <b>[<a href="psets/pset03/pset03.pdf">Problem Set #3</a>]</b><br>
+      [<a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>]<br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-02-22</td>
+    <td>Adaptive Learning</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 8.4</li>
+        <li>Jacobs, R. A. (1988). Increased rates of convergence through learning rate adaptation. Neural networks, 1(4), 295–307. [<a href="http://www.sciencedirect.com/science/article/pii/0893608088900032">pdf paper</a>]</li>
+        <li>Kingma, D. and Ba, J. (2014). Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980. [<a href="http://arxiv.org/abs/1412.6980">pdf paper</a>]</li>
+        <li>Tom Schaul, Ioannis Antonoglou, D. S. (2014). Unit tests for stochastic optimization. International Conference on Learning Representations. [<a href="http://arxiv.org/abs/1312.6055">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-02-24</td>
+    <td>Introduction to Theano</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>Bergstra, James, et al. "Theano: a CPU and GPU math expression compiler." Proceedings of the Python for scientific computing conference (SciPy). Vol. 4. 2010. [<a href="http://www-etud.iro.umontreal.ca/~wardefar/publications/theano_scipy2010.pdf">pdf paper</a>]</li>
+        <li>Bastien, Frédéric, et al. "Theano: new features and speed improvements." arXiv preprint arXiv:1211.5590 (2012). [<a href="http://arxiv.org/abs/1211.5590">pdf paper</a>]</li>
+        <li>Theano library [<a href="http://deeplearning.net/software/theano/">website</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-02-25</td>
+    <td>Problem Set #4 Due</td>
+    <td>
+      <b>[<a href="psets/pset04/pset04.pdf">Problem Set #4</a>]</b><br>
+      [<a href="http://ufldl.stanford.edu/housenumbers/">Street View House Numbers (SVHN)</a>]<br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-02-29</td>
+    <td>Computer Vision</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 12.2</li>
+        <li>Davis, A., Rubinstein, M., Wadhwa, N., Mysore, G., Durand, F., and Freeman, W. T. (2014). The visual microphone: Passive recovery of sound from video. ACM Transactions on Graphics (Proc. SIGGRAPH), 33(4), 79:1–79:10. [<a href="https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf">pdf paper</a>]</li>
+        <li>Krizhevsky, A., Sutskever, I., and Hinton, G. ImageNet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems 25 (NIPS 2012). [<a href="http://papers.nips.cc/paper/4824-imagenet-classification-w">pdf paper</a>]</li>
+        <li>Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "Generative adversarial nets." Advances in Neural Information Processing Systems, pp. 2672-2680. 2014. [<a href="http://arxiv.org/pdf/1406.2661.pdf">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-03-05</td>
+    <td>Convolution Neural Networks</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 9.1-9.2</li>
+        <li>Ciresan, Dan; Meier, Ueli; Schmidhuber, Jürgen (June 2012). "Multi-column deep neural networks for image classification". CVPR 2012. [<a href="http://arxiv.org/abs/1202.2745v1">pdf paper</a>]</li>
+        <li>Deng, Jia, et al. "Imagenet: A large-scale hierarchical image database." Computer Vision and Pattern Recognition, 2009. CVPR 2009. [<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5206848">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-03-07</td>
+    <td>Pooling in CNNs</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 9.3-9.4</li>
+        <li>Boureau, Y., Ponce, J., and LeCun, Y. (2010). A theoretical analysis of feature pooling in vision algorithms. In Proc. International Conference on Machine learning (ICML 2010). [<a href="http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_BoureauPL10.pdf">pdf paper</a>]</li>
+        <li>Boureau, Y., Le Roux, N., Bach, F., Ponce, J., and LeCun, Y. (2011). Ask the locals: multi-way local pooling for image recognition. In Proc. International Conference on Computer Vision (ICCV 2011) [<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6126555">pdf paper</a>]</li>
+        <li>Jia, Y., Huang, C., and Darrell, T. (2012). Beyond spatial pyramids: Receptive field learning for pooled image features. In Computer Vision and Pattern Recognition (CVPR). [<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6248076">pdf paper</a>]</li>
+        <li>Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., and Rabinovich, A. (2014). Going deeper with convolutions. Technical report, arXiv:1409.4842. [<a href="http://arxiv.org/abs/1409.4842">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-03-09</td>
+    <td>Unsupervised CNNs and Transfer Learning</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 14.2</li>
+        <li>Glorot, X., Bordes, A., and Bengio, Y. Deep sparse rectifier neural networks. (AISTATS 2011). [<a href="http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf">pdf paper</a>]</li>
+        <li>Mesnil, G., Dauphin, Y., Glorot, X., Rifai, S., Bengio, Y., Goodfellow, I., Lavoie, E., Muller, X., Desjardins, G., Warde-Farley, D., Vincent, P., Courville, A., and Bergstra, J. (2011). Unsupervised and transfer learning challenge: a deep learning approach. [<a href="http://ww.mtome.com/Publications/CiML/CiML-v7-book.pdf#page=119">pdf paper</a>]</li>
+        <li>Goodfellow, I. J., Courville, A., and Bengio, Y. (2011). Spike-and-slab sparse coding for unsupervised feature discovery. In NIPS Workshop on Challenges in Learning Hierarchical Models. [<a href="http://arxiv.org/abs/1201.3382">pdf paper</a>]</li>
+        <li>Yosinski, Jason, et al. "How transferable are features in deep neural networks?." Advances in Neural Information Processing Systems. 2014. [<a href="http://arxiv.org/abs/1403.6382">pdf paper</a>]</li>
+        <li>Donahue, Jeff, et al. "Decaf: A deep convolutional activation feature for generic visual recognition." arXiv preprint arXiv:1310.1531 (2013). [<a href="http://arxiv.org/abs/1310.1531">pdf paper</a>]</li>
+        <li>Razavian, Ali S., et al. "CNN features off-the-shelf: an astounding baseline for recognition." Computer Vision and Pattern Recognition Workshops (CVPRW). [<a href="http://arxiv.org/abs/1411.1792">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-03-10</td>
+    <td>Problem Set #5 Due</td>
+    <td>
+      <b>[<a href="psets/pset05/pset05.pdf">Problem Set #5</a>]</b><br>
+      [<a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10/CIFAR-100</a>]<br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-03-28</td>
+    <td>ILSVRC 2015 &amp; MS COCO - Object Detection</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>He, Kaiming, et al. "Deep Residual Learning for Image Recognition." arXiv preprint arXiv:1512.03385 (2015).  [<a href="http://arxiv.org/abs/1512.03385">pdf paper</a>] </li>
+        <li>Misra, Ishan, Abhinav Shrivastava, and Martial Hebert. "Watch and learn: Semi-supervised learning of object detectors from videos." arXiv:1505.05769 (2015).  [<a href="http://arxiv.org/abs/1505.05769">pdf paper</a>] </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-03-30</td>
+    <td>ILSVRC 2015 &amp; MS COCO - Object Localization</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>Ren, Shaoqing, et al. "Faster R-CNN: Towards real-time object detection with region proposal networks." NIPS (2015).  [<a href="http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks">pdf paper</a>] </li>
+        <li>Dai, Jifeng, Kaiming He, and Jian Sun. "Instance-aware Semantic Segmentation via Multi-task Network Cascades." arXiv preprint arXiv:1512.04412 (2015).  [<a href="http://arxiv.org/abs/1512.04412">pdf paper</a>] </li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-03-31</td>
+    <td>Problem Set #6 Due</td>
+    <td>
+      <b>[<a href="psets/pset06/pset06.pdf">Problem Set #6</a>]</b><br>
+      [<a href="http://image-net.org/challenges/LSVRC/2015/">ILSVRC</a>]<br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-04-04</td>
+    <td>Deep Residual Learning</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 20</li>
+        <li>Theis, L., van den Oord, A., and Bethge, M. (2015). A note on the evaluation of generative models. arXiv:1511.01844. [<a href="http://arxiv.org/abs/1511.01844">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-04-06</td>
+    <td>Moving Images</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>Jiang, Yu-Gang, et al. "Exploiting Feature and Class Relationships in Video Categorization with Regularized Deep Neural Networks." arXiv preprint arXiv:1502.07209 (2015). [<a href="http://arxiv.org/abs/1502.07209">pdf paper</a>]</li>
+        <li>Ye, Guangnan, et al. "Eventnet: A large scale structured concept library for complex event detection in video." (2015) [<a href="http://dl.acm.org/citation.cfm?id=2806221">pdf paper</a>] </li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-04-07</td>
+    <td>Problem Set #7 Due</td>
+    <td>
+      <b>[<a href="psets/pset07/pset07.pdf">Problem Set #7</a>]</b><br>
+      [<a href="http://mscoco.org/dataset/">MS COCO</a>]<br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-04-11</td>
+    <td>Natural Language Processing</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 12.4</li>
+        <li>Schwenk, H. and Gauvain, J.-L. Connectionist language modeling for large vocabulary continuous speech recognition. (ICASSP 2002). [<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5743830">pdf paper</a>]</li>
+        <li>Schwenk, H. and Gauvain, J.-L.  Building continuous space language models for transcribing European languages. Interspeech (2005).  [<a href="http://www.tcstar.org/pubblicazioni/scientific_publications/Limsi_ottobre/IS052366.PDF">pdf paper</a>]</li>
+        <li>Schwenk, H. (2007). Continuous space language models. Computer speech and language, 21, 492–518. [<a href="http://www.sciencedirect.com/science/article/pii/S0885230806000325">pdf paper</a>]</li>
+        <li>Dauphin, Y., Glorot, X., and Bengio, Y. (2011). Large-scale learning of embeddings with reconstruction sampling. (ICML 2011). [<a href="http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Dauphin_491.pdf">pdf paper</a>]</li>
+        <li>Mnih, A. and Teh, Y. W. A fast and simple algorithm for training neural probabilistic language models. (ICML 2012) [<a href="http://arxiv.org/abs/1206.6426">pdf paper</a>]</li>
+        <li>Mnih, A. and Kavukcuoglu, K. Learning word embeddings efficiently with noise contrastive estimation (2013). [<a href="http://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-04-13</td>
+    <td>Word Embeddings</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>Bahdanau, D., Cho, K., and Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. Technical report, arXiv:1409.0473. [<a href="http://arxiv.org/abs/1409.0473">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-04-18</td>
+    <td>Recurrent Neural Networks</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>DL 10</li>
+        <li>Bengio, S., Vinyals, O., Jaitly, N., and Shazeer, N. (2015). Scheduled sampling for sequence prediction with recurrent neural networks. Technical report, arXiv:1506.03099. [<a href="http://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks">pdf paper</a>]</li>
+        <li>Pascanu, R., Gulcehre, Ç., Cho, K., and Bengio, Y.  How to construct deep recurrent neural networks. (ICLR 2014). [<a href="http://arxiv.org/abs/1312.6026">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-04-20</td>
+    <td>Dependency Parsers I</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>Chen, Danqi, and Christopher D. Manning. "A fast and accurate dependency parser using neural networks." Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP). Vol. 1. 2014.
+        [<a href="http://www-cs.stanford.edu/~danqi/papers/emnlp2014.pdf">pdf paper</a>]</li>
+        <li>Dahl, George E., et al. "Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition." Audio, Speech, and Language Processing (2012): 30-42. [<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5740583">pdf paper</a>]</li>
+        <li>Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2015. A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). [<a href="http://nlp.stanford.edu/pubs/snli_paper.pdf">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-04-21</td>
+    <td>Problem Set #8 Due</td>
+    <td>
+      <b>[<a href="psets/pset08/pset08.pdf">Problem Set #8</a>]</b><br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016-04-25</td>
+    <td>Dependency Parsers II</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+        <li>Ballesteros, Miguel, Chris Dyer, and Noah A. Smith. "Improved transition-based parsing by modeling characters instead of words with LSTMs." arXiv preprint arXiv:1508.00657 (2015). [<a href="http://arxiv.org/abs/1508.00657">pdf paper</a>]</li>
+        <li>Jonathan Berant and Percy Liang. 2015. Imitation Learning of Agenda-based Semantic Parsers. Transactions of the Association for Computational Linguistics. 3:545-558 [<a href="http://nlp.stanford.edu/pubs/berant-liang-tacl2015.pdf">pdf paper</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2016-04-27</td>
+    <td>Course review</td>
+    <td>
+      <b></b><br>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr class="success">
+    <td>2016-04-28</td>
+    <td>Problem Set #9 Due</td>
+    <td>
+      <b>[<a href="psets/pset09/pset09.pdf">Problem Set #9</a>]</b><br>
+    </td>
+    <td></td>
+  </tr>
+</table>
+</div>
+
+<!-- jQuery and Boostrap -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
