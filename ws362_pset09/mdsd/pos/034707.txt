@@ -1,0 +1,1 @@
+I think this is a great starting point for someone who already knows the basics of c++ and wants to learn the allegro library.  The examples are pretty good and progress in a logical way

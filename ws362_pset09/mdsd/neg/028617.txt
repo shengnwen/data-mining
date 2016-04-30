@@ -1,0 +1,1 @@
+The problem with using brain imaging to understand how it works is that currently all the published papers contain irreproducible data. This means that these nice papers show us more noise than real data, and 'contribute'  confusion rather than understanding. This book, like the rest of the  literature, 'deals' with this problem by simply ignoring it

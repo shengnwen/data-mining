@@ -1,0 +1,14 @@
+This book is primarily for architects. It's covers a broad swath of ground in generic sweeping terms. When it does touch metal it covers the development of a web application for a tablet PC, which appears as largely unchanged from what it would look like in a standard web development environment.
+ 
+ The books first three chapters present an introduction and a business case for mobile computing. The fourth and fifth chapters provide a very high level overview of mobile devices and their variety. An example of the level of depth is on page 72 where the author writes; &quot;Most, if not all, mobile devices have flat screens.&quot; 
+ 
+ Chapters seven, eight and nine cover, again at a very high level, application design for almost any thin client application. It could be web, or mobile, or whatever.
+ 
+ Chapter ten covers the waterfall development model. Which I found really off tangent. I thought from here we would dig down. Instead we are building another information tower about project management and requirements gathering.
+ 
+ Chapter eleven is a case study which is at the level of UML, data model, page flow, and use cases. Chapters twelve and thirteen are also case studies at a similar level.
+ 
+ To get the &quot;Full Microsoft .NET code examples for cell phones, Pocket PCs, and Tablet PCs&quot; you need to go to Appendix B, which is the first sign of code in the book.
+ 
+ Can't say I recommend this book at all. At the level this book covers mobile development it is not significantly different from web development. And for front-line coders this book provides no practical insight whatsoever. I gave it two stars because it provides some interesting facts about mobile bandwidth, and because I find the writing to be better than average. Shame that they couldn't have delved deeper into this fascinating topic.
+

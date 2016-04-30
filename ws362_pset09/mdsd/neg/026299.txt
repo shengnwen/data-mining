@@ -1,0 +1,34 @@
+Am I new to gauge theory: no.
+Why does he make me feel I am?
+
+Are these new generalized symbols really necessary to his treatment.
+Apparently the author  believes that rather than use words to explain
+theorems...
+He can rely almost entirely on this new set of symbols
+ that he has used to translate gauge theory to fiber bundles.
+Why is it that so many times
+the reader is the one who is made to do the work
+of teaching himself  and learning new "languages"
+when the author claims he will be teaching you?
+
+I feel that I have to warn the reader, that although he claims to be "mainstream"
+differential geometry,  he lies.
+he uses very non-standard ( at least for the papers I've read)
+notation and instead of starting at the simple gives the most abstract examples
+of the notation even in chapter "0".
+
+I grade this book as a "F"... way below even the worst
+group theory book I have by an English set of professors!
+I'm really as sorry as I can be, but he got me for the money,
+by false advertising...
+It is a very badly written book,
+more a "show off"... see what I can do book,
+than a I will teach you to understand book.
+I had to go back to other books to compare the notation
+so many times that I stack them with this book.
+I spent half a year plotting solitons in Mathematica,
+and I don't recognize anything in his treatment of them.
+Monopoles and Instantons are even worse in this book, if possible.
+It is not that I I don't believe he is using correct mathematics,
+it is just that it is so hard to tell if he is!
+Roger L. Bagula

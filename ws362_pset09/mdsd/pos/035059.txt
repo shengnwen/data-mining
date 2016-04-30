@@ -1,0 +1,1 @@
+This book presents a good overview of forensics but I do find myself hoping for something somewhat more comprehensive.  While it offers a good introduction, those who are more sincerely fascinated with forensics will find themselves searching for some more grounded and in-depth explorations of forensics

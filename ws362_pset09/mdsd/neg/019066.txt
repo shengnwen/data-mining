@@ -1,0 +1,1 @@
+Not to sound trite, but this book was written by Dummies.... the examples are not true to life, there are too many mistakes and the explaination of JavaScript is too complicated and overblown

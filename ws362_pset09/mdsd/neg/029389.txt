@@ -1,0 +1,9 @@
+This is one book that could have benefited from a firm critique while still in proposal form by someone cognizant of the concerns of the potential audience. 
+
+A book about a technology not ready for prime time cannot focus on code snippets. It must be an advocacy book, a book that speaks directly to us skeptics in the coding trenches. It must motivate the hard work entailed in learning a new tech by giving us a glimpse of a better future if we do. This book fails in that.
+
+The first concrete questions a knowledgeable person will want answered by the book is "How is XAML better than XUL? Can it do more or do it more easily?" The only mention of XUL is on page 4, where we are informed "XAML offers similar benefits to other markup-based application interface mechanisms such as XUL..."
+
+Well yes, "similar," except that XAML, unlike XUL, is not cross-platform, not implemented, and not tested in production applications. 
+
+This book found me a skeptic and left me an irritated skeptic

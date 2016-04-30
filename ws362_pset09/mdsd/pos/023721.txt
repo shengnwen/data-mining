@@ -1,0 +1,9 @@
+If you think that requirements are not all that necessary, this book might change your view: Before you build something, you should decide what you want to build. If you think you cannot start development until requirements are "complete," Davis will convince you that, since requirements change, requirements management is an ongoing activity. He breaks it down into three major areas:
+
+- Requirements elicitation (i.e. determining the actual needs of the stakeholders): This includes identifying ALL the stakeholders and also knowing when and how to apply different elicitation techniques. Davis comments on the proper use of modeling notations are really noteworthy.
+
+- Requirements triage (to balance the delivery date and the development budget against desired requirements): If you don't know what triage is, then you should probably read this book. Its importance (and the author's bias) is manifest when you realize that it has the longest chapter in this book. 
+
+- Requirements specification (i.e. documenting requirements): Davis advocates for the use of lists of discrete annotated requirements written in natural language just because natural language is the language of customers (and free text is not too manageable). Supporting models can also be sensibly used, but only for those parts of the system where the use of natural language would introduce too much risk, never to completely replace the written requirements.
+
+"Just Enough Requirements Management" ends with a reminder of change as an unavoidable fact. It also includes an extensive annotated bibliography for those interested in learning more about requirements, just after reading this cleverly-written book..

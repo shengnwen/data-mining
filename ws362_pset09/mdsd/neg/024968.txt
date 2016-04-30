@@ -1,0 +1,1 @@
+The book informs you of various sql commands, but fails to give you the general syntax.  If what you are trying to do has not been explicitely done in the book, it is unlikely to find what you are looking for in the book.  The book is truly a workbook, and nothing else, and should not be purchased as an oracle sql refrence book

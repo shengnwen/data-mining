@@ -1,0 +1,4 @@
+While Stephen Davis is obviously a very competent programmer his teaching skills leave something to be desired. His treatment of the subject of C++ seemed to be more than a little backwards. He goes into great detail about the easy to understand concepts of C++, but when covering the more advanced topics he seems to become preoccupied with making feeble attempts at humor and Nacho Analogies. For me this was more than a little distracting while trying to understand complex programming concepts.
+
+After struggling with the book and code examples for a couple of months I was able to write and compile very trivial programs such as "Hello World".
+Maybe I am not cut out for computer programming so I gave up and decided to put the book on my shelf where it has been collecting dust since

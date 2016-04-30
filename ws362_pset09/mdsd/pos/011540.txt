@@ -1,0 +1,13 @@
+I was just checking the math on page 3 on the "Great Pyramid, Earth/Moon" geometry and found much of it to check out ok but there is one statement that the perimeter of a square with one side equal to the diameter of the Earth (4 x 7920 miles = 31680) equals the perimeter of a circle with a radius of the combined radii of the Earth and the Moon (3960 + 1080 = 5040 miles)and using 2xPIxr I get 38453 miles which really isn't equal at all. I found that you had to define the radius of the Earth as unity (1) and then using the Earth/Moon ratios that fall out from that would give a result where the circle is squared and the numbers do add up. That should have been explained more clearly.
+
+Then when I compute 11!-7! I get 399170 on my calculator and when I ask Google to compute it for me they return that same answer. But on page 3 the author somehow gets 7920, which is amazingly, the diameter of the earth in miles. 11x10x9x8 does = 7920 which is amazing enough. Maybe it is the difference between (11!-7!) versus (11!) - (7!). I can't find any online factorial math tutorials to explain to me whether there is a difference. I wish the book was more clear on this. (update: I think it is a typo... if he meant to say 11!/7! all is well and good).
+
+
+The book is filled with all sorts of little drawings and interesting tidbits and I am pretty sure that I am going to have all kinds of fun double checking this and verifying that....
+
+Well worth the 8 bucks or so that Amazon is asking.
+
+
+
+
+

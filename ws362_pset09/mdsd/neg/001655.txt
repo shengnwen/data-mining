@@ -1,0 +1,1 @@
+I bought the book thinking it would be a practical introduction on how to apply CMMI to your company hence I was very disappointed to find out the authors have limited themselves only to summarize the CMMI models. Few real explication is given about concepts within the CMMI models, neither any real life experience is shared that could help you implement CMMI

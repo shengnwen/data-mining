@@ -1,0 +1,2 @@
+Coming from a developer background, I found this book useful and I've appreciated also the pages devoted to concepts most experienced network administrators may consider obvious. 
+Also I was not surprised to see some of the technologies were not covered into deep detail. This book covers many aspects of networks so it must stay general sometimes to come to an end. Delve into each detail is best done by more specific books targeting just one topic, e.g. PKI and so on.

@@ -1,0 +1,19 @@
+The book reiterates e-mail etiquette (Netiquette) originally published by Sally Hambridge as RFC1855, but adds valuable advices that are frequently overlooked by the other authors who write about e-mail etiquette in their books and web sites. Such advices are:
+
+-	If you don't have something to say, don't say it - not all e-mails deserve responses;
+-	Use internationally recognizable dates, and measurements when appropriate. (Is 3/9 meant to be read as March 9 or September 3?);
+-	Don't post "Action or Else" messages if action is irreversible;
+-	Use "For Your Information Only" tags (to the messages that require no action) to help others manage their e-mail volume;
+-	Don't forward messages without adding your own note to tell the recipient why;
+-	Keep one topic in each e-mail
+However, some of the author's suggestions seem to fit only dumb e-mail clients. Such suggestions are "highlight responses in colour to aid reading" or "cut and paste rather than big Reply on long, continuing e-mails". The e-mail clients like "The Bat!" that naturally support quoting have these problems already solved, the quotes there are automatically highlighted and you can type your reply paragraphs between the original text without being afraid of messing the lines.
+
+The author encourages composing clear, to-the-point messages. She proposes to highlight the readers' action, to not be cryptic, and to not remove the actors. By examples she helps to create informative subject lines that get quick responses and help readers prioritize.
+
+Seven pages of the book will tell you how to manage high-volume e-mail effectively. "Use last-in-first-out, group read later emails into a file and out of sight". I would recommend the book "Getting Things Done: The Art of Stress-Free Productivity" by David Allen who addresses the issue of stress-free e-mail management much better than Dianna Booher.
+
+In the chapters about writing on the paper or online, she proposes so-called "Descending Outline" and the MADE format (Message-Action-Detail-Evidence).
+
+She also mentions the "idea wheel" outlining method to arrange your thoughts, which is a simplified technique of Tony Buzan's "mind maps". I would like to recommend you "The Mind Map Book" Tony Buzan and the other books by this author to maximize your brain's untapped potential.
+
+A major chapter of this book is devoted to English grammar. You have probably learnt this at school, but a good repetition should still be helpful. The other big chapters are devoted to layout, clarity, conciseness and style, own chapter per each of the points. I will be working further on these grammar, clarity, conciseness and style chapters, and will be for sure re-reading them in future

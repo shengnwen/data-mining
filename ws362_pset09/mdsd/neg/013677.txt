@@ -1,0 +1,19 @@
+Maybe I'm too cynical because I never got to work for the successful, whiz-kid companies; Maybe this book wasn't written for me!
+
+This book reminds me of Jacobsen's "Use Cases" book of the 1990s. 'Use Cases' was all the rage but after several years, we slowly learned the truth: Uses Cases does not deal with the architecture - a necessary and good foundation for any piece of software.
+Similarly, this book seems to be spotlighting Testing and taking it to extremes.
+
+'the test plan is the design doc' 
+Not True. The design doc encapsulates wisdom and insight
+a picture that accurately describes the interactions of the lower level software components is worth a thousand lines of code-reading.
+
+Also present is an evangelistic fervor that reminds me of the rah-rah eighties' bestseller, "In Search Of Excellence" by Peters and Waterman. (Many people have since noted that most of the spotlighted companies of that book are bankrupt twenty five years later).
+
+- in a room full of people with a bully supervisor (as I experienced in my last job at a major telco) innovation or good work is largely absent.
+
+- deploy daily - are you kidding?
+to run through the hundreds of test cases in a large application takes several hours if not days. Not all testing can be automated.
+
+- I have found the principle of "baby steps", one of the principles in the book, most useful in my career - it is the basis for prototyping iteratively. However I heard it described in 1997 at a pep talk at MCI that the VP of our department gave to us. So I dont know who stole it from whom!
+
+Lastly, I noted that the term 'XP' was used throughout the book, and the back cover has a blurb from an M$ architect. Was it simply coincidence that Windows shares the same name for its XP release? I wondered if M$ had sponsored part of the book as good advertising for Windows XP! :)

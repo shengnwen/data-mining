@@ -1,0 +1,2 @@
+
+the book contains  good overall material , but the design part is totally confusing, the analog design is worst material i have ever studied. the chapters are in hapazard manner, the equations for the circuits appear from nowhere sometimes. this book is good for only a overall view. DO NOT USE THIS BOOK FOR ANY DESIGN REFERENCE . for analog design and CMOS fundamentals use Razavi , which is the best book ever

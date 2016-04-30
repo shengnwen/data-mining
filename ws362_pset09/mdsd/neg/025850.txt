@@ -1,0 +1,3 @@
+I bought this book based upon the experience I had with other Hacking Exposed books... but this one has disappointed me
+The examples are based on commercial tools only - while I'm certain that there are many open source tools available also.
+The book contains more than 100 pages of forms and explanations of the legal process, which is nice, but not what I would have expected from a Hacking Exposed book

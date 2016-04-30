@@ -1,0 +1,5 @@
+Hilariously, I found this book in a local library, in the section devoted to primary school and high school maths. I guess the "Algebra" in the title suggested this location to some librarian. Anyhow, not to worry. I informed the library and they will reshelve this book in a better place.
+
+And what of the book itself? It makes an excellent text for an undergrad maths course. In no small part because the authors have stuffed a huge number of exercises into each chapter. An intense workout for the dedicated reader, and a wide variety of choices to the instructor.
+
+Ring and module theories are developed at a fairly rigourous pace. While finite dimensional vector spaces are also covered, as a natural accompaniment. Some readers might be already familiar with its treatment of matrix manipulations and multilinearity. Indeed, the use of matrices may be more natural to you, when modules are discussed

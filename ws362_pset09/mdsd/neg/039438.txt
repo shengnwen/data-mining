@@ -1,0 +1,17 @@
+I don't like being so harsh, but I strongly advise you NOT purchase this book. My reason for this is the poor coverage of the material presented.
+
+The first three chapters were fine. The author was building logically, presenting material in a logical fashion. He demonstrated some simple queries, and described them clearly.  The examples were pretty basic, and served no signifcant purpose.
+
+Chapter 4 is where the wheels started to come off (and continued through to chapter 6).  With no explanation, or background material, terms and undocumented examples began to show up everywhere.  By the time the author got to event queries, it was obvious this was a lost cause.
+
+For example, page 70 of the book used an query example that included the additional clause "WITHIN 10". I skipped around through pages, checked the indexed (and non existant glossary), but couldn't find an explanation.  Eventually a check of MSDN explained what it was.
+
+The section describing 'associators' on page 83 and 'references of' on page 85 were ambigious. The code examples provided no clarity, nor explanation.
+
+I'm an experienced developer and administrator with 17 years in system's level programming.  I had picked up this book to help get my hands around the topic of WMI -- to assist our administrative staff managing DFS-Replication services.
+
+After two days, I've given up on the text, and purchased another more substantive manual "Developing WMI Solutions: A Guide to Windows Management Instrumentation". 
+
+BTW: So as not to completely trash this book, it does provide an excellant CD. There are a terrific number of tools, sample source code and script templates.  In addition, the CD includes an electronic version of the book, and an electronic copy of "Microsoft Windows Scripting Self-Paced Learning Guide". Also, the later chapters develop some more useful scripts. If you need a cook-book to drop in one of these, you may find it useful.
+
+In my advice, you'd be better off purchasing something else

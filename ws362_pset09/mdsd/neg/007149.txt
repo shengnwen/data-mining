@@ -1,0 +1,1 @@
+I'm a frustrated beginner at Javascript. This book is part of what frustrated me. It's not very clear, with not enough examples and not enough details all at the same time. Much later, after I put down this book in frustration, I picked up WROX press' &quot;Beginning Javascript,&quot; which I find much easier to follow. If only I had started with that book instead of this one

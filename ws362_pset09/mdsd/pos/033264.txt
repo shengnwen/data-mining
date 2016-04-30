@@ -1,0 +1,23 @@
+The `Rule of Three' is that in a naturally competitive and mature market, without excessive regulation, the market segregates into three domains. The first domain is defined by three major players, generalists who together control 70-90% of the market. The second domain comprises niche specialists, each a monopoly in a tight product or sub-market category (each specialist typically has a market share of 1-5%, but makes high margins due to its monopoly position). The third domain is termed the ditch. It consists of those companies with 5-10% of the market who lack the scale economies of the first group, or the niche focus of the second. The ditch can lead to bankruptcy or takeover. Consider the example of the shopping mall, anchored by the major department stores, the generalists, but with many niche shops along the mall corridors connecting them, with some of them clearly struggling.
+
+The rest of the book elaborates around these themes.
+
+Chapter 1 describes how, as a new industry develops, it attracts many entrants ensuring high growth, but low efficiency. After the inevitable shakeout of weaker players,  four factors then underpin further market developments: (i) overall standards such as GSM; (ii) an industry-wide cost-structure (e.g. the working through of economies of scale) and shared platform infrastructure such as the Internet; (iii) government intervention to remove barriers to trade; (iv) industry consolidation via mergers and acquisitions
+
+Chapter 2 focuses on the oligopolistic generalists - why should there be just three?  The authors argue that duopoly is unstable:  the two players either attack each other destructively or collude, attracting regulation. With three players, any two can cooperate against the third maintaining a balance of power. So why not four? The authors speculate that consumers value a manageable choice between three suppliers, but that further choice just creates `clutter', confusing the market. However, the dilution of market share with four major players can also lead to instabilities, driving the weakest into the ditch. The authors also warn against the number one player gaining too large a market share: past 40%, regulative scrutiny becomes more intense, the proportion of underperforming customers increases and growth becomes harder.
+
+The `Rule of Three' therefore represents a compromise between sufficient competition and sufficient market share, but it can be distorted by factors such as  regulated monopoly, major barriers to trade (e.g. in global markets), a high degree of vertical integration impeding consolidation, and a history of monopoly prior to deregulation.
+
+In Chapter 3 specialists and generalists are compared, while Chapter 4 examines the ditch - how specialist companies can grow into it by heedless expansion, and how weaker generalists can be pushed into it by more energetic competitors. Chapter 5 looks at Globalisation - as the `Rule of Three' emerges on a global scale, how can national champions avoid their overseas competitors driving them into the global ditch?
+
+Many executives will find Chapters 6 and 7 the most interesting, as they outline strategies for generalists and specialists. Chapter 8 describes a number of cases of disruptive change in the marketplace, but adds little to the analysis of market structure.
+
+Finally,  the concluding Chapter lists 22 surprisingly specific aphorisms which summarise the results of the authors' analysis. For example:
+
+·	If a market leader has c. 70% of the market, there is no room for a second generalist, but the situation is unstable.
+·	If the market leader has 50-70% of the market, there is no room for a third generalist, but one will eventually reappear.
+·	If a market leader has less than 40% of the market, there may be temporary room for a fourth generalist, but the ditch beckons.
+·	In a downturn, the battle between generalists 1 and 2 can send number 3 into the ditch while specialists remain unaffected.
+
+Overall, a review such as this cannot do justice to the wealth of detail, innumerable examples and the dense scattering of insights found throughout this book. Its weakness is in its very detail, it is sometimes hard to see the wood for the trees, and to extract the underlying theory (and surely there is a deeper theory trying to get out here). Although hardly a page-turner, the material is an essential real-world complement to the theoretical models in the textbooks. 
+

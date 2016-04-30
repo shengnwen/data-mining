@@ -1,0 +1,4 @@
+Sooner or later the "small" application you have developed using MySQL will grow, and yes, MySQL will have to be a bullet proof solution.
+This book has everything you need to know about what it takes to use MySQL seriously, either in corporate enviroments or web applications, just to use some examples.
+Even if your application is not very complex or big, with this book you will notice that MySQL has got a full suite of solutions packed with it that can help you maintain your database 24 x 7 or recover from an inevitable disaster.
+A MUST HAVE for the serious or wannabe MySQL administrator

@@ -1,0 +1,3 @@
+I was looking for a good treatment of not just what decisions need to be made (I knew those already) but realworld examples I could build on.
+
+Pages and pages of command line switches and API does NOT get OpenLDAP deployed

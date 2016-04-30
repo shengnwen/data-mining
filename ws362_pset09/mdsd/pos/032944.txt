@@ -1,0 +1,1 @@
+Desde el punto de vista de un desarrollador Java que quiere una buena introduccion a Spring, Hibernate, Eclipse y metodologias de desarrollo; y quiere enterarse de que manera pueden ayudarle a ser mas agil y productivo en el desarrollo, este es un excelente libro. Pero, para un desarrollador que ya tiene experiencia en ellos, no encontrara muchas novedades ni profundidad

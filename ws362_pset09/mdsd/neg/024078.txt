@@ -1,0 +1,1 @@
+This is a somewhat advanced reference text on wing aerodynamics and is definitely not for the beginner.  It assumes the reader has a considerable knowledge of mathematics, including a great deal of calculus.  On the other  hand, if one can filter out some of the dry math and retain the important  concepts, this is a book well worth having in your library

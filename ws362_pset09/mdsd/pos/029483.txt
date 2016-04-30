@@ -1,0 +1,1 @@
+This book will probably not make you a CPU designer/engineer, but will definitelly give you a solid understanding of what a processor is. Very easy to read and nicely organized.

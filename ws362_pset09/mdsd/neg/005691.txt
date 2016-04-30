@@ -1,0 +1,8 @@
+
+Compare to the first edition, major improvement include libraries of C++ code but unfortunately, lack of explanations.
+
+No offense to Mr.Shirley, but this book is riddled with errors, some of the materials provided at the end of each chapters were DIFFERENT from the code on the server. Not sure which one should be follow.
+
+If you intend to write you own path-tracer from scratch, I will definitely not recommend this book. Reading this book requires knowledge on much other theories, such as calculus, probability and other... which were very briefly mentioned in the text. 
+
+If you intend to understand global illumination and radiometry, I would recommend "Advanced Global Illumination" by Philip Dutre, Philippe Bekaert and Kavita Bala. This is a much better book which explains things clearly.

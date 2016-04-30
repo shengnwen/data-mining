@@ -1,0 +1,1 @@
+The author has provided us with a very good book that introduces many concepts in remote sensing and GIS related to datums and map projections.  The book is a great reference too

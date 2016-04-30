@@ -1,0 +1,5 @@
+A trifle surprising that no one else has already reviewed this book. Watt and Policarpo give a nice and current description of the advanced graphics. That are deployed in games. The narrative is a good combination of first principles physics and code examples and screen captures of rendered images. Of course, for motion, the images do this no justice. Still, even the static images should be inspiring to many readers.
+
+Many topics are included. Like how to simulate particle systems. Basically, by discretising Newton's Equations of motion for a set of objects. This has been done for decades in science and engineering. Neat how it is now feasible for gaming. Though one difference is that in gaming, the rendering of the objects has high importance. Whereas for research systems, this was often a minor consideration.
+
+Character animation is another well covered topic. Shows how to relieve the programmer from having to tediously code the motion of a human character in the game. With sophisticated skeletal frameworks that can be animated. An excursion into linear algebra and matrices

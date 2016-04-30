@@ -1,0 +1,1 @@
+This book clearly articulates basic concepts of credit risk modeling. At the same time it is mathematically rigorous. This book enables non mathematician with some (basic) knowledge in probability statistic to better understand and develop his risk management skills

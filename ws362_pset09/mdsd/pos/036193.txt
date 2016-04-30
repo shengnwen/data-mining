@@ -1,0 +1,5 @@
+This book is an excellent option for students taking their first course in Control systems. The topics are covered in a clear way, with many examples, and illustrations.
+
+This was one of the books I used back in college. The other one was Katsuhiko Ogata Modern Control Engineering. Both has been invaluable references. 
+
+I am an Electronics Engineering graduate and I have been working for the last 16 years as an Instrumentation, Automation, and Process Safety and Control Engineer for the Oil & Gas Industry. This book will be a useful reference if you are working with or studying Control Systems

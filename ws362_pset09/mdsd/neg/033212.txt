@@ -1,0 +1,3 @@
+I work for a chip company in the WiMAX space and we passed this one over for a training piece as there really isn't much on WiMAX in it. The editing and illustration seem a little out of joint as though its some sort of "formula book". Whats really missing is any reference to applications for WiMAX, that is, what is WiMAX to be used for? Who, exactly, would deploy WiMAX and why? The book spends 339 pages and doesn't really get to the point of the applicaitons for WiMAX. 
+
+It would have been real helpful if the author had actually interviewed some service providers to see how or where they would deploy WiMAX. Given all the other WiMAX books rushing to market, I give this one 2 stars.

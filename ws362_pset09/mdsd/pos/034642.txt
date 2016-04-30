@@ -1,0 +1,1 @@
+This book may not be suited for beginners.  It's a great addition to your arsenals if you are an advanced student majoring in Control systems or working in an industry with feedback control design emphasis. The added software is great for hands-on practical problem solving technique.

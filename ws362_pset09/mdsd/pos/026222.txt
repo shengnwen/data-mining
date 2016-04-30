@@ -1,0 +1,1 @@
+Mark Lutz is an excellent author and has several books in this series.  This is not the introductory guide to Python but a well organized reference guide.  You should consider 'Learning Python' from Lutz as an introduction.  This book provides in-depth statements of functionality with examples

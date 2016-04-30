@@ -1,0 +1,13 @@
+I just read Emergence in preperation for my oral qualifying exams for a Ph.D. in computer science and cognitive science. I disagree with many of the negative reviewers -- this book is well-worth the read. I share some frustration over this book due to the way it seems to scratch the surface. The book's strength seems to be in asking the right questions and pointing the way towards some future science of emergent behavior. 
+
+The book is too short for my taste -- in many of the later chapters Holland makes thought-provoking, deep remarks, without the follow-up and commentary that they leave me hoping for. But again, his main purpose seems to be in making people think about the issues. And he provides some formalisms that might be part of some future theory -- his constrained generating procedures (CGPs) and the variable "CGP-v" recall constructs such as the Turing machine for studying computability.
+
+The strengths of the book lie in:
+
+1) Discussion of the nature of modeling in science, and computer modeling in particular. This is discussed with clarity and pragmatism. 
+
+2) The beginnings of a framework in which to study emergence in multi-agent systems.
+
+3) Discussion of the importance of metaphor/analogy in the creative scientific process. I didn't expect this to appear in the book but it was very welcome, and especially appropriate due to the role played by Mitchell's and Hofstadter's "Copycat" model (of analog-making itself) as it motivates the expansion of CGPs to CGP-v's as the book progresses.
+
+Overall, I recommend this book highly to readers interested in the beginnings of this exciting new science, that really is in its infancy. I gave it 4 stars just because I felt like Holland had a lot more to say in the later chapters and left too much "as an exercise for the reader." I hope he does follow-on work that clarifies his vision for a future science of emergence

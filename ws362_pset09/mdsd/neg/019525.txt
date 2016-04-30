@@ -1,0 +1,1 @@
+Bob did an excellant job on Derivative Securities and a horrible job with this book.  All the tree pictures packed with discount bond prices, rates and risk neutral prob just confuse people even more.  Read Derivative  Securities and you would understand how HJM works better

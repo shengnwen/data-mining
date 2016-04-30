@@ -1,0 +1,3 @@
+I hate this book. All the book is the repetition of the same code with very, very few differences. The description lets argue that is pointed to advanced users but the content is so basic that is hard to believe. It uses SOAP in it's more basic fashion. The code is poor (also the HTML and the Javascript used). The code is written in a so invesive fashion that if you strip it (and is not a bad idea), you will find no more than 30 pages.
+The Multi-Tier is just supposed to be good and misuesed.
+As you may understand, I strongly advise to not buy this book

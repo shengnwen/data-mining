@@ -1,0 +1,5 @@
+It is rare for a book to be released chronicling the development of a chip or computer. The best known example is Tracy Kidder's "Soul of a New Machine", some 20 years ago. Colwell might be considered to offer a sequel. He explains how his group at Intel designed and produced several generations of Pentiums. 
+
+The narrative is drier than Kidder's. But goes into far more technical detail. Frankly, if you are not already an electrical engineer, then it will be hard to appreciate many passages. 
+
+People in the semiconductor industry should scrutinise this book. To you, the hardware problems will be familiar. The attraction is in how a large group was mobilised and managed, in delivering a very complex chip on time. There may be useful management tips for you

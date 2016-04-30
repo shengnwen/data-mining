@@ -1,0 +1,11 @@
+I wish I had read this book before embarking on my current project. Jan Axelson's "Embedded Ethernet and Internet Complete" gives a great introduction to connecting embedded devices to ethernet and via ethernet to the internet. It would have filled some gaps in my knowledge and saved me some grief further down the track. This is an excellent introduction to creating applications using ethernet capable embedded devices such as the 
+Rabbit Ethernet Module or TINI based systems.
+
+This book shows detailed examples of building embedded webservers, including those hosting dynamic data and gathering and using user input. In similar detail, the book has very useful chapters on e-mail and FTP applications on embedded systems.
+
+It even has a great chapter comparing a number of different MAC 
+controllers, that I wish I'd seen before choosing the one I'm currently using (it introduced me to one I hadn't seen before - that may have been better for my application than the chip I'm using). Unfortunately, that's about where the low level stuff stops. I was hoping for some examples and tips on communicating with these MAC controllers in an embedded environment with limited RAM and ROM resources. This book didn't go down to my level there. For those who are interested in this stuff, consider also buying "TCIP Lean" by Jeremy Bentham, which misses out on most of the stuff in this book, but covers the lower levels of talking to the MAC very well (the two books are, in fact, wonderful companions without too much duplication 
+between them).
+
+All in all, a book that definitely has a place on the bookshelf of anyone considering working with embedded intenet connected devices, particularly those with limited recent exposure to ethernet device and internet protocols. For me, it fell a little short of the possibly unreachable superlative "Complete". 
+

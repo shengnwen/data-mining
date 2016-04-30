@@ -1,0 +1,1 @@
+This is great book for beginners, and you have to get other one to get to intermediate level. Read it before you get some theoretical book like Eckel's. Good for people who already have idea about what is class, object etc

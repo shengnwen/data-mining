@@ -1,0 +1,15 @@
+The good
+1. This book has a coding style that is very reminiscient of some code one might find in UNIX books(perl, etc).  If you are transitioning, this might be a help.  I am not sure.  I am not a big Unix programmer.
+2. Many things are discussed in this book that are not discussed in other texts.  This book has a good focus on console code which is nice for a beginner.  Windows programming is not hard but like motif or tk, a solid understanding of the basics is good before delving into heavy UI programming.  
+
+The bad
+
+1. The code examples are extremely buggy and littered with potential buffer overflows and other mistakes which often make this seem like a guide on how not to program(especially in our security conscious society).
+2. The code examples are often efficient but rarely self-documenting.  Efficieny is usually best gained by better algorithms and gaining efficiency by tricks which make code harder to read should be left to after profiling the code and finding the bottlenecks.  Furthermore, things like synchronous I/O are the focus of these over optimizations (especially for a beginners book).  I/O programs are rarely CPU dependent and rarely gain benefits from brute force logical optimizations.  This is not the Zen of Assembly language and TINSTAFC (There Is no such thing as the fastest code) are not necessary here.  Books like Writing Solid Code by Steve McConnel should be required reading for any programmer.
+
+Both 1 and 2 do get better as the book progresses but be aware that the code is designed in ways that make buffer overflows likely.
+
+3. This book should not be called Windows System Programming.  The title is misleading and you will not find in depth kernel programming here.  Microsoft Windows Internals is much much better here(though it is by no means an introductory book).  System programming is often taken to mean internals programming.
+4. Most windows programs do not look like the code here.  Unfortunately, console programming is vastly different from programming using the standard Windows interface.  It is different on unix toolkits like XWindows or TK too.  I am not sure just focusing on console development is where a beginner should go.
+
+I am still reading and will probably update my comments later but so far this is what I see

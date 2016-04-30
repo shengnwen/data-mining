@@ -1,0 +1,1 @@
+This book does cover a good bit of the material included on the exam.  However, it omits quite a bit of it, too.  Passing the exam requires much expertise with networking principles, and this book does not come close to covering that subject

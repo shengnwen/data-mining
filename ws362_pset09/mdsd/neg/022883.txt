@@ -1,0 +1,9 @@
+I read it once and i liked it a lot but then the second time i started Coding along the lines. And i am sorry that i have to say this but the code just doenst work the way its in the book.
+
+The Code on the CD is a bit better but still there are things in that code that just wont let me compile it. I checked the Msdn and everything and its just not right.
+
+I wish this book had a website with corrections because the book itself is good and thats what leads me to write this. I liked reading the book and wanted to program the stuff so bad and so i expected more from the code in it.
+
+
+I hope this helps
+

@@ -1,0 +1,9 @@
+I first purchased and read "Agile Software Development with SCRUM" after talking at length with Ken Schwaber at a software development conference in 2001.  
+
+I find some of terminology used in the Scrum process to be a bit trite - such as "Pigs and Chickens" - but the approach itself is solid.  Overall, I'm sold on the process, and have employed many of Scrum's concepts in projects I've managed.
+
+Scrum focuses on delivering maximum quality and predictability of the software development process with minimum overhead.  The book is rather expensive given its length, but is a really good and thought-provoking introduction to a means of managing software development in way that empowers the folks who do the actual development while ensuring that those with a vested interest in the results get a reasonable quality deliverable (or deliverables) in a timely manner; and have a well defined means of tracking progress and providing guidance or feedback before it is too late for an off-track project to get back on course.
+
+Anyone working to start-up a new software development project should read this book, if for no other reason then to gain insights into what really matters when managing such a project; how to manage without needlessly burdening the team members, or destroying their creativity and enthusiasm; and how to ensure that external forces do not cause a project to spin out of control.
+
+On a final note - if you ever get a chance to hear Mr. Schwaber speak, definitely take the opportunity - though a bit salty, he is both entertaining and informative, and very good at responding to questions from his audience - well worth listening-to!

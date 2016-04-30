@@ -1,0 +1,1 @@
+Looks can deceive (title). It's a good book to learn all (almost) about windows CE but it's a pitty that only the last chapter treats a small piece of the .net approach. So if you are interested in learning windows CE in using the last visual studio 2005 beta this isn't the book need 

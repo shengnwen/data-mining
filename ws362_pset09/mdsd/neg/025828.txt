@@ -1,0 +1,12 @@
+Please have a look before you buy! Be sure to check 
+out the vacuous tables that inform us, for example, 
+that the "Suspend" operation"Suspends a task" and 
+so on for seven other task-related operations. This 
+is a quibble, but I think the lack of content in the 
+tables reflects a grave shortcoming of the book as 
+a whole: there's just not much there. In my opinion 
+part of the problem is lack of specificity. I wish 
+that the authors had focused on a single real operating 
+system (e.g. VxWorks) with actual code examples rather
+attempting the very difficult task of covering the 
+entire real-time operating system landscape

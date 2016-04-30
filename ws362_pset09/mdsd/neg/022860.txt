@@ -1,0 +1,5 @@
+Perhaps the most important questions at the end of each section are the true/false questions dealing with the concepts developed in the section. The computational problems are good for learning the algorithms but the true/false questions represent what you need to know. 
+
+After working through them and justifying your answers you turn to the back of the book and look for the correct solution but instead you find something like "Check your answers before referring to the study guide." Unfortunately the study guide is sold seperately so many people, including myself, choose not to buy it, nor should we have to. It makes the author seem like he cares more about selling book then teaching students.
+
+I took Linear Algebra as an online course and there it is even more important that the material in the text is learned from the reading, as there is no physical lecture to supplement it. I would be more understanding if the author included just the answers in the text and left the justifications for the study guide, but to plug the study guide instead is just plain irresponsible

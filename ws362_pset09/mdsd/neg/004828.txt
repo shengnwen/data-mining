@@ -1,0 +1,5 @@
+This book right from the very beginning contradticts itself, it is full of different code for different things and typos. 
+I created several pages just as they said in the book and all worked, but had nasty looking error codes all over them. 
+
+If you are a beginner, which with a title like this books i presume so, don't even think about getting this. Its difficult to follow at the best of times. 
+However all the code does work, just not well

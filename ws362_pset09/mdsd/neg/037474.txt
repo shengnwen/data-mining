@@ -1,0 +1,7 @@
+First of all, if you know anything at all about encryption, computer security, and things like that, the technical stuff in this book will have you laughing.  Dan Brown obviously didn't research the topic, or decided to rely on public ignorance.  That's not a slam on the public, though.  Cryptography, computer security, and the like are not trivial subjects.  Still, he clearly didn't know what is and isn't possible, and in several cases his attempt to define technical jargon was just plain wrong.
+
+The major characters in the story were extremely shallow and stereotypical.  What saved it character-wise was all the minor characters, who were somewhat interesting.  The locations and event descriptions were also good, and helped you envision what was happening.
+
+Technical and character issues aside, the overall storyline, while somewhat entertaining, was not even remotely plausible.  The climax of the story was outright laughable.  You have a bunch of genius techies and codebreakers trying to figure something out that is blatantly obvious to anyone with any math/science/technology background, but the ideas they run through are what you would see from "average Joe".  No problem if these were average Joes, but they weren't.
+
+So, I guess if you have nothing better to do and don't expect much realism or technical accuracy, I guess its as good a way to kill time as any

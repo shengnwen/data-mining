@@ -1,0 +1,1 @@
+Save your money.  It's mostly about MFC and there are much, much better books out there about MFC.  The references to the .NET platform are too casual to be of much value

@@ -1,0 +1,30 @@
+This little book is a joy to read. Logic is clearly explained and presented with almost no reference to any symbols or technical jargon. As McInerny explains, logic is the one subject that is lacking the most in schools yet it is the very foundation of education itself. To this foundation I would probably add grammar and rhetoric, since grammar allows one to grasp the structure of language which is needed before learning logic, while rhetoric teaches us the art of expression.
+
+This book would be perfect if it weren't for the fact that some parts of the book are somewhat based on the author's own philosophy and are not really part of logic per se. The section entitled, "Match Words to Ideas" on page 11 says this: "...we clarify the idea by checking it against the source in the objective world..." Doesn't this sound a lot like a verification principle? What is this "objective world" that can show us where our ideas can sometimes be unclear? And how do we check McInerny's suggestion of checking our ideas to the "objective world"? He seems to naively assert that people know what the "objective world" actually is so that anyone who doesn't present their ideas in complete conformity to whatever he thinks it is receives an accusation of being "careless." 
+
+Page 7: "To ensure that our ideas are clear, we must vigilantly attend the relationship between any given idea and its object. If it is a strained relationship, if the connection between the idea and its object is tenuous, then we are dealing with an unclear idea." 
+
+On page 12 he further says: "Our ultimate purpose should always be this: to so shape our language that it communicates to others the way things actually are--objective reality." McInerny seems to be subscribing to the early Wittgenstein's picture theory of language. Notice how he emphasizes the "connection" and "relationship" of an object to an idea that then links to a word; also notice how he says we ought to "shape our language" to conform to reality. Compare it to the Tractatus:
+
+2.13 To the objects correspond in the picture the elements of the picture. 
+
+2.131 The elements of the picture stand, in the picture, for the objects. 
+
+2.14 The picture consists in the fact that its elements are combined with one another in a definite way. 
+
+2.141 The picture is a fact. 
+
+2.16 In order to be a picture a fact must have something in common with what it pictures. 
+
+2.17 What the picture must have in common with reality in order to be able to represent it after its manner--rightly or wrongly--is its form of representation
+
+3.1431 The essential nature of the propositional sign becomes very clear when we imagine it made up of spatial objects (such as tables, chairs, books) instead of written signs
+
+
+McInerny, being a professor of philosophy, no doubt knows that it is entirely possible for one to be an idealist or even a solipsist without any logical contradiction, yet it seems McInerny wants to present the analytic tradition in a more favorable light over the existentialist tradition. He outrightly denies Idealism on page 7: "It is wrong to suppose that because we know things in the world only through ideas, it is only our ideas which we really know." Let the reader beware...
+
+Even with this bias though, McInerny's book is an excellent little tool for learning logical reasoning. Just keep in mind that his book contains a lot of his personal views and you'll be fine. Remember the words of Wittgenstein about the problem of correspondence between "objective reality" and language:
+
+"The difficulty of my theory of logical portrayal was that of finding a connection between the signs on paper and a situation outside in the world. I always said that truth is a relation between the proposition and the situation, but could never pick out such a relation." (19e-20e; quoted in Word and World, 71). 
+
+

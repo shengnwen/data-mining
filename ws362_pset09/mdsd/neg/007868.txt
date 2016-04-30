@@ -1,0 +1,7 @@
+I'll admit, I am a bit new to power Linux but I consider myself competent. The essential problem with the book is Jeff tries to present examples without any background or information. In chapter 3, the book jumps right into configuring UML from the host using 'uml_mconsole' withot telling the reader where to get it or how to compile it. This coupled with the lack of web resources associated with the book, makes it very hard to keep rolling with lessons. 
+
+Another example is the use of tap interfaces. tap interfaces don't just automagically appear when you start a linux box, they must be configured. Jeff makes no attempt to eductate the user on how to accomplish this and has no resource to go to for help.
+
+I am using CentOS4 with kernel 2.6.9-34. Perhaps not the most up-to-date version but it should be adequate. I would have expected to find some pointers to usable kernels and root filesystems with which to experiment. Instead I find I spend most of my time fetching kernels and packages and building what I need, not by instruction in the book, but by info found through a Google search.
+
+Who edited this book anyway? Did you even bother to try some of the "lessons" Jeff provided. I don't care that Jeff created UML, he doesn't hack it as an author. Spend your money on hookers and booze, the experience will certainly be more satisfying

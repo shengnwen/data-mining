@@ -1,0 +1,4 @@
+Now you may think that there are better books out there. And there maybe. However this book is a "five star" book. I bought this book for a beginning apache class. We were able to follow the instructions and down load the Apache server from the Internet. The only problem we had was with the NIS system that was not anticipated in this book. It was a lot more important to use this book to read the flat files and see how they were related to each other. The section on Extra Modules (chapter 12) gave a way to improve the server and go outside the scope of this book. This book covered more details than I was looking for; this ways different people can use the book to target their particular needs. You can safely say: 
+
+"This book has everything you need to set up an apache server." 
+

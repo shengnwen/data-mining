@@ -1,0 +1,5 @@
+This book is a wonderful blend of technical writing with allied history, story telling and myth. The author traces the evolution of code making and code breaking from historical times with interesting stories regarding their development and usage and the great minds who were behind the codes. 
+
+The author has a flair of explaining technical stuff to lay people. It was a pleasure to read through the technical details of codes right from the Vignerre cipher right upto RSA. There is even a chapter on decryption of Egyptian hieroglyphics and other lost languages, even though technically they are not codes (since they were not used to hide information). I loved the description of the German code machine used in WW2 and how it was broken, quite ingeniously, by Polish and British cryptoanalysts. There are even some exercises for budding cryptoanalysts.
+
+In summary, this book gets a wholehearted thumbs up and I now plan to read other books of the same author.

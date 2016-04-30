@@ -1,0 +1,3 @@
+I had high hope for this book because it was reasonably priced and I wanted to familiarize myself with SSIS. It turns out that this is more a book for folks who already know some things about SSIS. It still would have been useful to me except for the fact that most of the example code does not work. I even downloaded it from the publisher and it still doesn't work. Maybe the finished product is different from when the book was published but I couldn'd find any email address for the author and no way to report this problem. 
+
+I guess what they say is true, you get what you pay for

@@ -1,0 +1,6 @@
+I found the explanation quite thorough and easy to follow. The chapters are well organized to facilitate learning the various aspects of the J2EE container. 
+
+The free exam simulator is definitely worth it. 
+
+My only complain is the lack of attention to the code examples. There are numerous mistakes, mostly due to incorrect upper-case characters at the start of package names. Java is case-sensitive, so its important to turn-off the word-processor's auto-capitalization feature when writing a Java book. Other minor mistakes include incorrect syntax in several places. However, none of these are serious because any J2EE developer should have no problem recognizing such basic Java coding mistakes.
+ 

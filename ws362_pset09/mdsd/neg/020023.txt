@@ -1,0 +1,1 @@
+Overview of new Features of SQL Server 2005. Does not address non-new features at all. Even the new features is just overview level, I guess with BOL, who needs details?

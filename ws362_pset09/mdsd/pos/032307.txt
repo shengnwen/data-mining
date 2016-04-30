@@ -1,0 +1,36 @@
+With nearly 10 years of javascript programming behind me and not one single day dedicated to alert "hallo world" or prompt "tell me ur name" bagatelles, and with almost 15 javascript books purchased over those years at a rate of one per year, I guess I have an educated and somewhat reliable word, which can be trusted, to say about this book - and its various eidtions.
+
+When I first purchased an early edition, I thought the title was a bit conceited: a "Bible", you see.
+
+If some book of this series ever fully deserved such qualification, this can be only Mr. Goodman's book. I can't vouch for future editions, but I qualify for the past ones: this book is definitive.
+
+The book is divided into chapters that deal with the subject object by object. This is exactly what is expected for coping with a language like javascript that is arranged with properties and methods that work on objects. That's the correct approach, simply, under any point of view, educational included.
+
+For each object all the properties and methods get explained in an astonishing manner.
+It is important to stress that unlike some "core" manuals (I think of some Php), these explanations are not snappy or short: they are detailed. They do not assume you can guess what they don't say by working out the rest from parsimonious and cryptic sentences as many online manuals invariably do: they employ all the words it takes to be clear and detailed.
+
+It seems mr. Goodman has understood that in order to be terse and clear you haven't to be so short and so cryptic, but only as short as it is necessary and not a bit more - and never, never cryptic.
+
+The new editions cover, with the highest professionality, all the new DOM related methods, and this accounts for why new editions get released: because the language is subject to huge evolutions since it got connected with the DOM.
+If the latter evolves, the former has to follow, and mr. Goodman has to write more.
+
+The reason a few beginners say that this book is not for them is easily explained: the book deals, as I said, with javascript object by object. It starts like that _nearly_ immediately.
+
+So, it does not cover the basics (which pertain to any scripting language and not just to javascript) in real detail.
+
+That is, the book _implicitly_ presumes something (but not too much): it somewhat presumes you know what a loop via a "for" cycle is, it somewhat presumes you know what an "if/else" conditional check is, and it somewhat presumes you know, more or less at least, what an array is: a collection of variables each arranged as key versus value.
+
+It does not presume more. And it is not that it does not provide explanations for those topics at all: it is that for an _absolute_ beginner grasping the meaning of a loop can be daunting regardless of how many words you spend. This is no mr. Goodman's fault: it has been daunting for us all the first times in our lives we saw loops.
+You have to chew on them on your own, with a little bit of torment and agony, and nothing, not even tons of words, could really ever bridge the gap of unfamiliarity that the first blast gives to a novice.
+This is why mr Goodman, arguably, does not spend _that_ ton.
+
+Provided you have a minimal knowledge, this is your javascript book. Period. Nothing compares. That is. Simply.
+
+Provided you haven't such minimal knowledge yet the matter is as follows: you will have it in a few weeks finding some route of your own - we all did that way if you had no teacher as I hadn't.
+I learned what loops are on mr. Jason J. Manger (1996) manual, and if you complain it is difficult to understand loops from mr. Goodman, wait to understand them via mr. Manger's work as I did!
+
+And once you will have that understanding, this will be, again, your book, your defintive javascript book, after you trudged your way through those few weeks.
+
+All the javascript routes lead to this book, like all the ways in the ancient world were said to led into Rome.
+
+Alberto Vallin

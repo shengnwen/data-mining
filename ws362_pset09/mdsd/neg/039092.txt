@@ -1,0 +1,13 @@
+Leonardo's Laptop Response:
+
+I really dislike this book.  At first, I was looking forward to reading it.   I am very interested in technology's future, human computer interface design, and enabling better software through simplicity.  The combination of technology and artistry suggested by the title led me to believe that it would be an insightful volume pointing the way to a better computing.  Instead, this diatribe leads me only left with a feeling that the author is so full of himself as to be blind to the world around him.
+
+This book does address real issues.  As computing moves from the back server closet into the home, real changes have to be made.  Software today is complicated, and is frequently frustrating to use and learn.
+
+However, this author acts as if the computing world is ignorant of the cost of complexity.  His book falls short of actual ways to achieve these goals, has no recognition of the technological, economical, or social challenges involved, and totally fails to recognize the work of the past pioneers in achieving these goals.  He views computing solely from a consumer point of view, ignoring the vast gains in efficiency and choice made possible through the vast computing infrastructure supporting modern day life.
+
+As Schneiderman puts it, "old" computing is concerned with technology.  These researchers and practitioners are concerned with increasing speed, decreasing cost, and improving reliability.  In contrast, he views "new" computing as a focus on improving people's experience with technology.
+
+This is a perfect example of the author's lack of technical competence.  The only way that reliability is increased, user interfaces improved, and the experience of using a computer made more artistic and enjoyable is through improved computer speed and reliability.  As an example, the aesthetically pleasing effect (in the new iTunes version) of flipping through album covers relies upon powerful computing technology.  Schneiderman's dichotomy between "old" and "new," and downright distain for people interested in the former, is counter-productive.  In every field, there are different groups working on different problems.  While it is reasonable to argue for one's particular area of interest, it is incredibly narrow-minded to argue that it is the only field of interest.
+
+Lastly, I found the author's presentation of historical Leonardo anecdotes incidental to his arguments.  Rather than being the basis for the book, Schneiderman descends into the meaninglessness of arguing that Leonardo would "put man at the center" of the design process, or would like portable devices of different size screens. 

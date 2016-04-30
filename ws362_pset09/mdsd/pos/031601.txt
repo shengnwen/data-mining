@@ -1,0 +1,11 @@
+This book contains material suitable for high school instructors and those who teach mathematics in college where the level is before calculus. In my opinion, it fits best as either a resource for high school teachers or as a textbook in a course for prospective high school teachers.  Each of the five chapters covers a basic topic in great depth.
+ The topics are:
+
+*) Difference tables and polynomial fits - starting with a table of values and by using differences determine a polynomial that fits the data.
+*) Form and function - this chapter deals with the algebra of polynomials, how the arithmetic operators are applied to polynomials.
+*) Complex numbers, complex maps and trigonometry - the introduction of complex numbers and how they are plotted on a plane.
+*) Combinations and locks - an introduction to the counting principles used in combinatorics, the title problem is determining how many different combinations there are to a simple lock.
+*) Sums of powers - this chapter is devoted to the summing of the powers of the integers. These formulas are the classic formulas proven using mathematical induction.
+
+Each chapter concludes with a series of problems and solutions to many of them are given later in the book. 
+ This book is an excellent selection as a textbook for a course designed to train high school teachers. The material is broad enough to provide a background in many areas of instruction. It could also be used as a valuable tool for self-study if you have a need to learn any of the topics that are covered. 

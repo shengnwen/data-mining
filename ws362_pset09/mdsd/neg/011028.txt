@@ -1,0 +1,3 @@
+I did not find this book very useful.  I suppose I was looking for more of a book on Access and the application of relational databases.  I should have picked up "Grover Park George ON ACCESS" and avoided this one.
+
+However, even if I only had only wanted to learn the basics of relational databases, I should not have bought this book.  It has about 25% of the substance that I would expect from a book of its length.  The author explains every little thing over and over, and explains why he's explaining things, then provides more examples than necessary.  To me, this book was an unfortunate waste of time

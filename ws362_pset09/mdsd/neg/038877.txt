@@ -1,0 +1,7 @@
+A lot of effort has been put in this book by authors. Unfortunately its worth less. Book's title is hyped up like most books on eBay (big surprise - Any eBay book with big claims in title should be a red flag). In nut shell this book is basically collection of introduction to data collection tools that can be used for eBay. This information (with latest updates) is also available from vendor of tools. I question the value of this book - there is simple none. Here is how this book has failed:
+
+1. To start with what good does it bring for reader to copy information from web and put it in a book. There is even no comparison of tools !!!
+
+2. Authors lack any practical experience in data collection field or on running business on eBay. They have included some small pieces of information from consultants and sellers. But nothing that can add significant value. Reality check - consultants on site optimization are going to share their money milking plans!
+
+3. This book claims that it will help you turn eBay data into dollars (I translate it as saying that it will help you increase sales). In reality data collection tools are only tools. You need a strategy, plan and operating mechanism to take any data and convert into more sales. Beyond data collection the book is completely void of any suggestions on strategy

@@ -1,0 +1,5 @@
+Covers XSS (Cross-Site Scripting), SQL Injection hacks, and a bunch more!
+
+PROS: Doesn't get deep into code, but shows all the ways that people will peek and poke in your web apps. Covers IIS, Apache, ASP, PHP, CGI, and some CMS systems I've never heard about but Enterprise level teams may use.
+
+CON: The book is probably due for a second edition, only because it's a couple years old - but all info/issues/hacks are still issues today

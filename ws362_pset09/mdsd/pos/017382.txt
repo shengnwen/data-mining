@@ -1,0 +1,13 @@
+5 Stars.
+
+Material Selection in Mechanical Design, by Michael Ashby, is a fantastic book on materials and material selection.  I would recommend this book to anybody studying or practicing engineering or material science.  The insight provided is invaluable.
+
+The text presents a rational, systematic process for selecting materials in new designs or newly modified designs.  With this approach, gone are the days of almost randomly selecting a handfull of materials to study based on personal experience (which is woefully limited in all cases) or what materials might "feel" right.  This selection process brings us access to a broader range of materials for consideration as well as a previously unseen level of objectivity in our final selection.
+
+This book is well organized and well written, with theory, data tables/charts, and case studies all bundled into one.  The presentation is student friendly and the structure/layout is reference friendly.
+
+Also recommended are Michael Ashby's other material science books: 
+
+ - Engineering Materials 1: An Introduction to Properties, Applications and Design (with DRH Jones)
+
+ - Engineering Materials 2: An Introduction to Microstructures, Processing and Design (with DRH Jones)

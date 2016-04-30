@@ -1,0 +1,7 @@
+Here's the deal.  You can, in theory, do ASP.NET using a text editor like Notepad.  You don't have to use Visual Studio .NET.  If this appeals to you for some reason (perhaps you can't afford VS .NET, or you think IDEs are for wusses), this is the book for you.
+
+However, if you want to learn to write professional ASP.NET, and you have access to VS .NET, this book is a waste of your time.  It doesn't use code-behind, which separates the HTML from the VB .NET code.  Everything is in scripting blocks.  By writing ASP.NET that way, you're missing out on a lot of the debugging and Intellisense features of Visual Studio, as well as the benefits of separating the logic from the presentation.
+
+If you're a classic ASP developer and don't want to change your coding style much, this book might appeal to you.  But if you want to learn ASP.NET the way it was intended to be coded, stay away.
+
+By the way, the author's dedication note says the book was wrapping up in August 2001.  Given that the first version of Visual Studio was released in 2002, that means this book had to have been based on a beta, and apparently was never updated for the final release.  That in itself should scare you away

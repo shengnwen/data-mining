@@ -1,0 +1,4 @@
+If you are attracted to this title thinking that this will help you how make the jump from coding in VB/VBA for MS Office apps to coding in VB.NET you are in for a rude surprise.  This book is for programmers wanting to leverage their knowledge of C# to develop solutions for MS Office. 
+
+The book is okay as far as it goes for C# sharp, I guess.  But the failure in the book title and description to make clear what .NET language is being discussed is misleading.
+

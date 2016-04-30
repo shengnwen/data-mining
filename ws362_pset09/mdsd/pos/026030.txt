@@ -1,0 +1,7 @@
+IPv6 has been brooded over for a decade by various Internet groups. This book shows its present incarnation. It has grown very sophisticated; well beyond a simple vast expansion of the address space from 32 bits to 128 bits. So the text talks about the various tunnelling and routing options that become possible under it, that are unavailable under IPv4.
+
+Yet to me the most interesting section of the book is the chapter on transitioning from IPv4 [the current Internet] to IPv6. Every other technical issue about IPv6 pales in comparison to this quandry. The author gives the best value in the book in this chapter. He shows firstly that IPv4 will inevitably exhaust its space. Though he prudently refrains from speculating when that might be. The transition must also be incremental. No one expects a swift global change to be realistic.
+
+Then he explains that the modes of transition come down to analysing only 4 communication models for most common web usage. Namely email, Web browsing and two types of peer-to-peer usage. Examples of the latter are VoIP and BitTorrent. 
+
+From the models, we see the necessity for using a proxy or address translation to handle the transition. An especially clear analysis

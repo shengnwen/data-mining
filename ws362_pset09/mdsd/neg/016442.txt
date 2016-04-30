@@ -1,0 +1,5 @@
+I bought this book based on the review of others.  If this is really the best out there, somebody new needs to get started writing Excel books.
+
+IF you already know some programming concepts and IF you are willing to spend alot of time combing through the book, you might find what you are looking for.  I found just enough to put my old programming experience together with Excel's built-ins and alot of trial and error to get what I needed.
+
+The index is pathetic, clearly put together by a computer rather than a knowledgeable human being.  The examples are all focused on the formatting of cells or cutesy message boxes.  Message boxes can be useful, but if I only needed Excel to format data, I wouldn't need to write code

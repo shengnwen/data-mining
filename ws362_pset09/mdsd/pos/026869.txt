@@ -1,0 +1,1 @@
+Weinreich takes a somewhat unorthadox approach to the description the vector calculus in this text.  His geometrical derivations, however, provide wonderful insight into the true significance of the divergence,  gradient, and curl.  Shey's text (&quot;Div Grad Curl and All That&quot;)  taught me to perform the calculations, but Weinreich taught me what those  calculations mean

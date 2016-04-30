@@ -1,0 +1,5 @@
+As a semi-experienced C++ programmer, I found this book utterly useless. The book contains no full working program examples. What code is offered is so out-of-context as to be indecypherable. It makes no effort to get you up and running quickly.
+
+Definately of no use to someone who doesn't already know almost everything about C++ in Symbian OS. So, useless to everybody except academics and Symbian employees! If you do buy this anyway, prepare to read the whole book through 3 times, spend a lifetime in the forums and a fortune on coffee and headache pills, before you can approach a semblance of reasonable proficiency. 
+
+A beginners' book is due to be published in October 2005 by Symbian Press. Till then, stick with Java for mobile development unless your life depends upon it

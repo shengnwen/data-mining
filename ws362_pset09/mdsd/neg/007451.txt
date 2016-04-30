@@ -1,0 +1,1 @@
+This is an old book, and doesn't cover the newer SQLite 3.x information

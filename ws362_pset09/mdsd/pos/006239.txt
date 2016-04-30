@@ -1,0 +1,9 @@
+Another reviewer reported being dissapointed because the description of pi in the book was "obviously wrong stating that the diameter of a circle would wrap around the circle '3 and a little bit'" and "how can I trust this book knowing that the editors missed such a glaring error?"  
+
+It is this reviewer's comment that is 'very confusing' and misleading, not the content of the book.
+
+The definition of Pi is the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846... Euclid proved that this ratio (Circumference to diameter aka circumference to twice the radius) is always the same, no matter the size of the circle. What he did was inscribe similar regular polygons in any two circles. Then, he increased the number of sides of the inscribed regular polygons. He reasoned that as the number of sides increased, the perimeter of the inscribed polygon gets closer and closer to the circumference of the circle. He also showed that the perimeters of the similar polygons were proportional to the radii of the circles in which they were inscribed. And so, C is proportional to r, in other words C/r is a constant. By convention, pi=C/2r.  (I borrowed these particular words from Jim Loy's website, thanks JL!)
+
+Therefore, the statement the book makes is perfectly, mathematically true (QED!) albeit that it substitutes "a little bit" for 0.14159265358979323846... which I find perfectly acceptable for a children's book, don't you?
+
+p.s. I'm an engineer, too.  Cheers

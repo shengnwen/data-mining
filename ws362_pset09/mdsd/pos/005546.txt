@@ -1,0 +1,13 @@
+You can get Tivos for only a couple hundred dollars.  Many cable companies offer Tivo-like services for only $10-$20 extra a month.  Why would you want to undertake building your own PVR(Personal Video Recorder)?
+
+It is not to save money.  If you want to save money, your best bet is just to buy a commercial PVR.  It is about control!  Cable companies are putting additional controls on PVRs.  Sporting games can often only be kept for a preset amount of time.  Certian channels request the cable operator to only allow you to fast forward at 2X through their commercials.  And perhaps most importantly, what you record is locked away in your PVR's internal proprietary video format.
+
+None of these issues exist with Myth TV.  Myth TV is open source.  It is designed to have the features that its user base wants, not the features that the cable company and station providers want you to have.  It can export to a variety of open formats, which allows you to play your recorded movies from any of your home computers using regular software.  You can easily move your recorded video to devices such as an iPod, Archos, or other video player.  You are in control.
+
+Additionally, there is no subscription fee.  You download your channels from an open channel server. You do not need to pay some PVR company a monthly fee.
+
+Unfortunately, installing a Myth TV setup can be somewhat difficult.  You have to decide on your hardware.  Maybe you don't want a computer tower sitting in your family room.  If so you need to decide on some of the newer computer cases that are no bigger than the average DVD player.  What type of video capture card do you need?  The book walks you through your hardware choices.
+
+Software is another issue.  You can use one of the Linux distributions that is already designed to support Myth TV, or you can roll your own setup.  The book discusses how to setup for Myth.  You will need other packages, such as MySQL, a Linux distribution, and other packages.  This is all covered by the book.
+
+The book does a very good job of stepping you though each process and not assuming you are already an expert

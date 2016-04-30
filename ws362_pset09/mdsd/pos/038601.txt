@@ -1,0 +1,5 @@
+Grady explains what it means to validate and verify a complex engineering system. While much of it can be used by project and system engineers anywhere in the world, be aware that some sections are specific to the United States. For example, there is a recap on the US military standards and the US Department of Defense formats for verification and documentation. Hence, you will see frequent references to specific MIL-STD documents.
+
+Unsurprisingly, several of the examples are drawn from the US aerospace industry. 
+
+The book is not a light read. Reflecting the complexity of most realistic projects. There are many flowcharts, that greatly help in understanding the logic flow. The system verification is contained in several chapters dealing with system testing. There is an intricate methodology to try to test as many facets of the system as possible

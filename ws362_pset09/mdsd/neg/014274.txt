@@ -1,0 +1,3 @@
+I originally purchased this book for a graduate-level computer vision course.  I found the book more obfuscating than helpful.  For example, Trucco and Verri's discussion of PCA/SVD, a topic I know quite a bit about, left me confused and frustrated.  Unfortunately, their treatment of other topics is not any better.
+
+I have since used the book as a reference on a couple occasions.  My opinion of the book has been raised only slightly since my first read, taking my rating all the way up to two stars ;).  I suggest that you DO NOT waste your money on this book

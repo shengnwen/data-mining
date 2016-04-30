@@ -1,0 +1,3 @@
+Sorry, but I can not recommend this book to anyone who is looking for an agile way of handling schema evolution.
+
+To me the style of writing is boring and in no way adaptable to a real word model. 

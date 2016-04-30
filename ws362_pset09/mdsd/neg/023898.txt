@@ -1,0 +1,5 @@
+I must say that I do agree with the words of David Nightengale (Saint Paul, MN) that "If you want to know about accident prevention go to the System Safety Society".
+
+The book talks a lot on tight coupling, or dependence, of different parts of systems during different states (DEPOSE, design, equipment, procedures, operators, supplies and materials, and environment), but it all remains very qualitative. Safety and reliability engineers prefer quantitative approaches, which are abundantly available in the area of systems reliability. 
+
+The author does have an attractive style of writing. Especially the presentation on dam failures (the Grand Teton, the Malpasset and Vaiont dam failures) was interesting to read.

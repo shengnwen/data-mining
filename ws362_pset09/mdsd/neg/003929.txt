@@ -1,0 +1,9 @@
+500 pages of Win NT/2000 fundamentals in a SQL Server Architecture book. Come on, get real Ken Henderson.
+
+Almost zilch in the way of diagrams makes for very heavy going.
+
+I primarily bought the book to give me a total knowledge of SQL Server Architecture. I hadn't got far before I realised  that a high level description of the architecture was not going to be included because, according to the author, it had been covered in a previous book. Not good enough and I am asking the publishers for my money back.
+
+Also, treatment of things like explanations of XML in a SQL Server Architecture book ?  The author has done what no IT system should do ... not adhered to requirements which in this case are to explain SQL Server and Internals.
+
+All in all a disappointing experience

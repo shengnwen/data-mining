@@ -1,0 +1,1 @@
+The Oracle9i JDBC Programming book is better

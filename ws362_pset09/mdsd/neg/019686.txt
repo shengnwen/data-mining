@@ -1,0 +1,1 @@
+This book is a long winded explanation of the features of SharePoint 2003.  It provides redundent how tos with little explanation of how to do anything that is not vanilla out of the box.  I suggest simply becoming familar with the Administrative Guide that Microsoft produced.  You'll be you degree closer to the source and 33 dollars richer in the pocket.

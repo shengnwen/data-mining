@@ -1,0 +1,12 @@
+The book of Ecclesiastes says: "Is there any thing whereof it may be said, See, this is new? 
+It hath been already of old time, which was before us."
+The discovery reported in this book is no exception. 
+
+The mechanism of generating power law distributions, which Barabasi claimed to have discovered, and named "preferential attachment" has been long known.
+It first appears in the 1925 paper by Udny Yule, and was investigated by many researchers, most notably in 1955 by Herbert Simon. Yule's work was not unnoticed: it is described, for example, in the college textbook "Introduction to Probability Theory and its Applications" by William Feller. 
+
+Though mathematical description of "preferential attachment" appeared only in 20th century, the general idea was expressed long before.  Gospel according to Matthew quotes Jesus as saying "unto every one that hath shall be given, and he shall have abundance". Similar quotations appear in Luke's and Mark's Gospels.
+
+Barabasi does mention Jesus in his book, but only in the context that Christianity became so successful not because Jesus was son of God, but because Paul craftily spread it through his social networks.
+
+I think that scientists should stop this vanity of vanities and read the Bible

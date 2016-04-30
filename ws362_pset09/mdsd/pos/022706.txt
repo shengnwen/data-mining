@@ -1,0 +1,13 @@
+I passed my exam using this book, and nothing else beside it.
+
+Having stated that, let me point out a few things:
+
+1- This book covers EVERYTHING you need to know to pass the exam. No question on my exam was not covered somewhere in the book. I find it hard to judge whether the authors took it a little far with the extra material, or not, which brings me to the second point..
+
+2- The book is loooong !! It took me over 3 months to "study" the whole thing ! I know the BSCI exam is one of the hardest exams Cisco offers, but does the book need to be this long ? The Sybex Book wasnt .. and despite that, many of my friends used it, and passed the exam.
+
+3- The language is not very easy, or maybe the writing style wasnt very smooth. This book reminds me of "big" references that we used in college, vice short and to the point text books that sufficed with covering the Syllabus, and only that. This certainly is NOT a text book !!
+
+4- The labs at the end of each chapter ? What labs :-)
+
+5- To do the authors justice, I have to say that this book was worth every penny I spent on it. This may not be the best book to read if your sole concern is to pass the BSCI exam, but it certainly is THE book on routing ! If you're planning on becoming a CCIE one day, this is a must read. You will sweat a little, but it will be worthwhile. I will have to give it 4 stars, not 5, beacuse this is a Certification Self-Study, so it needs to address the length of the book as well as the easiness of the presentation. Otherwise, this is a highly recommended book for all networking professionals

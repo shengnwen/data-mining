@@ -1,0 +1,13 @@
+(I don't have time for a full review right now,so I will write a few comments and try to add to them.)
+
+I knew very little about XML, so this sounded promising.  As of Chapter 8, my general comments are:
+
+    1.  The teaching structure is often murky.  At many spots, the authors don't seem to grasp what a beginner needs to know first in order to go to the next step.  This makes the material unnecessarily difficult and confusing.
+
+    2.  Instead of one example page, for some reason the authors will sometimes create one XML page to illustrate a point, then create another completely different page to illustrate the next point, then go back to the first one for the next point, etc.  It's inexplicable.  The book would be much easier to follow, and probably easier to write, if they built one XML page from scratch and used/modified it throughout the book.
+
+    3.  There are too many editorial screw-ups, such as "Figures" that are labeled incorrectly or don't exist -- that is, the text will say "see Figure 7 for the output" and Figure 7 will be the wrong one.  I really have no patience with expensive books that don't bother to pay for one thorough copy-editing.
+
+    I am currently on Chapter 8 (XSLT), one of the worst-written ones.  After a completely unnecessary discussion about "procedural" versus "declarative" programming (I imagine every reader is at least basically familiar with css, and if not, it is hardly difficult to understand "declarative" programming), the book just starts throwing XLST terms at you, with no foundation as to what they are doing or why. I finally gave up and pulled up the online W3C tutorial.  This tutorial is free, covers most of the material, and is well-organized and easy to understand.  Teaching in logical order isn't that hard.
+
+    There is a ton of good information in "Beginning XML", and the information on how to find, install, and use software such as Saxon and Schematron is invaluable.  It is a shame that the authors didn't take the time to actually give the book to a few XML novices and then rewrite it as the introductory text it is supposed to be.  The poorly organized writing at least doubles, and often triples, the time, energy, and painful confusion needed to learn the material

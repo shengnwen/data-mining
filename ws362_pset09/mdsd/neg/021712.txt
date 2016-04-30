@@ -1,0 +1,50 @@
+	I loathed this book when I was an undergraduate student, more so than any
+	textbook I've ever encountered before or since. And what do you know? 
+	Reading it again, sixteen years later, I loathe it just as much. 
+	This was the book that instilled in me a hatred of everything and anything
+	to do with optics, a hatred that persists to this day.
+	It is the very fact that I hate optics so much that had me reading this 
+	book again. I figured that if I was to try to learn optics again, this 
+	time in a more pleasant fashion, perhaps the best way to start was to 
+	return to where it all began, to go over Hecht & Zajac again to see what 
+	they say, evaluate it in the light of my older, more knowledgeable me, and
+	remember essentially the points they cover for comparison when I read a 
+	better (ie any other whatsoever) text.
+	Just what is it that makes this book so very bad?
+	Any textbook can have convoluted physical explanations that make no sense.
+	Likewise any textbook can include plodding mathematical explanations that
+	get so worn down explaining basic and trivial points that by the time you 
+	reach their end you've forgotten what the goal was. 
+	Any textbook author can devote no time whatsoever to such pedagogical 
+	basics as making sure the material is ordered so that everything builds 
+	on what came before, and that a thorough overview is presented before the 
+	details are covered, of just what we are about to do and why.
+	Of course H&Z cover these basics with aplomb, but they manage to include 
+	two far more vicious pathologies. The first, usually only found in quantum 
+	mechanics books, is the historical pathology; they are so in love with the 
+	history of optics that they are unwilling to ever explain anything in 
+	modern (which usually means maxwellian) terms when they could explain it 
+	in some alternative fashion involving some historical picture from 1820 or 
+	1840 or whatever. The result is that instead of a coherent description of 
+	optics as maxwell's equations followed by a long sequence of teasing out 
+	the consequences of the equations, we see a constant hodge-podge of 
+	different theoretical models throughout the book, each appropriate to its
+	particular problem and little else. Don't get me wrong; I like history as 
+	much as (probably rather more so) than the next physicist, but I want a 
+	textbook on optics to teach me the optics; I'll learn the history from my 
+	history of optics textbook. We don't teach mechanics or heat or EM this 
+	way (for the most part) and for good reason.
+	The second H&Z pathology is specific to their text alone, and it is that 
+	they cannot get it through their thick skulls that they are writing a 
+	general optics textbook, not a (very poor) reference manual, not an 
+	experimentalist's handbook. The text is littered with bizarre asides about 
+	how to view the issue just discussed in some variant fashion, the point of
+	which, to anyone who is not an expert, is completely mystifying; it would 
+	be cruel of me to say so, but I'll do it anyway --- these inclusions seem 
+	very much to come across as a form of insecure boasting, a way of saying, 
+	"you think you're better than me? you think so? well what do you know 
+	about xyz's paper in 1963? do you know how to modify the theory of 
+	geometrical optics so as to give results just like standard diffraction
+	theory? no --- I thought so." 
+	If you can, in any way whatsoever, avoid this book. Read anything else at 
+	all to learn about optics

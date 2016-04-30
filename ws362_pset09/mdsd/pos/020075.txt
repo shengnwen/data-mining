@@ -1,0 +1,1 @@
+While this book covers all aspects for the CIW Site Designer Exam, it tends to concentrate on some aspects more then others.  For instance, it hardly covers databases, but it really goes in depth with FrontPage.  It appears the author leans toward certain applications more then others and has a slight bias.  Finally, I would recommend this book for those taking the exam

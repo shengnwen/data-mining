@@ -1,0 +1,1 @@
+If you are serious about VAR, then Holton's book should be on your bookshelf.  It goes beyond the basics repeated in numerous introductory books.  The more rigorous treatment here is for applying VAR, not just reading about the theory.  The result is to give the reader a strong skillset to quantify risk across the various products and exposures in consistent and disciplined ways.

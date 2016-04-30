@@ -1,0 +1,2 @@
+I am a part time programmer, making the transition from Access VBA to VB.Net. I don't have time to code in notepad and want to use all the productivity tools available (read Visual Studio 2003). This book gave me the basics for text boxes, combo boxes (big differences) etc. and provided good real world examples. Also the downloaded code worked and was easy to follow.
+Great job

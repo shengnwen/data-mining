@@ -1,0 +1,7 @@
+Ed Yourdon's Modern Structured Analysis is a classic, but the principles it covers are still valid today. Yourdon's treatment of the analysis techniques of ER Modeling, Data Dictionaries, State-Transition diagrams and Data Flow Diagrams is still relevant.  The discussion of systems thinking and the players in systems development still rings true.  Understanding Structured English and Decision Tables can only enable an analysis effort.
+
+Critics seem not to grasp that this is not a book about technology or designing or implementing systems; instead, this is a book about Systems Analysis.  The product of Systems Analysis is a requirements document of some sort, which serves as a launching point for systems design or acquisition.  This book makes that point well, if only those critics would pay attention.
+
+No, this book is not perfect. I find the typeface displeasing and some of the notations used are out of date (e.g., no one I know uses Chen notation for ER modeling, and I prefer Gane-Sarson notation over Yourdon's for DFDs).  And the treatment of systems analysis in the SDLC and of JAD could be more complete. But no where else have I seen the treatment of these basic techniques and approaches covered as exhaustively as in this book.
+
+It will always have an honored place on my bookshelf

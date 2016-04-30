@@ -1,0 +1,1 @@
+This book is meant for a pop audience.  Its completely out of date and does not take into account the vast research at major computer-human interaction conferences such as ACM SIG-CH

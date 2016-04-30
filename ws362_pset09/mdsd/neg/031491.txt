@@ -1,0 +1,15 @@
+This book is definitely written by someone who knows JSF.  From the author's point of view, the structure and style of this book may have made sense.  From your point of view as a reader, unfortunately, it does not.
+
+The code examples are broken unnaturely and even an experienced developer will find themselves wondering what class this or that code fragment belongs to.  There's no solid narrative that shows you how to accomplish the objective of building a component.  Instead, there is a confounding play-by-play: do this, then this, then this...  Its a memorization challenge.
+
+Complexity is not really an excuse to jettison any attempt to make a book readable.  That is the books main flaw, it takes an admittedly challenging subject (JSF and AJAX integration) and makes it almost impossibly uncohesive and, frankly, dull.
+
+Another disturbing fact is that AJAX plays a remarkably small role in the book.  So much so that it walks the line of simply cashing in on the hype by putting the name on the cover.
+
+Having found these things to be true, I decided if I downloaded the source code and used that as a framework for understanding, the book might be more useful.  I surfed on over to its website only to discover - THERE IS NO SOURCE CODE.
+
+That's just plain scary.
+
+The book graduates from 1 to 2 stars based on the fact that there is a lot of information present, expecially regarding the processing lifecylce.  You won't have much fun parsing it though.
+
+When I saw this book, I thought, "Great!  This is EXACTLY what I'm looking for."  Don't fall into the trap.  The title is exactly what you are looking for, not the book.

@@ -1,0 +1,5 @@
+Despite numerous typographical errors and several sections that reference outdated ActionScript 2 information, the ActionScript 3.0 Cookbook remains a very handy reference for developers who want quick, ready to implement solutions to common programming tasks and challenges. 
+
+This book is more of a desk reference for common tasks than an overall guide to the newest installment of Adobe's ECMA-based programming language. The sections devoted to the new features of ActionScript 3 are very useful and have thorough explanations with well documented code samples. I found the chapter on the new model for adding visual elements to a SWF via ActionScript using the Display List to be particularly helpful in my study of AS3.'
+
+To sum up my thoughts on the ActionScript 3.0 Cookbook: Definitely a worth the cover price for experienced ActionScript developers but maybe not the ideal resource for those developers that are just learning programming for the Flash Platform.

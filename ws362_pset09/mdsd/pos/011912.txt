@@ -1,0 +1,1 @@
+Excellect description of op amps and application circuits.  Gets detailed enough to keep you out of trouble, but not so detailed that you can't follow what's going on.  The books main weakness is that it does not cover active filter design

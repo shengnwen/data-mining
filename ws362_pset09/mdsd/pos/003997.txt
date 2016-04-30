@@ -1,0 +1,5 @@
+The field of robotics has split into two camps. One is the "serious" high end domain of industrial labs and academia. The other is that of the solo tinkerer. It is to the latter (you?) that the author dedicates this book, about the subgenre of combat robotics. 
+
+Imahara brings together the necessary knowledge of mechanical and electrical systems needed to make such a device. Mundane but important talents like cutting metal safely. And the integration and testing of a complete system. Nothing theoretical here. He writes from wide, practical experience, and appeals to a hands-on ethos in you.
+
+Probably by far the most gripping section is where he describes the different types of combat robots. Thawker, spinner, launcher, hammer, crusher... This field has matured enough to create these now classic stereotypes. Your objective is to build one of these, or, dare you imagine it, be responsible for creating an entirely new stereotype

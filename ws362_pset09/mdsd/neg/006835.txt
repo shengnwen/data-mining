@@ -1,0 +1,20 @@
+There's nothing worse than getting a book that has source code that doesn't compile.  Not just little noob things, like forgetting to add directories and such, but actually BAD source code.
+
+Oh, no, scratch that... there is something worse.
+
+Source Code that doesn't compile AND no executables.  Not only can you not compile and understand the code, but you don't have anything to base your ideas off of.  I mean, christ, at least give us something to show us what it's supposed to remotely look like.
+
+I disliked this book so much that I didn't even bother trying to re-amp the source.  It's just plain garbage.
+
+
+here's a hint to multiplayer programming as well as game programming in general:
+
+books don't teach you anything.  If you're looking for a "how-to" guide then books aren't the answer.  Usually you can find some useful information in books that can help solve a problem, but there really is no solution to an entire problem.
+
+don't let Andre's Tricks series fool you, or any other books for that matter.  What makes you good at programming is programming itself, and figuring out things on your own.
+
+Reference a book or article when need be, but don't waste your money on something like this.  Just google sockets and you'll have more than enough informatino to get a project gonig.
+
+Peace out,
+
+Jaso

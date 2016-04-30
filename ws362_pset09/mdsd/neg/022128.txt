@@ -1,0 +1,5 @@
+This book has been, unfortunately, my first introduction to numerical analysis. I wish that I could have chosen a superior book myself, but this is the one prescribed by the university I attend. 
+
+The examples in this book are mostly short and insufficient, especially when they are most needed. The lack of good examples wouldn't be so much of a problem, however, if the text itself were better. Unfortunately, many topics are poorly explained. The notation used in this book is often awkward and confusing. 
+
+I'm used reading math textbooks and understanding them. Unfortunately, Numerical Analysis by Burden and Faires expects the reader to understand concepts that aren't even fully explained in the text. Avoid if you can

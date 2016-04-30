@@ -1,0 +1,8 @@
+This might be a great second book on shell scripting. Can serve as a valuable add on to "Learning Korn shell" from O'Reilly -- also a very strong book on shell scripting. 
+
+The authors provide a lot of interesting and useful information that is difficult to find in other books. They devoted Ch 5 to piping and in  5.4 "Word List"  they discuss famous Doug McIlroy alternative solution to Donald Knuth program of creating the list of the n most-frequent words, with counts of their frequency of occurrence, sorted by descending count from an arbitrary text file.  
+
+The authors discuss many Unix tools that are used with shell (Unix toolbox). They provide a very good (but too brief) discussion of grep and find. Discussion of xargs (which is usually a sign on a good book on scripting) includes /dev/null trick, but unfortunately they do not mention an  option -0n with which this trick  makes the most sense. 
+
+One of the best chapters of the book is Ch. 13 devoted to process control.  Also good is Chapter 11 that provides a solution to pretty complex and practically important for many system administrators task of merging passwd files in Unix. It provides a perfect insight into solving real sysadmins problems using AWK and shell. 
+Shortcomings are few. in "5.2. Structured Data for the Web" the authors should probably list AWK instead of SED.  Also XML processing generally requires using a lexical analyzer, not regular expressions. Therefore a tag list example would be better converted to something simpler, for example generating C-tags for vi. 

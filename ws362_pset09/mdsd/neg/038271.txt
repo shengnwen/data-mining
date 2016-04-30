@@ -1,0 +1,3 @@
+There is not much to say about this book except that it is often extremely confusing for the layman. The examples skip steps, there is usually no explanation as to how to apply the theorems and one is often completely clueless as to how to do the exercises, or much guesswork must be done on how to apply the given formulas.
+
+If you are already knowledgeable on the subject of numerical analysis this book might be a good reference for refreshing your memory but for the beginner it is for the most part going to be a frustrating waste of time

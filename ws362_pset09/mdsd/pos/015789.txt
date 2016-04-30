@@ -1,0 +1,2 @@
+This book is about MS SQL 2000.
+So expect next year! MS SQL 2005 will come

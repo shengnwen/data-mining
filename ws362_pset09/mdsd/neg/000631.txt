@@ -1,0 +1,7 @@
+I am a couple of chapters in and I am trying to like this book but it just isn't that approachable.
+
+Compard to Practical Common Lisp (Same series I assume) there is little to no explanation of example code.
+
+Haskell is supposed to be the more difficult language to master but, every text I have read on Haskell is far more approachable.
+
+I am going to persevere but I think only experienced programmers should attempt to read this. 

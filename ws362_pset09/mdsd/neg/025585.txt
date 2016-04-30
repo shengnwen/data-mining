@@ -1,0 +1,1 @@
+The problem with the book is not with how much material it covers, but with how well it covers the material. Most good computer books that I have read have covered a topic and then gone to explain something step by step using examples and multiple scenarios, but I feel this book just gives a &quot;it works because it does&quot; attitude

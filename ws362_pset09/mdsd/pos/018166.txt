@@ -1,0 +1,12 @@
+
+This is the book that UML In a Nutshell should have been.
+
+Several years ago I picked up the original UML In a Nutshell with high hopes; I didn't bother reading much of it in the bookstore because (after all) the book was an O'Reilly.  It had an animal on the cover; quality was assured.  I snapped it up and went home.  It turned out to be the one of the worst computer books I'd ever bought, and many of the Amazon reviews agreed with me.  I wrote my own scathing (but rather funny) review, and to be honest I don't know what happened to the book itself, I no longer cared.
+
+A few weeks ago I received email from an editor at O'Reilly asking if I was the person who had posted that review, and would I be interested in a copy of their re-written book on UML 2.0?  The book arrived a few days ago, and I've spent a couple hours going through it.  (In the interest of disclosure, please note that I did not pay for my copy).
+
+To put it mildly, UML 2.0 In a Nutshell is a vast improvement.  I don't know how to emphasize this: It's like waking up from a bad nightmare of Throgzaks-are-after-you (and of course, you can't run) to realize that everything is okay and it was just the cat sleeping on your face.  It is a huge relief that O'Reilly recognized their error and decided to fix it.
+
+This book is smaller, more succinct and to the point.  The authors dive into meaty subject material right away, starting with the stuff that most engineers are likely to use.  The writing is pleasantly conversational, targetted to a technical (rather than a managerial) audience, and the subject matter is well organized.  A challenge in grokking the UML is that it is a "wad" of interrelated concepts, and the book has sufficient forward references ("You'll learn more about X in chapter 4") that I felt comfortable just forging ahead.  The diagrams are clear and meaningful, and there is (gasp) actual humor from time to time.
+
+I get the impression that O'Reilly's first UML book was published in a hurry just to "get something out there."  I have the impression that they took their time getting this one right.  There is almost no comparison between the two; this is the book to get.  Recommended.

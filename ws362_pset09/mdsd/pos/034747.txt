@@ -1,0 +1,5 @@
+This book is a gem of problem sets AND solutions, in the field of algorithms. The problems were from actual examinations given at Stanford in various computer science classes. About half the book is good descriptive text about the ideas that the problems probe. Certainly, well written, as befits Knuth's contribution.
+
+But I would suggest to you that the best use of the book is in tackling those problems. In the spirit of Knuth's classic Art of Computer Programming series, where he gives extensive questions and answers. 
+
+I realise my suggestion may have appeal to only some of you. But I'm addressing my remarks to the smartest amongst you glancing at this. Test and improve your understanding of algorithms

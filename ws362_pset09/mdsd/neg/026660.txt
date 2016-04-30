@@ -1,0 +1,3 @@
+This book was published back in the 70s, before the advent of LaTeX. And it shows. In particular, it is no good as a reference for this reason: each time you try to look something up, the page is too overcrowded with symbols to find what you're looking for. In addition, to use this book to learn stochastic processes puts you through a whole lot more trouble than you'll probably need. Each deduction in the book is long, boring, and hard. Since I've read other books which are not, I'm going to assume it's the fault of the authors and their lack of LaTeX.
+
+This book, not unlike quite a few in probability and statistics (e.g. Billingsley), is popular because old professors used it and don't bother to find a new one

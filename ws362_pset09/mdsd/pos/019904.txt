@@ -1,0 +1,9 @@
+This book is superior to "Programming Lego Mindstorms with Java."
+
+It is well suited to both beginning and advanced programers. It covers languages basics, but still provides much info to experienced Java developers about robotics Design Patterns.
+
+It also includes detailed instructions and pictures describing on basic robotic construction...things like how to turn a rotary motion to a linear motion, how to change gear ratios, how to build differentials, etc.
+
+There is also a detail chapter devoted to building your own homebrew sensors that even someone with little to no experience in electronics could easily build.
+
+I am very happy with this purchase

@@ -1,0 +1,5 @@
+[A review of the 3rd Edition.]
+
+The size of the SAS portfolio of code has grown hugely over the years. But for the person encountering SAS for the first time, this book can be a useful brief exposition. There is enough material covered here for you to do useful statistical analysis on simple data. While getting you acquainted with the style of using SAS and writing SAS command scripts. 
+
+Of necessity, you need some prior statistics knowledge. Like remembering the first 4 moments of a distribution, up to skewness and kurtosis. Just keep in mind that this book is not a statistics text per se. Rather, it lets you apply many common stats functions for your data, without you having to code these in some language like C or Java. The text shows how you can analyse data without being a programmer

@@ -1,0 +1,1 @@
+This book is extremely poorly organized.  Being familiar with basic SQL statements (INSERT and SELECT type statements), I found this book to be a waste of money.  The Appendix is the majority of the book (page 167 - 671 including the Index).  The syntax is also quite bizzare.  While you may think of this as a reference, good luck finding what you want to do

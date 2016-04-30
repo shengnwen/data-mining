@@ -1,0 +1,7 @@
+Second best isn't bad when the #1 book changed forever the way software architecture is talked about.  GoF is not only well-written, but it covers all the basic, most-used patterns.  Everybody thereafter is going to have to either re-hash GoF, criticize it, or come up with new patterns which are not as fundamental.
+
+This book is full of new patterns, and fortunately they are good ones: Command, Broker, Layers and worth the price of the book in itself Presentation-Abstraction-Controller.
+
+PAC can be seen as a generalization and extension of Model/View/Controller.  The Abstraction is the domain-specific part of the architecture, effectively the Model.  The Presentation exposes the Model in some interesting way, either as a user-interface in which case it is a View, or as an API, in which case the Presentation becomes a new Abstraction used by the next level up.  The Controller is left with the job of coordinating the Presentation and the Model.  The key to the pattern is that PAC agents can be built up into layers with the Presentation API of each lower agent creating a higher abstraction for the next level.  Thus PAC becomes MVC for all or your architecture, not just the UI.
+
+The book goes into this at length and adds useful discussion of MVC.  Highly recommended

@@ -1,0 +1,9 @@
+There are two aspects for this topic. Would you like the deeper reason why a certain way works? Or would you like to have some impressions with a certain method and try to implement it? Not many books can balance these two aspects very well and Burden's book is more toward the latter. This can be observed that almost every method is with a pseudo code and many numerical examples are given (many are even in a step-by-step way). 
+
+So if one's background is from science such as math or physics, s/he probably regards this book as a failure. For engineering students, especially undergraduates, this book seems to stay at a good balance since it doesn't get too involved.
+
+The pseudo codes are in general well written and helpful. I think it is the strength of this book. There are few books doing better in this aspect than this book. I have one impressive experience about it. Once a graduate student asked me a question and I told him Burden's book can solve his problem. He succeeded very fast and told me he even didn't know how that method works but just did programing based on the pseudo code. For education aspect, of course we don't encourage this kind of working. But for some situations, we need it.
+
+On the other hand, this book is rather elementary than advanced. And I think it is intended for undergraduates, not graduates. This book was my textbook of numerical analysis when I was a junior. It also served as a textbook when I lectured to undergraduate students during pursuing my phd degree in engineering. I will still use it as the textbook next time whenever possible.
+
+I should give it 4 stars or 4 and a half at most for this book. 5 stars are just out of viewpoint balance.

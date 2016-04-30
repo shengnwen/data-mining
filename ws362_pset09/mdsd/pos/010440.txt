@@ -1,0 +1,11 @@
+This isn't a typical O'Reilly book, and it's definitely not an "animal" book. I think that's something that's thrown a lot of people for a loop the first time they see this book. That change is good, however, because what O'Reilly has delivered is a book whose contents will stand up much longer and be more useful than most of the books out there on any technical subject, from any publisher. By having various viewpoints in information rich, managable pieces so well organized, the book itself is usable both as a read through from cover to cover and as a reference. 
+
+Security and Usability (S&U) is targeted at two main camps. The usability camp who doesn't quite understand what a security system is. They think in terms of making the user's experience with the software better, and often that means making the design more accomodating. That's great, and very valuable, but sometimes that's been known to compromise the system's security.
+
+The other camp this book targets is a security application or a security system designer. Often this camp doesn't have a great grasp on usability. We (I think I fall into this category) tend to be power users and build systems that work for power users. When regular users (read: "everyone else") encounter such a system they're usually stuck, and understandably so. S&U introduces many usability concepts and paradigms to the software or system designer and provide a springboard for better results.
+
+Make no mistake, this book wont make you an expert in either field, but it will give you a deeper understanding and a strong foothold at improving both scenarios. If nothing else, it gives both camps the vocabulary to start talking and working together. 
+
+One of my favorite chapters in the book outlines how ZoneAlarm was designed and implemented, along with some of its issues along the way. This is a remarkably successful application that achieves both good security design and utility while being usable by a large portion of the population. Such a study - and the book has many similar studies to back up viewpoints - is an invaluable aid in getting the message across. 
+
+If you write security software, design security systems, or work with a team that does, by all means look at this book. It will improve your product.

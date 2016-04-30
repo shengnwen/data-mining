@@ -1,0 +1,7 @@
+The book explains the phenomenon of "social engineering," which is basically how deceivers entice unsuspecting people to give them information or access they aren't authorized to have.  As I read through the different scenarios, I couldn't help but look back over my days in business to see if I had been duped into giving out information I shouldn't have.
+
+The author walks you through several situations, such as a private investigator looking for hidden assets, a corporate spy looking for industrial secrets, or hackers looking for fun.  In each of the chapters, he gives the reader an example of the con, then explain how the con works.  Although he does leave some of the steps out (to prevent this from being a self-help book for hackers), he does give the reader enough information to see how this could happen.
+
+The end of the book is intended as a checklist for all businesses.  Even though a true hacker or social engineer (the difference is explained in the book) could still get through, all businesses should look at the list to ensure that they have done everything they could to prevent a security breach.  In a nutshell, the biggest thing businesses can do is educate all employees, because humans are the weakest link in security.
+
+For formatting, the author includes quick notes throughout the book.  These get a bit monotonous after a while as the information in the note is already on the page in the text itself.  It seems a bit repetitive.  In all, however, this is a very informative book.

@@ -1,0 +1,5 @@
+This book is a treasure. I love perl and have 2 bookshelves filled with perl books. Most of them I looked through once - and then kept for reference. But this book (Perl Best Practices) somehow pulled me in - and I ended up reading every page of it. Why? Because I was finding elegant ways of writing the code. Note that I was writing Perl scripts every day for the last 10 years. So you would think I don't need instruction. Still after reading the PBP book, I am now doing many things differently.
+
+Damian compares different styles of writing the code, explains potential problems (sometimes very subtle and difficult to catch), and explains how to write the code which is more readable and maintainable.
+
+I highly recommend this book. Whether you are a newbee or a veteran - you will enjoy reading it

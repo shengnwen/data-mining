@@ -1,0 +1,14 @@
+This is a good book on directX 9. Yes there are some rough points I would like to mention. First off , the author does change some of her code in the source files, which I myself found to be annoying. but she does a great job covering directx, and if you wade it out, you will find a great instructional manual.The material is solid, and it successfully covers a lot of ground. 
+
+Chapter 2 covers getting directx up and running. 
+Chapter 3 covers sprites. 
+Chapter 4 covers vertex buffers.
+Chapter 5 covers Projections and matrices
+Chapter 6 covers materials and lighting
+Chapter 7 covers  meshes
+Chapter 8 covers particles
+Chapter 9 covers dinput
+Chapter 10 covers dsound, and 
+Chapter 11 Has a project that wraps it all together
+
+This is a great introduction to game programming as wel

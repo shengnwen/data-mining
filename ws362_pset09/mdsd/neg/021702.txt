@@ -1,0 +1,1 @@
+I had to use this book for my CIS Data Structures class.  The book's description of actual data structures is confusing.  The implementations in Java are sparse.  The website is not useful.  I even emailed the authors' for clarification on some topics and they never returned my mail.  What ever you do, don't buy this book

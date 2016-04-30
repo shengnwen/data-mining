@@ -1,0 +1,5 @@
+I really wanted to like this book, but it turned out to be just a collection of very long code fragments with no annotation and little explanation. There is a great topic here, and there are some good ideas, but the knowledge is locked in the code.
+
+If you are the type of person that learns by reading code then you will already have learned the APIs by looking at the sample code. The reason we buy technical books is to teach us how to use the APIs through a combination of well annotated example code, well organized reference material for the APIs, and illustrations that demonstrate best practice code flow. This book only has the code and a little explanation, the reference material, and effective illustrations are missing.
+
+I recommend this book only if you can't find any other material on MIDP2

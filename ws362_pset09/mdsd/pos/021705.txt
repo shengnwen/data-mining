@@ -1,0 +1,5 @@
+this is a great book. It has tons of recipes for those 'little things' that could take a lot of time to tackle, but that if you know how to do them, you can sort them out in no time. An excellent book that has helped me to get quick results. 
+
+You need to have some knowledge about relational databases and sql and queries. This is not a book for beginners, but rather for someone with a sound knowledge of relational databases, queries and sql, that just don't know the exact syntax for those queries in mysql.
+
+I give this book full 5 stars.

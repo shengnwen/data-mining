@@ -1,0 +1,3 @@
+I'm an experienced PHP coder, since early PHP4. I started learning PHP from a (slightly earlier edition of) this book (although it has the same ISBN), from reading other scripts and then coding them. Even now, as experienced as I am, I still find it a very useful resource; most of the time it's easier to find something in there than by searching on a search engine or the PHP.net website.
+
+You could do a *LOT* worse than to buy this. Learn PHP, expand your knowledge of it, or get it just for general reference if/when you get stuck

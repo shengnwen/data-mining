@@ -1,0 +1,7 @@
+[A review of the SECOND EDITION, Dec 2004.]
+
+Are you a C programmer working on a unix box? And you have to port your application to linux? There can be understandable trepidation about migration. Because the biggest issue may not be the free linux versus a proprietary operating system. For application development, the cost of an operating system isn't usually a big deal. More important are the compiler and types of native library support you get. Hence the authors fill in a lot of practical details about linux. The book's title doesn't say so, but the language covered is C. Not Java or C++. Though in fact much of the book's remarks will also apply to C++. And there is no fancy GUI. The book goes back to the basics of C development.
+
+Unix veterans will catch on quickly. The book's description of file handling, general I/O handling, sockets, directory operations and other issues is really no different than going to a given unix. Daresay that you'll be pleased to know that over 90% of your unix knowledge is eminently reusable. And the GNU C compiler used in the book should already be a close friend.
+
+Granted that if you're porting an application specific to a unix, there might be low level unpleasantries. But hopefully, good design and having this book will mitigate the migration

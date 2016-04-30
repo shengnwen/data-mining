@@ -1,0 +1,7 @@
+This book is essentially a REFERENCE book. It can be used to learn Flash, but only if you plan to set aside all of your free time for the next year to work through all of the lessons. It moves too slowly and most novice users will become bored and quit before they even learn how to use all of the drawing tools.
+
+As a reference, it is indispensible. Need to know the difference between an animated graphic symbol and a movie clip? It's all explained in detail. I use this book as a quick reference whenever I need to know how to do something. I can usually find it in here and implement it within 20 minutes (rather than working through a long tutorial).
+
+My only complaint about this book is that it is basically a revised edition of a book that was written for an early version of Flash. The editors do a pretty good job of updating the sections, but I have found that some eccentricities of Flash are not covered. For example, if you use the color mixer to do a color change (motion) tween, it won't work. The book does not tell you that you need to change the colors through the property inspector. These sorts of things can occasionally lead to hours of frustration.
+
+I would have to say that this is the best Flash REFERENCE on the market, but it isn't perfect. I would not recommend working through the chapters sequentially (like a tutorial) because it is too slow

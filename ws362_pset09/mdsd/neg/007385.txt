@@ -1,0 +1,3 @@
+This book is quite a simple (and sometimes unusefull) introduction to design/build Speaker System.
+Design principles are old and it does not cover new trends such as implementation of spice models and simulation.
+Maybe only source code (written in BASIC for DOS!) can be interesting for an absolute beginner, ... eventhough it's cheap, save your money

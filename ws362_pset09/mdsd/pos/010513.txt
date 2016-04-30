@@ -1,0 +1,40 @@
+If you have never used Microsoft's SharePoint Services, then this is a good book for you.   
+
+However, if you are looking to learn how to administer an SPS server, this is not the book for you.  It has basic administrative knowledge such as adding users and setting up alerts.   Troubleshooting etc, is only for the user side of things.  However, as mentioned it is worthwhile to run through it as it will give you a feel for the tool and it will point out some possible problems with office installations.   And of course the users will ask you "how to" questions so this will increase your knowledge in that area.
+
+Again one thing to note:  You do need access to Windows 2003, SharePoint server 2.0 and office 2003.
+
+The authors took that stance that you are computer literate. They did a great job with the screen shots and walk you through the steps of doing things.   There were things that blew up but there usually was a tip telling you how to correct them.   
+
+Chapters in the book:
+1) Introduction to Windows SharePoint Services
+2) Navigating a SharePoint Site
+3) Creating and Managing Sites
+4) Working with Lists
+5) Creating and Managing Libraries
+6) Working with Library Settings
+7) Working with Document Workspaces
+8) Working with Meeting Workspaces
+9) Working with Surveys and Discussion Boards
+10) Using Windows SharePoint Services with Outlook 2003
+11) Using Windows SharePoint Services with Excel 2003 and Access 2003
+12) Working with WebParts
+
+The last three were quite useful and showed how easy a user can integrate with a SharePoint server.
+
+One annoying thing is the fact that two extra bits of info (Using Windows SharePoint Services with InfoPath 2003 and Finding Information on the SharePoint Site) were PDF files that had the print disabled.   You have to switch back and forth to work the lesson with InfoPath.
+
+On the CD, you get:
+* A copy of the book in PDF form.  Printing disabled but good for fast scanning.
+* The Practice files.
+* A PDF of Using SharePoint with InfoPath 2003.  Definitely worth a read as I never bothered looking at InfoPath before.
+* A PDF of Finding Information on the SharePoint Site
+* Office system reference Pack which has templates, clip art, and the reference ebooks.
+a) Microsoft Office System Quick Reference.  Looks useful especially for people new to Office.
+b) Insiders guide to Microsoft Office OneNote 2003.  Looks useful but I haven't found a use for it yet.
+c) Introducing the Tablet PC. Microsoft slipping in some advertising
+d) Microsoft Computer Dictionary, 5th edition.  Surprising contains a great deal of information.
+
+Of course there is the reference to get adobe reader, visit the Microsoft support learning site and a survey about the book.  I did the survey out of curiosity.
+
+Over all I am happy with the purchase.   I only knocked it one star because it probably could have added some third party info and the locked PDF files

@@ -1,0 +1,7 @@
+I can't compare Learn To Program with C++ to any other C++ books, because this is the only one I have read so far.  All in all, unfortunately, the book has turned out to be a failure.  I simply didn't get out of the book what I wanted: an elementary introduction to the language.
+
+At times, it seemed the author was using phrases that he had never used before, as if he had explained them before at some point.  Bizarre, yes.  He made the assumption that some of his terminology was either very simple to pick up on, or was already covered.  It wasn't simple or already covered.
+
+Also, perhaps equally bothersome, the author talks too much about the students in his fictitous class.  Make note that there actually no classroom with the students he is always talking about.  What is probably most bothersome is that he often repeats the same things over such as "I waited to see if anyone else had a question."  He is the one writing the book, of course he knows if one of his characters is going to ask a question or not!  Remarkable.  The interaction between him and his students may upset some people just because there are no actual students.
+
+As far as the book being easy to read, well, the introduction is, but you may get lost after that.  I did.  It is possible that C++ is to blame, or may be it is how the author presents the language

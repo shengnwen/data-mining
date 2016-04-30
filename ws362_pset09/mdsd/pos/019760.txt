@@ -1,0 +1,1 @@
+I like how concise this book is. It hits important points in two pages. It's like a cliff a notes to good programming practices. You will need deeper resources to implement the recomendations in this book but it is full of very good practices. I recomend it for any programmer

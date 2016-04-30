@@ -1,0 +1,8 @@
+Unfortunately this is a poor book, and if you are a busy person I would recommend you find something else, something that is well organised instead. 
+
+This book had poor organisation, lots of grammatical errors, and a ton of verbose blather with not much meaty info, and badly failed my signal to noise ratio test. 
+It would be possible to strip two thirds of the words out by reformatting concisely, as well taking out all the times the authors say 'as we are showing you'. I would certainly have appreciated it much more if they had been concise, as my time is precious. 
+
+I purchased this book along with charles petzolds 'Application = Code + Markup" and 'Essential WF', and both are excellent books. They are the standard I expect from 'professional' programming books, particularly ones with Pro in the title! They had a concise and structured presentation, good editiorial proofing and grammar, and gave me insight I could not easily get from MSDN. 
+
+To the authors: sorry to give your book a bad rap, but it's true and you can produce better work, I'm sure of it. Also, you should get a good editor, who will catch grammatical errors, and stop you being self indulgent and bring your focus back to what the readers want, which is not to hear you say hundreds of time 'as we are showing you'!

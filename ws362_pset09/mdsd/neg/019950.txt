@@ -1,0 +1,22 @@
+I can not write a strong enough criticism of this book. It holds itself out to be informative self-help, but in reality it is part fiction and part fairy tale.
+
+The book is based loosely on what Mr. Ellison has dubbed the Theory of Statistical Propensity. Mr. Ellison (whom it should be noted at this point has the mathematical credentials of a short order cook) stews up his bland theory by reheating the old Gambler's Fallacy - a meritless contention that numbers on the dice, the roulette wheel, or whatever contraption you are currently losing your rent on, are somehow "due to hit." He dresses it up as a mathematical theory but it is in fact the same old fool's notion: That random numbers appear in patterns and that the laws of probability run hot and cold.
+
+Had Mr. Ellison not dozed off in high school math class, he would know that the reason numbers tend to even out to the statistical mean over time is that larger and larger sample sizes help to smooth out apparent statistical inequities.
+
+For example: if you flip a coin one hundred times, it's entirely possible that every single flip will land on heads. That's 100% for heads. Now flip one hundred additional times and you might get an even split, 50 head and 50 tails. That brings our total heads count to 50 heads out of 200. Still a significant 75% heads advantage, but closer to the inherent 50% probability than before, no? 
+
+Now flip that coin another 1,000,000 times. 
+
+When you finally build up a significant enough sample size (1,000,000, in our example) a measly 150 flip head advantage is de minimus. Heck a heads advantage of 10,000 barely moves the needle. That's why numbers draw to a statistical average, Mr. Ellison, not by some cosmic force pulling the coin in one direction or another. It's why a casino can run a profitable business with games where the house advantage is a slim 2% or less. You may walk out a winner one day, every day one week, even every day one whole lucky year. But keep pressing that improbability and you will find over time the sample size will start to work against you and you will lose. Its not some genie in the dice, it's called "regression to statistical mean". Google it.
+
+Aside from his Intelligent Design Theory of Dice, Mr. Ellison imparts the following gems of wisdom:
+- If your dice hit chips during a throw the probability of rolling a 7 is statistically increased.
+- If the stickman changes, the probability of throwing a 7 next roll is statistically increased.
+-If your dice accidenatlly go off of the table, the probability of throwing a 7 is statistically increased.
+
+Again, Mr. Ellison doesn't bother to do any critical thinking here. He fails to step back from his own delusions and recognize these triggers for what they are: memorable events outside of the normal course of play - anchors that his tiny mind can recognize, glom on and refer back to. It is much more convenient to pick up on these memorable cues than the millions of other variables which simply fail to capture his attention. Does the dice thrower put his weight on his right or left leg during the throw? Is there an odd or even dollar amount of money being wagered this throw by the third person on the left? These are events that have just as much impact on the random throw of the dice. I wonder why he his attention isn't drawn to these peculiarities? Could it be he's just not that creative? Or is it rather that these events, just like the ones he cites, don't have any impact on the roll at all?
+
+When I purchased this book I wanted an intelligent discussion about the mathematical odds of each wager and some traditional patterns of betting to crib off of. What I got was a 200+ pages of superstition and snarky barbs at the recognized authorities in the field who did not return his emails and calls (with good reason, it turns out).
+
+If I had more time I would write 200+ pages of my own, and that wouldn't even begin to describe all of the reasons why you SHOULD NOT BUY THIS BOOK

@@ -1,0 +1,2 @@
+Mr. Derman took the reader along with his journey from theorectical physics to financial modeling. The later chapters provide simple to understand explanations of what he did at Goldman Sachs to model bond options. No knowledge of advance mathematics required. One shudders when one realizes that models are formed usually after the fact. Today trillion of dollars are traded based on imperfect models. What if ... there was a flaw in the model? 
+

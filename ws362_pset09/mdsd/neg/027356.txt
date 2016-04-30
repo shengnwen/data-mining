@@ -1,0 +1,1 @@
+This book provides introduction to many important aspects of embedded systems design. Disappointingly, in many parts of the book, the writing is quite incoherent and lacks proper organization of thoughts. The author may be a good engineer but certainly not a good writer

@@ -1,0 +1,13 @@
+A bit of context: I am an intermediate photographer recently introduced to digital SLR through the purchase of a Nikon D70.  I am well-versed in general photographic knowlege and the theories behind color management and light in the context of digital photography.
+
+I purchased this book hoping that it would help me to understand enough about color management to at least start asking the right questions about how to apply color management to my setup.  I became so frustrated with it that I've had to stop reading it several times just to collect myself.
+
+In no particular order, the book is flawed in the following ways:
+
+* It is not well written.  I stumble over poor writing more than the average reader, but this book simply had too much akward prose and was overly conversational.  Unfortunately, this poor writing was more than just a distraction: important points were frequently lost to unclear writing.
+* Full of marginally useful examples.  The author provides step-by-step instructions for numerous software programs (and a few pieces of hardware too) that are completely useless for those of us who don't have the software (or hardware).
+* Many "tips" revealed to be unimportant.  One of my biggest pet peeves was that on several occassions the author provided lengthy explantions of processes, features, or concepts, only to wrap up his discussion with "but all of this isn't really important, so you don't need to worry about it."
+* Poor organization.  The book could have benefited significantly from a reorganization around those tasks that the average reader was likely to try to do.  I found myself finishing the book still unclear where to even start thinking about my color management setup, and with basic questions still unanswered.
+* Meaningless examples.  The author provides (some very striking) images in support of his ideas, but many are not directly related his points (single images with captions like "Professional photographer X uses color management to make sure that the colors he sees on his screen are the same as those on the final print")
+
+I give it two stars instead of one because there is some useful information in the text -- it's just incredibly hard to find amid all of the clutter

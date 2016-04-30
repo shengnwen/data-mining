@@ -1,0 +1,9 @@
+Although the topics the book embrasses are current and essential for practising chemists, physisists and materials scientists the pedagogic care with which it explains some of the topics is poor. 
+
+The author makes the assumption that the reader is familiarized with the heavy mathematical formalism and notation which is commonplace in specialized physics articles but fails to remember that graduate students that don't have a physics background, and come from other schools of thought such as chemistry, biochemistry or materials science, might be target readers.
+
+For instance the book's introduction to Hartree-Fock theory must be the most complicated I've ever seen with constant recourse to Dirac's delta function (without even revealing its presence, stating simply that it should be there). The link between DFT and statistical thermodynamics although interesting is not essential for the heart of the discussion. Some classic program applications like Siesta are presented but you get the feeling that it's just for show off.
+
+All in all if you're a physicist with some years of experience in the field of planewave computation you might find the book interesting. 
+
+Otherwise if you're a beginner like me forget it! The book by Efthimios Kaxiras (Atomic and Electronic Structure of Solids) is more revealing and pedagogic and supplies every detail in the mathematical formalism. Some physicists with a more chemical sensitivity such as Harrison, chemists such as Roald Hoffmann, Jeremy Burdett or Michael Springborg or materials scientists like Adrian Sutton or David Pettifor are better suited for the novice

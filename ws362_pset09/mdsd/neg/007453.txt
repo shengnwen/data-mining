@@ -1,0 +1,11 @@
+This book is supposed to be a great text book desigend for the course--EXPERIMENT DESIGN. However, after using it for the first 2 weeks, we found it is very obscure in telling the basic concepts and the examples are long but distractive. I have to read other books to learn the basic concepts to understand what this book is telling. My reference books are 'PROBABILITY AND STATISTCS FOR ENGINEERS AND SCIENTISTS', by Ronald E. Walpole 7th edtion and 'Probability, random variables and stochastic processes', by Athanasios Papoulis, 4th edtion. 
+
+What's more, this book is unique in that it has the most typos I have ever found in an textbook.
+
+For example:
+
+Chap 2. Problem 14. line 3 pp 65, the "probablilty shoulde be about 1 'change' in 500".
+
+Chap3. Ex3.6  line3 pp84," the corresponding 'scabbed' t distributions".
+
+Mistakes are almost in every chapters. When you read, you will found more, enjoy them

@@ -1,0 +1,17 @@
+If you play chess, you'll have to face 1 d4 fairly often.  And if you answer 1...Nf6, you may be walking right into a possible Trompowsky (2 Bg5), a Torre (2 Nf3 and 3 Bg5), a London (2 Nf3 and 3 Bf5), a Colle (2 Nf3 and 3 e3), a Veresov (2 Nc3 d5 3 Bg5), or even a Blackmar-Diemer Gambit (2 Nc3 d5 3 e4).  Even if you play 1...d5, there are versions of all these systems that are still on.  I guess one could play 1...f5 (the Dutch), but even then White can play 2 Bg5 or 2 Nf3 and 3 Bg5, or even 2 e4 or 2 g3 for that matter.  At least, if you play 1...f5, you'll be able to answer 2 Nc3 with 2 ...Nf6, which might confuse a Veresov player, since 1 d4 d5 2 Nc3 f5 3 Bf4 is ghastly for Black.
+
+Still, most of us will need to find a way to defend against unusual lines after 1 d4 Nf6 or 1 d4 d5.  And that is where this book comes in handy.  Cox explains how to get back to the lines you wanted or to get a good game against these "problem openings."  
+
+After 1 d4 Nf6 2 Bg5, White is clearly hoping to take your Knight and double your pawns.  Or, after 2...Ne4 3 Bf4 d5 4 f3 Nf6 5 e4 get a Blackmar-Diemer gambit with an extra tempo.  So Cox recommends 2...e6 here, and he gives us some good lines for Black.  White can also play 1 d4 d5 2 Bg5, but that's not really the Tromp, and the author shows how Black can do well after 2...h6 3 Bh4 c6.
+
+In the Torre attack, after 1 d4 Nf6 2 Nf3, Cox does show how to play 2...e6 for Black.  But he strongly recommends 2...d5 3 Bg5 Ne4, and I certainly agree.  Of course, you will have to be able to defend a Queen's Gambit after 3 c4.  The same is true for the London and the Colle.  After 1 d4 Nf6 2 Nf3, Cox explains how to play 2...e6, but recommends 2...d5 3 Bf4 c5 and 2...d5 3 e3 Bf5.
+
+The Veresov goes 1 d4 Nf6 2 Nc3 d5 3 Bg5, and Cox recommends the exciting 3...c5, which means letting White play a Chigorin with a move in hand.  I like this line for Black and I think it is worth learning.
+
+Many folks accept the Blackmar-Diemer gambit.  But Cox gives us an Awful Warning about what can happen.  A Master with Black tried 1 d4 Nf6 2 Nc3 d5 3 e4 dxe4 4 f3 exf3 5 Nxf3 e6 6 Bg5 Be7 7 Bd3 Nbd7 8 0-0 0-0 9 Qe1 c5 10 Qh4 g6 (Black is already totally ripped) 11 Ne5 Re8 12 Nxf7 Qc7 13 Bxg6 hxg6 14 Qh8+ Kxf7 15 Qh7+ Kf8 16 Bh6 mate.  So Cox very reasonably recommends 3...Nxe4 here (the Hubsch Defence), in order to answer 4 Nxe4 dxe4 5 f3? with 5...e5.  And after 1 d4 d5 2 e4 dxe4 3 Nc3, he wants 3...e5.
+
+The next unusual lines we see are 1 d4 Nf6 2 c4 e6 3 Nf3 c5 without 4 d5.  Cox shows how Black can still play some form of a Benoni or Nimzo-Indian against 4 g3 or 4 Nc3 here.  But that leaves 4 e3 as a problem.  Black can play a Caro-Kann and defend against a Panov-Botvinnik attack with 4...cxd4.  But Black may not want to be on what I would consider the wrong side of an isolated Queen pawn attack, so Cox recommends 4...a6 and 5...d5 (threatening dxc4).  
+
+The book concludes with some rare lines.  1 d4 Nf6 2 c4 e6 3 Bg5 tries to avoid the Nimzo, but Cox explains that 3...c5 works well for Black here, as do 3...d5 and even the move that White was trying to avoid, 3...Bb4+ (although White will indeed play 4 Nd2 rather than 4 Nc3).  1 d4 Nf6 2 c4 e6 3 g3 aims at a Catalan after 3...d5, but Cox shows that Black can avoid this with 3...b5.  1 d4 Nf6 2 e3 is met by 2...c5.  And finally, 1 d4 Nf6 2 g3 d5 leads to a very good version of the Slav for Black.
+
+This is a useful and well-written book, and I recommend it.

@@ -1,0 +1,7 @@
+While this book does provide a reasonable overview, I found it rather disappointing.
+
+It has too many errors. With highly technical material, it is imperative that the information is correct or else you can't trust it. For example a minus instead of a plus does not help when explaining terminology. 
+
+Only half the book is really about fuzzy logic. There is far too much padding eg. 1.large diagrams showing Moore's Law and the layers in an IC gate. These are not subjects that should be covered in a book on fuzzy logic and one is forced to conclude that the author had a page quota to be reached and did it by adding these secions and large verbose reference sections.  
+
+A worked example or an appendix showing an algorithm in C would have been far more useful.

@@ -1,0 +1,1 @@
+this book covers  basic definitions of submanifold, riema mannian metrics, curvature, geodesics and morse theory, sphere theorem, which is the main content in riemannian geometry. I think the author deals very readily, and this dealing is suitable for beginners 

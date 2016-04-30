@@ -1,0 +1,4 @@
+Don't be fooled from the good reviews this book has gotten. this book is the WRONG choice for anyone willing to LEARN about web services in Java. It is merely a boring, dry, wordy, repetive, confusing (and confused) compilation of web-services related topics.
+The authours might be good programmers maybe, but as they are clearly very poor technical authors.. their writing style is boring, excessively wordy and abstruse.
+Not clear and concise enough to be useful as a reference and absolutely terrible as a tutorial. 
+The preface tells how the idea of writing this book came form one of the authors who, sitting in a pub with the others was the the only one who wasn't drinking. I have some advice for this guy: start drinking

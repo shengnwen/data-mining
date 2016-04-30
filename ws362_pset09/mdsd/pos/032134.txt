@@ -1,0 +1,3 @@
+This book is great for graduate students studying real analysis.
+There are tons of problems and proofs helping you understand the details.
+

@@ -1,0 +1,24 @@
+I am an average programmer who is self taught, and I bought this book to introduce me to DirectX9. I liked the layout and simplicity of the book at a first glance so I bought it....and now I must say this to new buyers. There quite a few inconsistencies and typos... and I mean SERIOUS TYPOS, the kind that cause 3hrs of headache and time-wasting agony. Even in the first chapter. If I was not familiar with win32 programming this book would have been placed in trash can. I have never written anything bad about a book before, because I have never been so upset from one.....
+OK.. NOW The good part -- why I gave it 2 stars and not 1. When it comes to the DirectX9 info, I believe that so far (I am at chp.6) I think it's information is very clear and informative. 
+I do give them credit here.
+
+I couldn't find anywhere online for typo correction for books, even on the publishers page. I still hope to find something. 
+I cannot recommend this book unless you get the online version (and that is only if it has been updated). Check page 12(bottom) compared to 22(bottom) and see if the statements are the same:
+
+p.12
+while(GetMessage(&msg,....
+p.22
+if(PeekMessage(&msg,.....
+
+this means quite different things.(btw p.22 is correct)
+
+Luckily you have the CD to check against to see what it should be. But Some of the samples didn't link to the correct files. 
+chp.7
+example 3
+needs relinked to a folder in the sdk.
+chp.7
+example 4 needs to contain the sample file.
+
+There are 11 chapters and I am at #6. The problems have been less and less as I go through the book. If you buy this book, it can be frustrating at chp.1. But it does get better. 
+
+Hope this helps someone

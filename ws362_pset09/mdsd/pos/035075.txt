@@ -1,0 +1,1 @@
+This book is great to the new JavaScript user who is muddling through confusing codes. Usually the index points you to exactly what you are looking for. While this book is not to be used as a sole reference, it does  a great job of cutting through the jargon and getting right to the point

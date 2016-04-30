@@ -1,0 +1,1 @@
+It's a technical analysys book that employs a lot of wrong assumptions in order to build a trading system.  For instance, it says about 4.5 years, 18 months, and 52 weeks market cycles in order to time the market, which is impossible.  Waste of time

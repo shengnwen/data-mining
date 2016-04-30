@@ -1,0 +1,38 @@
+This is a focussed book with a single aim; to help you find and correct common vulnerabilities in web-based applications and website software. 
+
+Above all, this is a book to be used. The authors take a practical approach to each area of consideration, and the chapters are well structured to make it easy for you to get right to work. 
+
+For each area they provide an informative overview followed by discussion of the vulnerabilities including numerous code snippets, examples and screen shots. Though rich in detail the writing style keeps you engaged and the sensible structure (when to apply the attack, how to perform it and how to protect against it) makes it easy to grasp the key points. 
+
+There is no bias towards either Windows or Unix products on either the client or the server, and you won't need to be a scripting expert to put the authors' ideas into practice.
+
+Chapter 1 explains the difference between web-based and traditional client-server systems and why a different approach is needed when testing. Subsequent chapters cover the vulnerabilities:
+
+Gathering Information on the Target
+
+Bypassing Client-Side Validation
+
+State-Based Attacks
+Including Hidden Fields, Cookie poisoning and Session Hijacking
+
+Data Attacks
+Including Cross-Site Scripting, SQL Injection and Directory Traversal
+
+Language-Based Attacks
+Including Buffer Overflows
+
+Server Attacks
+Including Stored Procedures, SQL Injection, Server Fingerprinting and Denial of Service
+
+Authentication
+	Including Weak Cryptography and Cross-Site Tracing
+
+Privacy
+Including Caching, Cookies, Web Bugs, ActiveX Controls and Browser Help Objects
+
+Web Services
+	Including WSDL and XML attacks
+
+The book comes with an excellent companion CD containing a number of testing tools and a flawed website on which you can use the techniques you have learned to cement your knowledge. Both the tools and the vulnerabilities in the sample site are fully documented in two useful appendices.
+
+All in all, a rich and well-focussed yet accessible introduction to a wide-ranging subject. If the security of web-based applications is your area, make room for this on your bookshelf.

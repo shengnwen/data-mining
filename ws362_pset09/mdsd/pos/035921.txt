@@ -1,0 +1,8 @@
+(originally published on www.last-child.com)
+
+There are books you read that change your way of thinking (Designing with Web Standards), books your read for ideas (Usability: The Site Speaks for Itself), and books you keep within arm's reach at all times. This book, HTML and XHTML: The Definitive Guide, is one that you should always keep on your desk.
+
+I'm saying this from experience. I'm a self-taught web programmer and have read over well over a dozen programming books during the past few years. This is the book that traveled with me from job to job. It's where I go to check on the proper use of tags and attributes. It's a well laid-out reference book that is actually interesting to read.
+Who should get this book
+
+This book is for those working directly with HTML code. It does not discuss programming languages, JavaScript, or CSS to any extent. However, it clearly defines how to use valid markup to build sites. I have found it invaluable for building forms and complex data tables. It's also a great foundation for those learning semantic markup from the beginning

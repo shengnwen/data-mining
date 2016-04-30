@@ -1,0 +1,4 @@
+This is more a text book with a general approach. The focus is not on Lean. 
+The formulas in the book are given with very little explanation; I would hate to be in a class where this book is used as the basis for instruction.
+I hoped to find a lot of detailed information about Lean production systems but the book has too much other topics to be valuable as an aid to design and/or implement Lean production systems.
+The title is misleading and the practioner looking for either theoretical or practical information about Lean production systems will be dissapointed in what he finds in the book

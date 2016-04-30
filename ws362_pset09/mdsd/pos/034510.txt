@@ -1,0 +1,3 @@
+Visual Quickstart Guides have always been a great place to start and a fabulous resource to go back to, in order to learn about a tech topic from scratch and to consult later when you have doubts. This volume, focusing on Microsoft Expression Web, is no exception to this and serves as a very useful book to read to get familiarized with the interface and quickly evolve as a user to make the most of the tool.
+
+The layout of the book facilitates the learning process, with clear steps, screenshots alongside each set of instructions and a load of tips to get you from beginner to intermediate level in the least amount of time

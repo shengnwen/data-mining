@@ -1,0 +1,1 @@
+This book is full of just plain incorrect information, none of which has been corrected from the first edition. The section on the binary language of MIDI is particularly full of errors; not just typos, but errors of fact.  Let the buyer beware

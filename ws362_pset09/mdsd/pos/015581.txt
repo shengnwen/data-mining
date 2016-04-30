@@ -1,0 +1,2 @@
+This book contains mostly routine exercises of the subject. If you want to dig a bit further and sharpen your skills: try Krasnov's A Book of Problems in Ordinary Differential Equations. Language: English 
+ISBN: 5030009493

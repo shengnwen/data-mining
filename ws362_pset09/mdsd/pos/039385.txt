@@ -1,0 +1,3 @@
+I wanted a quick crash course in CSS; instead this book gave me a comprehensive start that led me on a path to a solid foundation in designing with Cascading Style Sheets.
+
+Attention to details, comprehensive and professional writing style, and superior clarity are just some of the strengths of this book. I only wish that more IT books were as easy to read as this one. 

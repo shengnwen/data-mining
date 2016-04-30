@@ -1,0 +1,12 @@
+By definition, the net promoter score is the percentage of respondents falling into the 9-10 range minus the percentage falling into the 0-6 range.  Consequently, very different distributions of advocacy scores can yield the same net promoter score; for example, all of the response distributions shown below yield net promoter scores of 40.
+
+                      
+Detractors (0-6)   |    0    5   10   15   20   25   30
+Passives (7-8)     |   60   50   40   30   20   10    0
+Promoters (9-10)   |   40   45   50   55   60   65   70
+                      ---  ---  ---  ---  ---  ---  ---
+                      100  100  100  100  100  100  100
+ 
+
+This is a problem because despite having the same net promoter score, these response distributions probably differ in their implications on repurchase behavior.  This also calls into question what conclusions we should draw from a difference or similarity between you and your competitors in terms of net promoter scores. 
+

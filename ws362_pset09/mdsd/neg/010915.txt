@@ -1,0 +1,5 @@
+I'm very disappointed at the amount content in this Book.  Sun posted a Java style guide that was essentially the equivalent, but free.  Equivalent in terms of topics covered while there were some noticable difference such as variable naming. 
+
+One of the redeming qualities of the book though is that it can serve as a coding standard thus saving one from tidious chore of deciding on your own standards.  In the end does it really make that much of a difference as long as everyone on your team is following the same standard?
+
+Best part of the book is the title. 

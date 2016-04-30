@@ -1,0 +1,3 @@
+I AM NOT A GEEK.  That said, I'd have to say that this book fell short of providing me any really useful information.  I've been a Linux user for about 5 years now, and I still find some aspects of it frustrating, but this book didn't really help me much.  And, it certainly doesn't live up to the O'Reilley "Cookbook" series (not that it is pretending to be, just shares the name), which I always find helpful.  There are numerous Linux books out there that are better than this one.  To me, the hints provided don't help much.  And, when I'm stumped about what's going on with my system, this book doesn't help either.
+
+If I were just starting out, maybe it would be OK.  But I think I would probably spring for something else, "Unix Power Tools" comes to mind

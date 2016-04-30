@@ -1,0 +1,1 @@
+unfortunately Mims insists on showing current as "electron flow" from negative to positive, instead of the traditional positive to negative. He explains his reasoning (and yes, he is technically correct), but it sometimes makes his diagrams confusing compared with other electronics books

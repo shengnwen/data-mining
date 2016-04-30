@@ -1,0 +1,13 @@
+  My first introduction to Jerry Lee Ford, Jr.'s work was an introduction to VBScript and WSH which was just plain awful. Thus I was a bit leery of ordering another book by him.
+
+  I'm pleased to report that Ford has done an excellent job of providing a solid introduction to REALbasic. It is indeed a basic introduction and may be too insubstantial for very experienced programmers. For beginners through intermediate, though, I think it's a fine piece of work and easier to work with than REALbasic's own tutorial manual.
+
+  Ford provides an overview of REALbasic first and contrasts it with VisualBasic. By page 58, he has the reader constructing a simple, but impressive, REALbasic application that does a nice job of demonstrating how easy it is to program REALbasic for simple tasks and how versatile it can be. He then moves through creating menu structures in REALbasic and other basic programming concepts.
+
+  Chapter 8 is a pretty good basic introduction to Object-Oriented Programming. Chapters 9 and 10 introduce text file and data processing. Chapter 11 covers graphics and audio and Chapter 12 covers debugging. Example programs are provided for each chapter. None of them are overly complex, but all do teach you the basic features of REALbasic.
+
+  All in all, it's well done for the new to intermediate level programmer who is coming to REALbasic.
+
+Jerry
+
+ 

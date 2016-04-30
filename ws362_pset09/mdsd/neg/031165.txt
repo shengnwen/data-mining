@@ -1,0 +1,7 @@
+I purchased the digital version of this book and my review is based on the deficiencies with that version. While I found the content of the book itself well-written and a decent tutorial on BASH scripting in a Linux environment, the digital version is practically useless.
+
+For starters, the DRM is too restrictive. Given that the digital version costs the same as the printed edition, why are you not allowed to print sections of the book?
+
+Second, and this is the kicker, the Adobe client for Linux cannot read the PDF due to the DRM. What good is a digital book on Linux programming if you can't read it with Linux? I've already mentioned that you can't print out sections of the book, so I was left with the options of either switching back and forth between Windows and Linux to first read a section and then try examples, or to use Cooperative Linux to run Linux concurrently with Windows. Again, given that the price of the digital edition is the same as the printed edition, I believe forcing the user to do this to get any use out of the book is ridiculous.
+
+To sum up, not a bad book content wise. The digital edition is, however, practically useless given the DRM restrictions. Not being aware that I wouldn't be able to view the digital edition I purchased with Linux, I feel like I was ripped off.

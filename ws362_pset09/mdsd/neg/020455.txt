@@ -1,0 +1,18 @@
+I'm not a statistics expert, but I'm only 10 pages into this book and I've already found two major errors that could potentially really confuse people.  Either the author is clueless about statistics -- a frightening thought since he supposedly teaches statistics as a professor -- or he can't write worth a @#$% and nobody clueful bothered to edit this piece of junk.  Either way, O'Reilly should be ashamed.
+
+Page 5:
+  "The mean will be close to some scores and far away from some others, but if you add up those distances, you get a total that is as small as possible."
+
+Wrong.  The mean minimizes the sum of SQUARED distances; the MEDIAN minimizes the sum of the distances.  Hand-waving on the next page apologizing for how complicated the formula for the standard deviation is because "there are some mathematical complications with summing distances" would suggest to me that the omission of "squared" on page 5 was not a mere typo.
+
+Page 10:
+  "Additive rule:
+    The probability of any one of several independent events occuring is the SUM of each event's probability."
+
+Wrong.  The additive rule is for any one of several MUTUALLY EXCLUSIVE events occuring, and independent pretty much implies *not* mutually exclusive (the exception being when all events are completely impossible anyhow).  The rule for one of several independent events occuring is more complicated; for two independent events, 
+   P(A OR B) = P(A) + P(B) - P(A AND B) = P(A) + P(B) - P(A)*P(B).
+For example, the probability of either a first coin flip or a second coin flip coming up "heads" is obviously not 1, as the author's statement would ridiculously assert, but rather 3/4.
+
+If the author can't be bothered to stamp out obvious errors like this in the first 10 pages -- particularly the latter error, which concerns something absolutely fundamental to working with probabilities -- I can't be bothered to read the rest of it.  Maybe the second edition will be worth glancing at, but I'm not holding my breath.
+
+This book is an excellent resource for people who want to thoroughly confuse themselves about statistics. 

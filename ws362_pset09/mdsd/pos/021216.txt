@@ -1,0 +1,5 @@
+I think this book is the best among the standard "undergraduate" textbooks for diffeq--i.e., the ones with flashy colorful covers that are re-released in a new edition way too often.
+
+This book is a little bit more systematic than most...it's easier to sort out the logical dependency of the material, and as a result it makes an excellent reference.  Another strong point of this book is that it goes a little bit farther than most similar books--you will probably want to hold onto this one and use it in a second course, even if another book is used.
+
+In my opinion though, the best introductory books on differential equations are from the Springer Verlag yellow book series...check out the ones by Braun or Hubbard; they have more discussion and are more of learning texts than this one.  I also think it's a total scam the way they keep releasing new editions of this book--not much changes.  I've used the fifth, sixth, seventh, and eighth editions and I'd recommend any of them; nowadays the eighth edition should be sufficiently cheap to buy for next-to-nothing..

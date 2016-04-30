@@ -1,0 +1,10 @@
+Hiya!
+this book is a waste of money and space. what kind of an idiot would carry this book around? when all the information is in the linux system itself?? MAN pages and INFO pages.
+
+observe. you can search for utilities in the Linux system by using APROPOS. can you automatically search for the utility you want in this thick thick book? lets say i want to use an editor. all you do from the command line is...
+
+x@y:/$ apropos editor
+
+the linux system automatically searches the database and man pages for the keyword "editor" and you get a whole list of editors you can choose from. try that with this book, all the utilities in this book are listed alphebetically... very good filtering / indexing system indeed *sarcasm* 
+
+you have to have pretty good knowledge and know the command and what you're looking for from the beginning to find this book useful. the irony of this is that once your knowledge level is at that level all you really need are the MAN pages. 

@@ -1,0 +1,3 @@
+Buy this book because you want to be able to use VBA to help you at work. I wrote a program to automatically generate and send reports via email - about 500 of them - and my boss was in awe. 
+
+You CAN develop VBA custome applications where the user can't see the underlying MS Office application, i.e., Excel for example. They use your program like any stand-alone application. COOL!!

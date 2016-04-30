@@ -1,0 +1,3 @@
+The book is best suited for those actually using Fortran. The Markov chain examples of Monte Carlo runs are well explained. Hopefully, the reader should not have any problem with the concepts. Of course, the actual runs are very compute intensive, but that's why you need a computer.
+
+If you are coding in another language, the book can still be of use. The algorithms are the same, of course. You'll have to manually recode the examples in your language. But the core of the algorithm implementations is relatively small. Shouldn't take too long

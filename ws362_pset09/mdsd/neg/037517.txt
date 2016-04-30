@@ -1,0 +1,9 @@
+CCNA Practice Questions Exam Cram, 2nd Edition
+Copyright 2006 by Que Publishing
+First Printing: December 2005
+
+Missed two whole chapters:
+Chapter 8. Access Lists and Network Address Translation
+Chpater 9. Serial WAN and Frame Relay Connections
+
+To protect yourself, don't buy this printing

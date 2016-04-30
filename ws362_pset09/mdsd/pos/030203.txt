@@ -1,0 +1,17 @@
+Last month, I was contacted by Wrox Press asking me to review of this book, Professional Ajax. I of course jumped at the opportunity, and have found this to be a very well rounded guide to Ajax technologies. It serves not only a comprehensive overview of all the various methods for handing complex asynchronous information exchange, but is also a handy reference guide for creating highly sought after effects for integration in your own site projects.
+
+In case you didn't already know, Ajax itself was a term coined by Jesse James Garrett in an article he wrote for Adaptive Path in February of 2005. It simply stands for Asynchronous JavaScript And XML. A little over a year later, and the entire web is abuzz with the new terminology. I was even able to attend a panel at SXSW on Ajax, led by Jesse himself. People just can't seem to get enough!
+
+Aside from JavaScript, it is important to realize that this mantra is less about a specific language and more about a method of user experience enhancement. The authors of this book, Nicholas C. Zakas, Jeremy McPeak and Joe Fawcett do a good job of staying platform neutral and language agnostic. They cover a myriad of examples with PHP, Java and the Microsoft .NET platform.
+
+They start out with a brief history, and show how the logic behind Ajax has evolved from framesets to iframes, and now the popular XMLHttpRequest. Since this is not an official W3C standard, a small bit of code forking is necessary. Most modern browsers handle it the same way, but Internet Explorer still treats it as an ActiveXObject. However, this change is slated with the release of IE7.
+
+Since I'm already pretty familiar with the theories behind Ajax, the chapters that stood out to me the most were 6, 7 and 8. Chapter six was devoted to web services, covering SOAP, WSDL and REST. It also shows how to make a rudimentary browser calculator, and a spell checker using the Google API.
+
+Chapter seven focused pretty exclusively on JSON, a lightweight alternative to using XML for asynchrounous data transmission. XML is argued to be more human readable, but since this information is created to be parsed and not read, the proponents of JSON prefer the lighter file size and ease of use.
+
+The drawbacks of using JSON over XML are that there is not native support for it in any languages other than JavaScript, as it's a code variant and not a markup language. So, some content transformation is involved in making use of it. An additional benefit of XML is that Flash can parse it natively more easily, as of version 8. It's really just based on preference.
+
+Using JSON, they teach how to recreate Google's popular auto-suggest feature, which completes possible search terms as you type. Chapter eight is where things really start to get fun though, because they teach you how to make even more web-based widgets. These include an animated news ticker, a weather checker, and a localized website search engine using a few external API's.
+
+The whole of chapter nine is devoted to constructing a web-based POP3 email application that mimicks the functionality of Gmail, including the courtesy of keeping the browser's Back and Forward buttons working normally. Chapter ten finishes off the book nicely by covering some popular Ajax frameworks, such as JPSpan for PHP, DWR for Java SDK and Ajax.NET for the .NET platform. Bascially, if you want to really delve into Ajax concepts, this book is ideal

@@ -1,0 +1,3 @@
+I bought this in conjunction with the knoppix hacks book as it was published more recently than the other book. Like the Hacks book, this has a number of really useful tricks that really show off the use of Linux and Knoppix as a whole. The ability to use Knoppix to cloan PC's and even setup a Master machine to act as a cloan repository on a network is really handy. 
+
+I think both this book and knoppix hacks compliment each other very well

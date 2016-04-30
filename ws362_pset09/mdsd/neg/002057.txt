@@ -1,0 +1,3 @@
+This book lacks technical details. This book talks too much about planning and management.
+
+I would rather have a book with more step by step instructions on how to accomplish different tasks. This book talks more what Exchange can do and less on how to do it

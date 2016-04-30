@@ -1,0 +1,5 @@
+The author is self-described as a "Business Reporter" and "Industry Analyst", which is fine and dandy in the context of delivering industry reports, etc. But it does not, in the least, qualify oneself as an expert on building wireless networks. And the author has never done so, which is glaringly apparent within the text.
+
+I have designed, deployed, operated 15 wireless broadband networks, and had hoped that this book, as advertised, would provide insight into how designing and deploying WiMax networks would differ from current technologies (in terms of link budgets, costs, capacity, etc.), but that information is nowhere to be seen in this book. The author purports that the text is practical rather than technical, but it is neither. And then the author ensues on primarily technical treaties on wireless broadband, but unfortunately (in terms of RF engineering, the basis of WiMax), the author is as technically astute as a doorknob.
+
+If you are looking to build a WISP (what this book is really about, not WiMax), there are much better books (Unger), written by people who actually speak from experience, and don't just write for a living.	

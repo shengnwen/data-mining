@@ -1,0 +1,7 @@
+I am studying robotics. I find this book very useful.
+
+Chapter 6: "Kane's Method in Robotics" introduces KANE method to drive dynamics equations for robotics in detail with example.
+
+Other chapters are well written with C source code. I have not tested these code carefully.
+
+Highly recommend for grad students those have read "Introduction to Robotics" of John Craig, "Dynamics: Theory and Applications" of Thomas R. Kane and David. A Levison

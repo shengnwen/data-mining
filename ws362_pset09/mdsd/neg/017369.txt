@@ -1,0 +1,9 @@
+I have read several books in the Dummies series and found them all excellent, so when it was time to learn SQL for a programming project I got this one immediately.
+
+Unfortunately, SQL for Dummies, turned out to be that absolute worst technical book I have ever laid eyes on.
+
+It jumps from topic to topic without ever really explaining anything.  It uses examples that are unecessarily complex -- I get the feeling his examples just come from years of working with databases, rather than a desire to illustrate any particular thing -- and the examples are never explained.  Over and over, there will be a snippet of SQL code used as an example, and I will wonder, "what does this or that part of the statement do?"  But he never explains anything.  He just throws it out there and then moves on.
+
+Dummies books always have a conversational tone, but the tone in this book is overly hokey and just reads like meaningless filler; all the more frustrating because there isn't really any content that it's filling in between.
+
+All I wanted was the basics of database design and interaction, an enumeration of the commands used for creating and interacting with databases and why some actions are useful and for what, and examples throughout of how one would do typical things.  Instead I got an intolerable and incoherent ramble

@@ -1,0 +1,1 @@
+I had a year's experience with SQL queries when I purchased this book, but I am so glad that I did.  It is by far one of the most useful Comp Science books that I have bought.  I do not, however, recommend it to people who need to learn SQL stuff ASAP, because it contains enough information to confuse the Hell out of ya. 

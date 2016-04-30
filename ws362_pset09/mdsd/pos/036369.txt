@@ -1,0 +1,3 @@
+Minsky has assembled 270 of his essays into this handy compendium. Each is somewhat of an epigram; only one page long, including an occasional diagram. The topics all revolve around the mind and intelligence. You can treat this book casually, by randomly reading an occasional page. Or you can plough through its entirety.
+
+Written over several decades, the essays give an incisive view into many aspects of intelligence. Hence, Minksy explains why some university level topics like calculus were relatively easy to program. But why "elementary" tasks like having a program do the equivalent of a 3 year old kid recognise and arrange building blocks have proved to be enormously harder

@@ -1,0 +1,5 @@
+I'm no genius in RF Engineering but I have come across a lot of good Microwave Engineering books and this is NOT one of them. More to the point, I work entirely with other RF engineers and every person I showed this book to shuddered and began spouting off profanities at it. 
+
+Although the book does start out simply enough, the chapters tend to give only a brief overview of the material. The real trouble starts when you try to work the problems at the end of each chapter. With no solid examples or clear explanations of how to proceed, I found myself referring to my other RF textbooks for support.
+
+I have no doubt that if you are borderline Genius, this book will make perfect sense to you. ...But for us less than genius personality types, keep looking, your book is still out there

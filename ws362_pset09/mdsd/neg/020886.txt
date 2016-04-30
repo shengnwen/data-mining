@@ -1,0 +1,1 @@
+Maybe I just missed something on the back cover, but this book doesn't teach you anything about Java.  While I liked HTML for Dummies, this one is incorrectly titled.  It should have been How to Use One Little Statement in  HTML.  All that's  covered is how to use the &lt;APPLET&gt; command.  If,  like me, you want to learn how to write applets, you'll need another book

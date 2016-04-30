@@ -1,0 +1,7 @@
+I'm a Java programmer who finished reading O'Reilly's "Programming C#" (very good book), and wanted to get started in Windows Forms programming. Chapters 1 and 2 were decent and Appendix B was an excellent introduction to Delegates and Events.
+
+The rest of the book, however, was very weak. All it did was give a brief summary of some of the windows forms components (and the  coverage was very weak). If you want to learn about a component you are going to have to look it up it on MSDN. 
+
+I was hoping the book would give me something other than what I can get by looking at an API. I was really hoping there would at  least be a few chapters on how to design Windows Forms applications - there was nothing. The easy part is learning how to use a component. The difficult part is learning best practices about design an application - something this book didn't touch. 
+
+Also, I'm not sure how the rest of the books in the "Microsoft .NET Development Series" are, but I think it's very cheap and dishonest to make a book 'appear' weighty. The book is 680 pages, but the margins, line spacing, and text are all very large. This book easily could have been half its size

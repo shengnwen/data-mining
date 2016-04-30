@@ -1,0 +1,10 @@
+Beneath my comments, writes Roseblatt:
+
+=====================
+In chapter 4, he is concerned with the 'limits of arbitrage' (the original title of this paper, published in the JOF in 1997). This paper is definitely worth reading to understand the problems with hedge funds and other arbitrageurs. However, linking the limits of arbitrageurs to 'inefficiency of the market' is erroneous. The very fact that arbitrageurs can not take advantage of what they think are mispriced assets, due to collateral constraints (Schleifer's hypothesis), shows that the market is efficient, since no free money is floating around. 
+=============================
+
+No, with the 'limits of arbitrage', the mispricing cannot be corrected quickly. The logic lies like this: suppose A sees the arbitrage opportunity, but due to the "limit", he can only trade certain shares, and makes $10 FREE MONEY. He knows there is still another $10 "on the table", but he cannot take action anymore. At this point, if no one else sees this arbitrage opportunity, the market remains inefficient until another arbitrageir B jumps in and remove that "remaining $10 on the table". Of course A and B made "free money". Shleifer's treatment is perfectly Okay. Roseblatt's rebuttal is illogic and obviously wrong.
+
+However, EMH itself is a hoax. It is not scientific at all. I believe in the early days, financial economics was dominated by people who had little quantitative or science training, therefore, they could only do something like EMH sort of soft libral arts type of research. To me, it is not EMH, it is how quickly the information gets reflected in stock prices; and how big is the limit of arbitrage. Nothing else. I suggest the new generation of high-level finance researchers should totally discard this spurious EMH topic. Period.
+

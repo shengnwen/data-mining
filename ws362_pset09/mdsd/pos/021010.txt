@@ -1,0 +1,11 @@
+This latest edition for Oracle10g JDeveloper builds on the success of the previous 9i version. As with the previous version, each chapter is well organized with thorough and accurate examples. Well thought-out attention has been given to explaining Oracle's Application Development Framework (ADF). The authors also go into great depth in explaining how to use the newly improved modeling capabilities of 10g JDeveloper (both their strengths and weaknesses).
+
+In short, this book as been well received by myself and colleagues I work with and would highly recommend it to anyone getting started in developing Oracle based applications with JDeveloper. I have found no better resource and tutorial for understanding ADF.
+
+Regards,
+-- jeff
+---------------------------------------
+Jeffrey Hunter, OCP
+Senior Database Administrator
+http://www.idevelopment.info
+--------------------------------------

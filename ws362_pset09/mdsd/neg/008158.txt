@@ -1,0 +1,6 @@
+    
+     Barnsley's book has a shortcoming common to many math text books -- it's poorly written.  Barnsely's writing style is superfluous and rambling.  What I learned from this book was in spite of Barnsley's writing, not because of it.  
+
+     Furthermore, the book's illustrations are substandard.  There are over five different fonts used in illustrations (including hand written text).  This leads to confusion when you're unsure if the text in Barnsley's illustrations is referring to Greek letters or the conventional alphabet.  Another shortcoming is that Barnsley intermingles end of chapter exercises with new concepts.  You may have problems 1.1 to 1.5 reviewing what you've already learned, and then problem 1.6 introduces completely new material.  This is a problem throughout the book, as important concepts are introduced in exercises or otherwise illogical locations.
+
+     On the positive side, solutions to most exercises are presented at the end of the book.  Overall the book was useful, but learning the material was unnecessarily difficult due to the book's shortcomings.

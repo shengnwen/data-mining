@@ -1,0 +1,8 @@
+This book was out well before the RTM of WCF and I'm amazed at how great a job the authors did being so far in the lead of the wave of WCF books.  The entire book is really a set of explanatory articles walking readers through introductory topics, general knowledge, and deep dives into specific areas of WCF.
+
+The writing style is clear and to the point, and the exercises are great for demonstrating the specific bits they're talking about.  The authors managed to keep all the code examples up to date via constant update releases on a companion website.
+
+There's also a bonus chapter covering InfoCard, its background, and how it ties in with WCF and some nice example code.
+
+(This is also one of the very few useful books I've found from Sams.  I generally dislike their offerings, but this one's a winner.)
+

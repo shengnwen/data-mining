@@ -1,0 +1,1 @@
+This book is not a good first text for a person trying to learn algebraic geometry.  Prof. Harris gives very limited explanations and few clear examples.  Try Shafarevich, Basic Algebraic Geometry vols I & II or Miles Reid, Undergraduate Algebraic Geometry.  For both books, you would need commutative algebra, at least at the level of Miles Reid, Undergraduate Commutative Algebra

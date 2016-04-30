@@ -1,0 +1,5 @@
+The ideas in this book have been a long time coming. And they are still not fully realised. Essentially, the book asks if, at some future time, our interaction with computers will fundamentally change. 
+
+Our current interaction modes may one day be regarded as hopelessly primitive and awkward. Technology constrains us to, most commonly, a keyboard and mouse. Speech recognition is steadily improving, but is not quite as robust as it should be.
+
+The book speculates that maybe we might interact with a computer that assumes a "persona" or character. A radical departure from what we do at present. But much has to happen. At the very least, heavy improvements in artificial intelligence are needed to buttress that character, so that it can interact meaningfully with us

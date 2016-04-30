@@ -1,0 +1,16 @@
+	This is a horrible, stunningly horrible, book. It has, sadly, persuaded me 
+	that I cannot simply trust the O'Reilly brand as signifying, if not the 
+	best book in a particular area, at least a worthwhile book.
+	The central problem is that this book has no idea what it wants to be.
+	It tries to be a tutorial, a cookbook and a reference, all intermingled. 
+	One paragraph it's trying to talk to newbies, the next it assumes you are 
+	a long time Apache veteran. 
+	One role, however, that it seems to have no interest in playing is that 
+	of giving the big picture, of describing exactly what Apache can (and 
+	can't) do in a given area, and why you might care, before getting into various nitty gritty.
+	I'm afraid I can't recommend a good book on Apache to buy; I would 
+	however urge you to stay away from this one. The worst shovelware out, 
+	Sams Teach yourself Apache in 24hrs or Apache for Dummies, cannot be 
+	worse than this sad failure.
+	(This reviews version 3 of the book. I have no idea if versions 1 and 2 
+	were less dreadful.

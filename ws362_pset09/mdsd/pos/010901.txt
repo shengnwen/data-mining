@@ -1,0 +1,1 @@
+This is a good book for anyone who creates web pages, especially when it comes to needing a quick reference for HTML or CSS. But it also covers web graphics and gives a little introduction on Javascript

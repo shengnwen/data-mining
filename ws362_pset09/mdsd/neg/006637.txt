@@ -1,0 +1,7 @@
+Sure he knows his stuff but doesn't have a clue on how to write. This is appallingly poorly written. It is one of the most ridiculously disorganized collections of academic 'verbage' (verbiage subsumes garbage) I have ever read. It's almost useless as a reference: its very non-linear (say non-deterministic almost) in concept elucidation (perhaps he's taken the notion of multithreading too much to heart and tried multi-threaded writing???). It's useless as a book to learn from- since learning by example is not just a way to learn, but the only way to learn (Einstein) and this book largely disavows examples.
+
+What it needs is another edition with a ghost writer. Seriously it's not good. Try Paul Hyde for a good intro to threads. 
+
+While those at guru-ish level may love this book, those of us for whom threads represent a means to an end, not an end in and of themselves, would probably want to throw this book in frustration of the author's inability to structure a coherent sentence with a clear point. This meanders on like great uncle herb's war stories and is equally will sapping.
+
+Avoid if you can or check it out when you reach guru-ness. It's a good cure for insomnia though

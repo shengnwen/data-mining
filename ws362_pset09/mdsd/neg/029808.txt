@@ -1,0 +1,1 @@
+This book makes no mention of Table Occurrences or Table Occurrence Groups, so if you plan to build or modify a database with many complex relationships, buy the Missing Manual book or the Filemaker Pro Business Applications book instead

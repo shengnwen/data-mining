@@ -1,0 +1,25 @@
+Sorry for the length of the review, but don't make the same mistake I did by buying this book.
+
+When I buy a book, I buy it for its content, which I assume is accurate, complete, timely and written by authors I trust and respect. The content of this book is neither accurate nor complete, doesn't cover the major additions to Excel 2003 and appears to have been updated solely by a new author unknown in the Excel developer community.
+
+If I want support, I'll ask my questions in the Excel newsgroups, where I'm confident they'll be answered by someone who actually knows Excel and uses it daily.
+
+I've had the 2002 version of this book sitting on my desk for a year or so and I find myself regularly refering to it. For me, the first half of the book containing the narrative about VBA is the best bit and much more useful than the object model listing in the appendices. When I read (on Amazon.co.uk) that the appendices were now downloadable and had been replaced by more than 400 pages of new material, I immediately ordered this update. I was expecting lots more of the same information-packed writing I'd enjoyed in the 2002 version, covering the topics mentioned above, such as &#34;Object-oreinted theory and VBA&#34;, &#34;How to use VB6 and VB.NET&#34; and &#34;Advanced error handling and debugging methods&#34;. All great stuff!
+
+Unfortunately, NONE of that is actually in the book! The object model appendices have NOT been removed, are NOT downloadable or searchable and have NOT been replaced by new material! I can only think that the 'Editorial Reviews' on this page were written from an initial outline that the authors didn't deliver.
+
+Already disappointed by it not matching the sales patter, I began to read the book, only to find that the four authors of the 2002 version (Bovey, Bullen, Green and Rosenberg) didn't actually contribute to this update! The new author, Kimmel, seems to have done the update by himself - and it shows!
+
+As far as I can see, there are three new chapters. The first is a totally impenetrable and theoretical one about Objects, interfaces, polymorphism, inheritance and lots of other jibberish - with nothing relating that to VBA or how we might use it. The second is a basic chapter about debugging and testing (certainly not the &#34;Advanced debugging and error handling techniques&#34; promised). The other new chapter is about XML, which mostly repeats the old material in the &#34;Excel and the Internet&#34; chapter, says that Excel 2003 and can now open and save xml files (with File &#62; Open), but completely omits anything about mapping XML elements to cells using the new 'XML Source' task pane! Those three chapters have been added without increasing the page count much, so the rest of the chapters have been 'edited' to make room - often by deleting those little bits of information essential to applying the concepts to our own code. His edits also included removing all the variable naming conventions from the example code!
+
+Kimmel has also restructured the book, so instead of the 'gradual increase in complexity' approach of the 2002 version, he's put all the 'theoretical' chapters up front - so we learn about writing userforms, database access, the windows API etc before we learn how to open a workbook or select a range! I can only think that C. Walker's review was about the 2002 version, because his comment of &#34;with every chapter the level of learning increases&#34; certainly doesn't apply in my opinion.
+
+The biggest problem with this edition, though, is that Kimmel obviously knows nothing about Excel. There are so many errors, inaccuracies and incompleteness that I'm amazed it passed the editing stage.  Surely anyone can spot the error in his tip of closing addins from the Immediate window using the command:
+ 
+AddinWorkbooks(&#34;TheAddin.xls&#34;).Close
+
+I guess he didn't know whether to use the Addins or Workbooks collections, so used both! And wouldn't that be an 'xla' extension?
+
+Bottom line: Do NOT buy this book. If you have the 2002 version, there's nothing extra worth having, and lots of new errors to stumble over. If you don't have the 2002 version, buy that version instead of this. Everything in it applies equally to Excel 2003, and the biggest new additions in Excel 2003 (XML Mapping and the VB.NET integration) aren't mentioned in this version anyway.  
+
+And if you're like me and want to read more from the original four authors, a new book by them has just appeared on Amazon.com - Professional Excel Development - due out in February. I can't wait

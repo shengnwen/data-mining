@@ -1,0 +1,8 @@
+Strengths:
+ - Fairly complete coverage of the various properties of special functions.  The introduction of these subjects is not good, but one could use it as a refrence for formulas.
+
+Weaknesses:
+ - Topic selection and rigor are weak.  Many important areas of mathematical physics are skipped over, or short changed.  For example, the section on tensors is far too short.  In addition, everything is introduced in index notation instead of coordinate free form.  Also, the group theory section is very weak (not to mention short).  The rotation group and lorentz group are discussed briefly, but there is no systematic introduction to lie groups or other important topics.  
+ - The book seems to focus on special functions, and solving differential equations.  However, it does not introduce hilbert spaces well, and therefore the presentation seems like a bewildering array of bessel this and fourier that, without anything to tie it all together.
+
+Overall, I'd say the book sacrifices depth by covering too many topics.  If you want to really succeed you're going to need a full course each on linear (& some multilnear) algebra, mutlivariable calc & vector analysis, differential equations, complex analysis, differential geometry and group theory.  If you want a condensed version, get byron and fuller.  It's written systematically, and strikes (in my opinion) a perfect balance between rigor and pragmatism

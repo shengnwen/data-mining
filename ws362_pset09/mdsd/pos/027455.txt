@@ -1,0 +1,1 @@
+A thorough reference book for Six Sigma and the implementation process.  As a beginner, I have found it very dense.  It seems to explain everything involved in Six Sigma in great detail, but it does not offer examples, so ought to be supplemented with other reference materials

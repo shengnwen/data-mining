@@ -1,0 +1,19 @@
+For those new to this book it is pretty much the project manager's bible in the same sense that "The C Programming Language" by Brian W Kernighan, Dennis M. Ritchie is to programming. That is to say this is the one to get off the ground with. It is also the basis of the PMP (Project Management Professional) test given by the PMI® (Project Management Institute.) 
+
+It comes in both paper, and CD-ROM using Adobe Reader. I have seen the paper book but bought the CD version it includes a tutorial on how to use the CD-ROM media. The media is a mater of preference. There are 425 pages and a good index and references. 
+
+Be aware that there are earlier versions. At the time of this review this is the latest version; however as The Body of Knowledge advances so will the PMBOK (Project Management Body of Knowledge Guide ®.) There for it is advisable for people that have read the earlier version to now read this version as a few terms have changed and some emphases have shifted. 
+
+As with any institutional book this is a good starting place or a solid foundation. However it may not cover concentrating on the waterfall concept of project management many instances such as the Unified method among others. They also do not take in many external influences as FDA requirements. And it is up to the reader to reconcile the two institutions. 
+
+Some changes to the Third Edition: 
+
+* Differences in Project life cycle and product life cycle are better explained. 
+
+* The number of process changed from 39 to 44. 
+
+* A greater emphasis is placed on the importance of Process Groups. 
+
+* Chapter three "Project Management Process for a Project" is moved and renamed "The Standard for Project Management of a Project." 
+
+* The project management processes now show process integration.

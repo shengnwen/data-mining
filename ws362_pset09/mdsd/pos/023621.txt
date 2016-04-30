@@ -1,0 +1,6 @@
+I am very, very impressed and happy with this book.   Increasing,  I believe Manning is the best publisher of computer books, having taken that title from O'Reilly, who I increasingly like less as I like Manning more.  This book, which I have been reading all morning, is wonderfully helpful. I have learned so much I cannot begin to tell you.  I dived for the chapter on using Hibernate with Struts, and the information on how to use an initialization Servlet, how to use Servlet Filters, how to use the Servlet context, how to configure web.xml,  and in general every word in this book I have read so far has been helpful, interesting, and directly useful to my job.
+   I had initially favored iBatis but the total lack of any intelligible documentation won me over to Hibernate.  This Hibernate book is filled with wonderful, short, meaningful examples that are written by people who really know what they are doing, and really care about communicating to their up and coming peers.
+   As the authors point out, nobody uses Hibernate or any other open source product without using other open source projects as well.  These authors meaningfully bring in other important subjects including Spring, Struts, web programming, patterns, and J2EE in general.
+   This book is a real page turner.  
+   I love this book.
+   Well done

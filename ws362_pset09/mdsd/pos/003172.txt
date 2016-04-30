@@ -1,0 +1,1 @@
+I have recommened that people learn Smalltalk (if for no other reason) just to read this book. On the other hand, one could probably read the book without a Smalltalk background since it uses fairly simple examples.  It gives clear explainations for style of codeing that is simple and  understandable.  Very helpful! Whatever OO-language you eventually code in

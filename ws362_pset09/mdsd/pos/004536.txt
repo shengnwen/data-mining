@@ -1,0 +1,6 @@
+This text is for the technical manager. It breaks down your project management duties into narrower, more specific tasks. Like putting together a project team. Which involves determining what tasks need to be tackled, and finding those people qualified to do so.
+
+Project planning is shown using various graphical approaches like network diagrams. These and other types of graphs are vital in letting you plan a schedule and then measure adherence to it. 
+
+Quality is also prominently discussed. There are suggestions on how to measure these in the deliverables. Unlike manufacturing, this can be difficult. The book only touches upon the complexities here. You should look elsewhere for a more thorough analysis of quality measurement.
+

@@ -1,0 +1,5 @@
+If you're just curious about what six-sigma is this is a good, easy to understand, book.  But it teaches you little that can be applied.  
+
+I'm in a company that is begining a six sigma effort and I am assisting the black and green belts in their work.  I had wanted a book that would help me do the things I would probably be asked to assist with such as building a SIPOC diagram.  Instead, the book is devoted almost entirely to telling you what the black belts do on a project (half of the 300 pages are about statistics and much of the remainder is about things like project charter).  The obvious problem is that a book like this can't actually teach you to be a black-belt. So after 300 pages I know some statistical principles, but not enough to actually do anything with, and I know nearly nothing about how to assist a black belt on a project.
+
+Before you say "but six sigma is all about statistics" let me say that I know that.  Stats are the core, and doing them takes training.  You will not learn to do six-sigma stats from this book.  You will probably not learn much else from this book either

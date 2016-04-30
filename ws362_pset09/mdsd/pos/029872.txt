@@ -1,0 +1,37 @@
++++++
+
+The brilliant idea behind this book is the inclusion of selected, original, translated "Great Works of Physics and Astronomy" (which is the book's subtitle).  These works were written by five intellectual "giants" (all men whose portraits are shown on the book's cover).  This book's title "On the Shoulders of Giants" was a phrase used in a letter by one of these men and the meaning of it is the theme of this book.  Its meaning, as Dr. Stephen Hawking states, is "how science...is a series of incremental advances each building on what went before."  This book uses these five men's great works "to trace the evolution of our picture of the heavens."
+
+This book was edited and has "commentary" by Hawking.  The reader is not told exactly what Hawking's commentary is but I assume it is the short but excellent introduction to the book, the brief but informative biographies or "Life and Work" of each man, and the helpful footnotes included with each great work.  All these as a whole comprise less than 2% of this nearly 1300 page book.
+
+I found in the page entitled "A Note on the Texts" the following:  "The texts [or great works] in this book are based on translations of the original, printed editions [or papers].  [There has been] no attempt to modernize [or correct] the author's own distinct usage, spelling, or punctuation, or to make the texts consistent with each other in this regard."  I assume this also applies to errors in grammar and errors to equations (such as omissions).  That is, any errors in the original, translated papers are not corrected.
+
+Who were these giants and what great work (that's included in this book) did they produce?  The answer is as follows: 
+
+1. Nicolaus Copernicus (1473 to 1543).  The work included is entitled "On the Revolutions of [the] Heavenly Spheres" (1543).  This work was the beginning of the Sun-centered "Copernican revolution."  It has an introduction and six parts or "books."  This work comprises about 30% of this book.
+
+2. Galileo Galilei (1564 to 1642).  Work included: "Dialogues [or Discourses and Mathematical Demonstrations] Concerning Two [New] Sciences" (1638).  This work "is widely held to be the cornerstone of modern physics."  It has four parts or "days."  It comprises about 18% of the book.
+
+3. Johannes Kepler (1571 to 1630).  Work included: Book Five of "Harmonies of the World" (1618).  With this book and his other four, "Kepler discovered how planets orbited."  It has an introduction and ten chapters.  Comprises 7% of this book.
+
+4. Sir Isaac Newton (1642 to 1727).  Work included: "The Mathematical Priciples of Natural Philosophy" (1687).  Better known as "The Principia."  This work includes Newton's three laws of motion and his law of universal gravitation.  It has an introduction and three parts or "books."  Comprises 34% of this book.
+
+5. Albert Einstein (1879 to 1955).  Work (which was co-authored) includes: Seven selections from "The Principles of Relativity: A Collection of Original Papers on the Special Theory of Relativity" (1922).  In these works, read how Einstein altered our perception of space and time.  Comprises 8% of this book.
+
+To read the works of Copernicus, Galileo, and Kepler, it would be helpful to know some geometry, trigonometry, and algebra.  The same goes for the work of Newton but knowing some calculus would also be helpful.  For the works of Einstein, knowing some advanced mathematics (such as advanced calculus) would be helpful.
+
+I found, for myself, that in all of the above great works, the person's thought processes could be easily followed (even if the mathematics was unclear).  This even applied to the works of Einstein.  I recommend reading each of these works slowly and taking frequent breaks since the reading can become tedious at times.
+
+There were three problems I found with this book:
+
+First, the table of contents.  For the major works, it just states their title and page number of where they begin.  For example, the work of Einstein begins on page 1167 and that's all we're told!!  Why not list the seven selections that are included?  Thus, state in the table of contents that one selection has the title "On the Influence of Gravitation on the Propagation of Light" and that it begins on page 1193.  Or consider the work of Copernicus.  Why not state that part four of his work starts on page 197?  Since this book is so large (and probably intimitating to some), I feel that a good, detailed table of contents is imperative.
+
+Second, I found small errors in that 1% of the book that does not include the great works and Life & Work sections.  (Fortunately, these errors are corrected in these sections of the book.)  For example, in the "A Note on the Texts" page, we are told that "Kepler completed [his] work on May...1816."  But he died in 1630!  Or the table of contents states that Newton's birth year was 1643.  I don't normally nit-pick like this, but since there were only five men, I feel that little errors like this should not be made.
+
+Third, the "Life and Work" sections are not referenced.  Where was this detailed information obtained?
+
+Finally, a few equations in the Einstein papers have errors (like omissions, etc.)  As explained above, these were probably in the original, printed work and thus were not corrected.  In most cases, I found I could correct the error myself.  I did find three equations where some variables were cut-off.  I found I could easily deduce what the variables should be.  Even with these minor errors, the Einstein section is still very informative and usable.
+
+In conclusion, these five intellectual giants revolutionized the course of science.  Be sure to get this first-ever compilation of their great works!!
+
++++++

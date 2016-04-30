@@ -1,0 +1,9 @@
+First of all, you need to understand the patterns in the gang of four book before you attempt to read this one.  They talk about them all over the place without explaining them.  That's a warning, it didn't affect my review.
+
+The major thing I don't like about this book is the abstractness with which they talk.  They give you a high level description of a pattern and leave you with that fogginess.  
+
+I think the examples were poorly chosen.  I would have prefered to have examples that are only as complicated as they needed to be.  Unfortunately the book uses examples like, "We're going to make a voice recognition application" or "We're going to make an OS that can run applications that were built on Unix or WinNT or Linux".  I think the intent was to have some real-world-I've-been-working-for-six-years examples... it would have been smarter to put the real world examples in a separate chapter and keep the design pattern explanations simple.
+
+Also, I hate the diagrams.  They should have just copied the diagrams in the GoF book!  Instead they chose these diagrams that give less info and IMO are downright ambiguous in some situations.  Another thing the GoF book does is have 2 separate diagrams, one that's a (simple) real world example and another that's a diagram of the actual pattern.  This book only has the diagram of the actual pattern.
+
+I disagree with those that say this book is better than the GoF book.  I think what they like is the material covered.  Material aside, the GoF book presents the information in a much clearer way.  That's why I prefer the GoF book over this one

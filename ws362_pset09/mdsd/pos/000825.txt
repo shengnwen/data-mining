@@ -1,0 +1,15 @@
+ Networked computers are now what makes the world go round. Whether they represent money, programs, or notes to your mother, the bits that pass from machine to machine now manage a large percentage of the world economy. In industrial societies, the majority of the populations are able to connect to networks from their home and a small but significant percentage have networks inside their homes. 
+ When operating an automobile, there are some basic principles that you should know about the vehicle. Knowing things like how to check the oil and coolant, put air in a tire, change a tire, and how to recognize problems such as a weak battery are critical to your safety on the road. Working with computers that are connected is very similar. In the world of viruses, worms, and concern for personal privacy, knowledge is the only way to be safe. 
+ This book is the networking equivalent to a book I read many years ago, "Auto Mechanics for Everyone." It contains all of the basics of networking presented at a level that anyone can understand, although experienced computer people will find nothing of value in it. High quality color pictures are used to explain the concepts with captions of text sequentially numbered in the order they should be read. 
+ The material is separated into seven parts:
+
+*) Communicating by wire
+*) Mixing computers and telephones
+*) Local area networks (LANs)
+*) Links between LANs
+*) The Internet
+*) Networks for online business
+*) Intertainment
+
+so the coverage is fairly thorough in breadth.
+ The world of cyberspace is growing more dangerous every day, with malicious code and the creeps behind it lurking everywhere. One of the most effective ways of fighting back is to learn the basics of networking, and you can learn all of the fundamentals from this book

@@ -1,0 +1,5 @@
+As an experienced EAI architect, I felt very disappointed at this book. The book aim either at high-level managers to give them an introduction of what EAI is or at students who don't know anything about EAI. It is full of lot of abstract concepts without any implementation plan or idea. Most of tech described are out of date.
+
+I think a good book talking about EAI at least should have a chapter to compare all possible integration ways and should give readers their pros and cons. Also a good should talk about EAI vendors, such as IBM, Vitria, WebMethod, etc. What they really did, how they did, what we should concern today. Of course, a case study is necessary.
+
+If you, an experienced EAI developer or architect, would like to know or get more details about how to do it, you don't need this book.

@@ -1,0 +1,1 @@
+The book is basically a dialogue from the author's class on visual basic databases.  I found this writing style to be very annoying and not easy to follow.  The whole book is centered around one project and presents a narrow viewpoint rather than the more comprehensive approach to database design I was looking for

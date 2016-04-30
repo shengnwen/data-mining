@@ -1,0 +1,7 @@
+Most of the previous comments are either very favourable to the book (i.e. 4 or 5 stars) or completely against it (1 star).
+
+According to me, this book is a fantastic book IF YOU LIKE PROGRAMMING LANGUAGES. These are the languages I use (from time to time) on my Linux box: AWK, Scheme, LISP, C/C++, Java, Python and Ruby. I'm also trying to understand AspectJ, Oz and Erlang. I think this book is made for persons like me who find pleasure discovering and using new programming languages (and paradigms).
+
+I can understand that if you are a professional programmer (i.e. doing it for a living), this book is of (relatively) little value.
+
+Personally, I love this book

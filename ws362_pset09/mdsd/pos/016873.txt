@@ -1,0 +1,7 @@
+SQL Server is a major big-time database. It has numerous features with settings that can dramatically alter its performance. It can also be expanded to handle exceedly large databases with multiple servers handling a great many dips into the database updating, adding, selecting out data. There are also multiple editions of SQL Server to handle clustering, high availability and so on.
+
+This book covers all of these and more. It begins with the architecture, goes on to installation, performance tuning, security, performance tuning, monitoring, indexing, replication, mirroring, backup, logging, and clustering. 
+
+The book is intended for people who have some experience with SQL Server, at least to the point of being able to understand what SQL is and how to get data into and out of the database. It will then cover how to tune the queries you're already written to get the maximum performance. 
+
+This is a Wrox Professional level book, it is written by professionals for the use of professionals

@@ -1,0 +1,11 @@
+I was quite disappointed with this book. I've heard that the results in the British Health System after implementing TOC are quite outstanding. If it's true, this book doesn't reflect it.
+First of all, written as a novel, the backround story is not good. Two brothers are in a great fight and won't talk to each other because one of them is a TOC follower. Come on! I'm sure the authors's could've found a better backround story. 
+The description of how the NHS works is poor. The Health System is different from the one in my country, so I found it very hard to try to figure out how the NHS works, the different departments, the interactions, etc.
+From the TOC point of view, good for someone just starting with TOC, but too light for someone who has read any other book. 
+To explain the concept of a system constraint, the book uses the same type of analogy used in Goldratt's "The Goal" (the boy scout trip), but the example and the explanation is not good.
+The clouds built to find these problems conclude that the core problem of the NHS is the lack of communication between the different levels. I was expecting a more detailed analysis from the operations point of view.
+In the last chapter a year has passed, and there is a summary of everything I would have expected the book to explain throughout the book, all in one chapter, with insufficient detail.
+This book is good if you are involved in the NHS, and therefore know its problems, and if you know nothing about TOC. 
+If you want to learn about TOC Thinking Processes, I recommend Dettmer's "Goldratt's Theory of Constraints" with the main concepts, and "Management Dilemmas" (Shragenheim) with many interesting practical examples. Also "It's not luck".
+If you want to learn TOC Operations, "Manufacturing at Warp Speed" (Dettmer & Shragenheim).
+Project Management: Project Management in the fast lane (Newbold).

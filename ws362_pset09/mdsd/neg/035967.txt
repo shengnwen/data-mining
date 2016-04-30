@@ -1,0 +1,3 @@
+How can a book published in 2005 be about Visual Basic 6?
+Helloooo! VB 6 is dead! Not supported anymore. Learning it now is a total waste of time, even for a teen. The author should have written
+a game programming book in VB.NET 2005, but I guess he, not being very young, is still stuck in his old habits and doesn't t have the proficiency to do it. Don't waste your time with stuff that belongs to the past, especially if you are young

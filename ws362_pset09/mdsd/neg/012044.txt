@@ -1,0 +1,1 @@
+Obviously Lynn put a lot of work into the application used as the foundation for this book but unfortunate he did not put as much time into the instructional aspect of the application. Perhaps a good book for someone experienced with Direct X programming and who just want to migrate over to C# but not for a Direct X programming novices

@@ -1,0 +1,19 @@
+While this book does present useful topics that are particularly relevant to AJAX applications, my main problem with it is the poorly edited and structured way it is written. 
+
+The book is full of paragraphs like this one (found at the very beginning of the "Applicability section" of the "Decoupled Navigation Pattern"):
+
+"The Decoupled Navigation pattern is used when content is navigated. The statement is obtuse and does not really say anything because HTML content is always navigated. However, because of the way Dynamic HTML is used, content navigation is sometimes used to generate an effect. When links are used to generate effects, the Decoupled Navigation pattern does not apply."
+
+That's the whole paragraph beginning to end -- what the heck is this trying to say? Apparently aware of how non-sensical this is, the author starts the next paragraph with "To clarify this explanation..." and then goes on to present an example of a website in Swiss German (I think), with no translation given. Two pages of more examples and a summary rules-of-thumb later, and the only implied take-away is that the Pattern applies when decision-making and data processing are required, and the contents of the page change but not completely.
+
+A few sections like this could be forgiven (and you could quibble as to why he had to write this example this way), but stuff like this prevails throughout every chapter. More often than not, ideas which with some thought could have been condensed into a few sentences, result in half a page of digressions and logical dead-ends.
+
+Here's another one:
+
+"The need to separate the resource from the representation has not been adequately explained, and some developers may wonder why it is necessary at all. After all, may websites work well and nobody has complained too loudly. The reason why many websites work well is because they have probably implemented the separation of resource from representation. And those that have not done so have received complaints."
+
+Upon reading this, I feel some irreplaceable portion of my lifespan has just been wasted.
+
+At least one good thing this book does is that it only focuses on Patterns that are particular to an AJAX environment (e.g. Persistent Communications, Decouple Navigation, etc.), without wasting time on stuff that is applicable to other more general software design settings (which plenty of other books already cover of course). 
+
+While the ideas in this book are interesting and potentially useful to somebody beginning to design an AJAX application, the writing style makes reading it a true chore. Surely there is better written stuff out there on AJAX software design

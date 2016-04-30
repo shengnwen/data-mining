@@ -1,0 +1,1 @@
+This book provides a comprehensive look at not only VoIP, but all related legacy telephony systems it may interact with or replace.  A wonderful resource for anyone considering a VoIP deployment either at the office or at home.  The technical detail and background the author provides in his examples and background information is incredibly helpful.  I definately recommend.

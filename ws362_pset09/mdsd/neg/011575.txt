@@ -1,0 +1,2 @@
+Pro: pretty comprehensive
+Con: This book is obviously  written for the people without much idea about programming. It tries to explain many basic things in an extremely layman's term, which may make a real programmer feel odd. I do think some serious programmers or people well trained in computer need to learn javascript too - in that case, this is not the right book to read

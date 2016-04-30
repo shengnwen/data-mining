@@ -1,0 +1,1 @@
+This is a truncated help extension of what's already coming with the product, it works as a &quot;how to&quot; configure things inside IIS, poor in explaining concepts and what it means, you have to already understand the subject fully then depend on this guide as a one place how to, this is not what i was searching for

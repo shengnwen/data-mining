@@ -1,0 +1,1 @@
+A very good book. Analytical and Comprehensive. Even if you are a novice in programming the author achieves to make you understand how to develop apps with wxWidgets. Experienced programmers will find it useful for its great span of advanced subjects. All given in a well presented package. A must have. Support the Open Source Application Foundation

@@ -1,0 +1,5 @@
+This book was recommended as a supplimentary text for our mechanics course.  This book is 100% better than any other mechanics book I've looked at.  The explanations are very clear, especially for non-inertial & rotational reference frames and the derevations for conservation of energy, momenta, and angular momenta (integrals of motion).
+
+Includes extensive section on Euler angle derivation and tops.  The examples in this text are quite difficult (more difficult than your typical undergraduate text), but they are all solved with partial work, so they are still helpful for studying.
+
+Overall a clearly written text with good examples and excellent derivations

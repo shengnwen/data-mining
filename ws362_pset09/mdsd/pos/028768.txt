@@ -1,0 +1,9 @@
+Paulos starts the book with a clearly absurd story, one that has numbers and statistics mixed in with a narrative. His question is, why is this so jarring? Why is it that people are literate and numerate, but so seldom both at once?
+
+This book addresses that question. In part, he says that literature deals with many aspects of a few individuals, but statisticians generally study a very few aspects of very many individuals. He also notes that literature tends to treat each individual as a unique product of a unique time and place. In contrast, math and physics typically deal with cases where the specific individual is irrelevant. Any experiment on an electron gets the same result no matter which electron you use, or where, or when. 
+
+The dichotomy may not, in fact, exist. One could refer to the recent statistical studies of DNA data that have that literary much-about-few character and that often seek out the uniqueness of the study's subject. Part of Paulos's main point, however, is that reasoning in "human" prose is often just mathematical reasoning in street clothes. Other times, when day to day logic seems irrational to a simplistic "scientific" analysis, it turns out that there is a deeper kind of reasoning at work, and one that can be cast in formal terms.
+
+Paulos delivers more than his nominal argument, though. His presentation is filled with little asides and self-referential humor. He is a logician after all, and, like the logician Lewis Carroll, uses his logic to create delightful unreason. Taken as a whole, it's a brief, enjoyable, and instructive look a the formal side of casual reasoning, and at the human side of mathematical logic.
+
+//wiredweir

@@ -1,0 +1,6 @@
+Firstly, this book is true to its title...
+
+It motivates the subject matter clearly and presents instances of why a certain type of problem is important (Why do we care about Ax=b, Ax=[lambda]x, ...)
+It motivates the use of certain algorithms (Why do we use Gaussian Elimination, why pivot, why do the SVD, ...)
+
+Also, as a basic text in Linear Algebra, which is THE introductory subject to applied mathematics, it serves a a primer for various areas in applied math: optimization, numerical solution of PDEs, "curve fitting" =), etc....

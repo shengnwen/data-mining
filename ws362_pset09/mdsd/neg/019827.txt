@@ -1,0 +1,1 @@
+The first half of this book was on basic computer graphics. The second half wasn't much more than a rewrite of Microsofts DirectX documentation. There were only a few pages of shader techniques that I found useful

@@ -1,0 +1,21 @@
+This is my favorite ODE book.  Ever.  But I guess I'm in the minority on this.  I owned the 5th edition.  My ex owned the 7th edition.  Her book was a bit more flashy -- fancy graphics and whatnot were sort of distracting, but all the things that I love about my copy were true (for me) about her copy.
+
+I really like that they approach the subject via a wonderfully balanced viewpoint -- they do a tightrope walk of being rigorous and making the book useful for us physicists, and our cousins, the engineers.
+
+They go through practical theory but leave out the more exotic elements of ODE theory.
+
+I found the examples to be extremely sufficient.  Sometimes generous.  I can either assume that something awful happened to the 8th edition or that the other reviewers are the type of undergrads who think that a book should have so many examples worked out that if their hw problem isn't worked out for them, the book sucks.
+
+If you really want a zillion examples worked out, I have one word for you: Schaum's.  Read it.  Love it.
+
+This is a textbook.  It presents theory, it gives a few examples, and you're left to practise applying the theory.
+
+I found the text to be very well written.  They're not verbose, but they're not terse either.  Very nice balance.  The explanations and insights are masterfully written.
+
+Where the book really shines is that it's a practical "how to" book.  They cram a lot of different techniques into a nice relatively lightweight book.
+
+The section of PDEs is sufficient and appropriate for the intended level of reader.
+
+I love their problem selection.  In fact, what I love most about their problems is that they often have "teaching problems".  You learn solution techniques through a series of well crafted end of the chapter exercises.
+
+Personally, I think this is the single best undergrad ODE book on the market

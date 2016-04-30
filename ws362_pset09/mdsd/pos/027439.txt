@@ -1,0 +1,5 @@
+This is a great book on physics simulation, covering most of the mathematical methods and tricks. Some people would complain that's very mathematically intensive, but I don't see another way to do it without being superficial. This book, however, goes very deep in almost every aspect of rigid body simulation, and covers some aspects of non-rigid body simulation as well, which is an emerging trend.
+
+I would suggest only one change to it: there's a chapter on shaders which is pretty much useless - it's very superficial as it doesn't teach shader writing, and doesn't teach hwo to use shaders for physics - I'd suggest that it be changed to include GPGPU methods for physics instead. 
+
+Other than that, the book is great, and the only one I've seen that actually covers heavy-duty, real-world simulation and not just silly approximations for special cases

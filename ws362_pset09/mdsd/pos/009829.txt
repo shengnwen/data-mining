@@ -1,0 +1,5 @@
+This book is a summary of the journal articles by the three authors.  They have done a good job of rewriting them into a coherent, logically flowing book.
+
+The title is misleading as the book deals exclusively with silicon MOS transistors and oscillator types that are suitable for integration including the passive parts.
+
+If you make such circuits, this will be a good book for you.  If you design BJT or JFET oscillators you will not find this book very useful

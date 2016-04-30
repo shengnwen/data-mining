@@ -1,0 +1,1 @@
+If you are already an expert in Enterprise Data Architecture then this book may make some sense to you, but as an introduction the book tries to cover too much material without explaining any topic in sufficient detail. The author's first language is clearly not English, and the book is full of sentences that just don't make sense in English

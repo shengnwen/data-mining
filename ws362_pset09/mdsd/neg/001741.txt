@@ -1,0 +1,2 @@
+If you want to understand and pass a subject, you have to read the original book (here Introduction to Statistical Quality Control by Montgomery) and try to understand the examples and the concepts in the book. In addition you have to do several exercies in this book to reinforce this understanding.   Studying some outlines, highlights and notes prepared by other people won't help you much.
+

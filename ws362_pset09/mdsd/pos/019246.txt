@@ -1,0 +1,5 @@
+The Internet is a special kind of computer network, though by now the most important. But have you ever puzzled at the innards of it or any other network? The problem is that most explanatory texts are aimed at the computer professional. And indeed, often for someone planning to specialise in writing applications to run on that network.
+
+Derfler and Freed write for a different and far broader audience. They do not assume that you are a professional programmer, or plan to become one. So the jargon is not as impenetratable as in other texts. Plus, a distinguishing feature of this book is the skillful and generous use of diagrams, to illustrate ideas in the text. Takes a lot of the abstraction out of the problem of learning the material.
+
+Furthermore, this edition contains explanations of 2 very hot topics. Voice over IP, which gives the potential of cheap (free?) phone calls. And peer-to-peer networks. For the latter, two cases are covered - with a central server, and without. Refreshingly, the example usages are not of copying music or video. To show that, yes, there are good usages of p2p networks.

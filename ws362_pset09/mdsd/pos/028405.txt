@@ -1,0 +1,5 @@
+This book is intended for uses on RTOS, ore more specifically, uCosII which ared used in the sample codes. To me, using real time kernel for simple applications as demonstrated in this book, is highly unnecessary. The codes seems to take up plenty of memory, there are still plenty much room for optimization. I am not using uCOSII, therefore, the sample code and most explanations seem to me as "calling functions" only, which I quickly browsed through.
+
+However, the concept of RTOS is well-explained! With simple sentences, the author clearly illustrate how RTOS run basically. This is especially useful to those with no background on OS. I particular found the chapter on "Analog I/O" is more worth reading. It organizes some of the common I/O reading methods in clear form. For instance, after ADC is enabled, its output can be polled after some delay, or polled periodically, or by external interrupt. In addition, a great example on ADC and DAC project is covered.
+
+I would recommend this book to beginners who have learned to write simple single task (such as read/write I/O, writing to LCD, RS232), and want to integrate tasks into a bigger application.

@@ -1,0 +1,5 @@
+this books needs two things desparately:
+
+a) A new edition: the last edition was in 2002 - things have changed quite a lot since then, and
+
+b) More details on the technologies than interviews with one and sundry - books that just present interviews on who accomplished what are "let me feel nice about this technology" kind as opposed to "how do I really understand and implement this technology

@@ -1,0 +1,3 @@
+When I review Unix books, I come from a totally non-techical perspective. I always look at it from a lay-person's perspective, as someone who has to learn to use Unix because that is the only operating system available to use. 
+
+This is a handy referene book, if you have a basic knowledge of Unix, and are comfortable with using the OS. Sometimes, the explanations tend to be a bit lengthy, and that is something you will find in almost all Unix-related books. So, don't despair if you are unable to follow through completely, reach out to a live person to help you. At least that person will know that you tried to solve the issue, before asking for their help

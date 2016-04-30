@@ -1,0 +1,1 @@
+Overall this is a good book for learning transport phenomena, however, if you are lacking in some of the fundamentals (fluids, heat, etc) some of the steps in the examples don't make sense.  Once you have a grasp on the fundamentals, the book is very useful in breaking down transport problems

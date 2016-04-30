@@ -1,0 +1,1 @@
+&quot;Explorations in Quantum Computing&quot; is an expensive book, but if  you are looking for a good introduction to quantum computing visit a  preprint server. A lot of free  and good introductions are available. Therefore there is no need to buy a  book without the necessary detailed information

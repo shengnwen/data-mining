@@ -1,0 +1,15 @@
+Nowadays its less common for a user to have to compile a kernel, but there are times that if you don't do it a given device will no work properly (or at all). Despite the huge amount of Linux distributions available none is able to fulfill every user requirement. Configuring a laptop or  installing a server requires different sets of modules with imply reconfiguring and recompiling the kernel. If you want to listen to a music, enable power management on a laptop or install some enterprise grade features like RAID or LVM this book is surely to help you.
+
+The "Linux Kernel in a Nutshell" was written by one of the most renoun Linux kernel hackers, Greg Kroab-Hartman. Greg Kroab-Hartman develops system drivers since 1999 and is currently responsible for several of the kernel's subsystems, udev and hotplug.
+
+This book was written to explain everything with is necessary to compile and install a Linux kernel. You don't need any prior programming experience but is most recommend some knowledge of the Linux system and it's command line.
+
+The  "Linux Kernel in a Nutshell" is quite complete and clear making it easy for the reader to compile its first kernel in just a few hours after having the book.  Kroab-Hartman manages to do this supplying plenty of information in a well structured form that makes its reading extraordinarily easy.
+
+The first chapters explain how to obtain and compile the kernel with is very light reading (about one hour).  In the next chapters he explains how to customize your kernel. Finally at the end there is a list of boot and compilation parameters.
+
+If you have some experience with Linux or you usually compile your kernel the information available in this book is a bit too simple never the less useful. If you never compiled a Kernel this book will save you plenty of time.
+
+I recommend "Linux Kernel in a Nutshell" to every Linux user with wishes  to learn a bit more how it's Linux system works.
+
+Review made by Luis Rodrigues "Khromu"

@@ -1,0 +1,7 @@
+The Complete systems Administrator lives up to the "complete" part of it's name. This book covers nearly every area I could possibly think I'd ever need t look up in a network administration/system administration role.
+
+Unfortunately despite the fact this book is only four years at this point, I believe it already is beginning to show it's age. There is a lot of attention given to HP/UX, and AIX in this book with suprisingly minor attention given to Linux. I think it's safe to say that a typical sysadmin-type employee would be encountering many more Linux systems that HP/UX or AIX these days. 
+
+Information on devices and buses such as SATA is also lacking due to the technology being newer then the date on the book.
+
+That said, this book is still great and recommended but with the caveats mentioned above. I would look forward to an updated version of this book with more emphasis on Linux, updated info on Vista, Server 2003, and newer versions of OS X.

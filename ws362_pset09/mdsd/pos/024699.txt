@@ -1,0 +1,1 @@
+If you want to quickly understand Cisco networks this is a must read. I read the book twice over in one month and it basically gives you a sound knowlege of Cisco stuff. The labs are execellent. Gives you good CLI knowlege. The book helps demystify subnetting I can do it quickly now..very important in an exam scenario where you dont have time..I also liked the Frame Relay sectio

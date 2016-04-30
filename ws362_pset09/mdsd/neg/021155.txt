@@ -1,0 +1,11 @@
+The first third of the book has quite a bit of
+repetition.  Perhaps this was an attempt at establishing
+greater breadth but it just comes across as loosely structured
+prose. 
+Maybe the editor could have taken a cue from Cantor and deleted
+the middle third of the text in which the author gives a rather
+watered down version of the proof for incompleteness - thus 
+failing to live up to the book's subtitle.
+The final part deals with some of the personalities around
+Godel at the institute and - having finished with the more
+technical material - makes for an easier read

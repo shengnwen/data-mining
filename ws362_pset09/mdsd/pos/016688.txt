@@ -1,0 +1,1 @@
+This is a description of Windows Terminal Services as applied to Windows Server 2000. It does not cover Windows Server 2003. This means that the interfaces for the dialog boxes reflect Windows Server 2000. Otherwise the diagrams and tables are excellent for elucidating Terminal Services

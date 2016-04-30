@@ -1,0 +1,1 @@
+I'll admit I know nothing about ray tracing and I bought this book in an attempt to learn.  However, this book deals with the mathematical concepts of raytracing from an intellectual analysis standpoint.  If all you want to  do is &quot;make pretty pictures&quot; this book is not for you.  If you  want to write your own raytracing engine, buy it today

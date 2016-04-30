@@ -1,0 +1,30 @@
+"In some sense, a knowledgeable hardware hacker is one of the most powerful people in the world today." (p9)
+
+This quote may be either alarming or inspiring, depending on your viewpoint.  This ambiguity pervades the book, which also suffers from its uncertainty of purpose.  As a review of the most common software exploits it succeeds, and is streets ahead of those cubical 'computer security' tomes.  But the reader with some background in software engineering will be left hungry for greater detail.  (This goes some way to explain the mixed reviews it has received.)
+
+Publishers often insist that an author of a technical work cut it back severely to fit the format that their marketing people believe will sell.  This may have happened here and would explain the often disjointed nature of the narrative.
+
+A book of this nature will, or course, provide some skills upgrading for the systems cracker as well as informing the system administrator, but that is unavoidable.  "Security by obscurity" works quite well in some fields (military security, for example) but not on the Internet.
+
+With all these shortcomings, it is still worth reading for the breadth of ideas you will be introduced to.  The potential scale of software vulnerability will be revealed, and you will get a quick view of the most common exploits, with some in-depth reviews of buffer overflows and rootkits.  Along the way you will review server and client vulnerabilities, how targets may be assessed and penetrated, and how reverse engineering is carried out.
+
+Topics include:
+attack patterns
+tour of an exploit
+how attacks are implimented
+reverse engineering
+fault injection
+finding vulnerabilities
+writng plugins for IDA and other cracking tools
+exploiting server software
+input path tracing
+exploiting trust in systems
+exploiting client software
+in-band signals
+cross-site scripting
+crafting malicious input
+audit poisoning
+buffer overflows (in detail)
+rootkits (in detail)
+
+The book is not an in-depth training guide to these areas but provides some much needed background.  Well worth the read

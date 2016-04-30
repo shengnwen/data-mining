@@ -1,0 +1,1 @@
+As a statistics instructor, I found the book and software very helpful.  To extract the software is a bit tricky - you need to read pages 8-10 and 76-77 to get the disk installed.  Once installed, the Stat Plus Add-In adds  extra tools, including a box plot and normal probability plot, that  standard Excel does not have.  My students use the software in a computer  lab

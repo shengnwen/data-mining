@@ -1,0 +1,6 @@
+Beware! This book is no serious science book, it's no more than a paper-incarnation of a big poor joke..
+Unfortunately, it's the textbook being used in my fluid dynamics class and I had to buy this one. But if you have a choice, pick "Fluid Mechanics, Third Edition (Hardcover) by Ira M. Cohen (Author), Pijush K. Kundu (Author)"! It is easily understandable and nice to read and covers all important concepts and equations in a reasonable form!!
+
+In contrast, this book by Bruce R. Munson does not even derive the heart of fluid dynamics, the Navier Stokes equation in general (just a washed down version in one coordinate system, written in components), nor does it derive the Bernoulli equation in an appropriate way to emphasize the restrictions and applicability.. Also, almost every equation is given in components, not utilizing vector (or tensor) notation... This hides the beauty and natural look of the equations and makes it just worse to read..
+
+Overall, this is a really bad book, stay away from it

@@ -1,0 +1,3 @@
+This book was a great introduction to the basics of mortgage-backed securities, exactly as the title professes.  It is loaded with graphs and tables to help readers understand the quantitative sections.
+
+If you really want to understand this subject though, read Fabozzi and Modigliani's "Mortgage and Mortgage-Backed Securities Markets" as well as (or even in lieu of) this book.  It dates back to the 80s, but together with this book you will have a firm grasp of the fundamentals, and you can easily understand recent developments

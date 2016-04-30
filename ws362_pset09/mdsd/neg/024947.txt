@@ -1,0 +1,9 @@
+This book was evidently written by a person who speaks English as a second language. It is full of overstatements, non sequiturs, and awkward phrasing that make it quite annoying to read. Here are some excerpts from Chapter 1: 
+
+"The destiny, however, offered a surprise. This was the new operation system - Windows. Principally, new architecture has rendered all existing debuggers useless...NuMega again surprised the world with a new masterpiece. Its new debugger turned out to be beyond all possible praise...This was a triumph, which no one even dared to imitate."
+
+"...Gradually, antidebugging techniques went out of fashion. The victorious advances of Windows made it quit the stage."(!?)
+
+Where was the editor for this book? Does no one at ALIST speak English? I bought this book because I confused it with Hacker Disassembling (not Debugging) Uncovered, which is highly rated. I intend to return this book and replace it with the other one.
+
+Update: I bought the Disassembling book, and (silly me) it's written by the same author. I should mention that Kris Kaspersky is a well-recognized authority in this arena. He definitely knows his stuff, and the books contain lots of useful information if you can wade through the unfortunate prose. ALIST has done Mr. Kaspersky an injustice by not providing the editing that is needed to make these books what they could and should be

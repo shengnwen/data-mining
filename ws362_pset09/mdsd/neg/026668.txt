@@ -1,0 +1,1 @@
+The authors didn't go through in details how to calculate Present worth, installments, etc.Before using this book, it is better to read Principles of Engineering Economy textbook.

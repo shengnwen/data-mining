@@ -1,0 +1,7 @@
+This book is very dense, both in layout and writing style. It is long on verbose discussion and short on practical examples and advice. For example there 24 pages on release version numbering but only 8 pages on revision branching and merging.
+
+The layout would have benefited from lists and more diagram. It would have been useful to have more example templates and processes.
+
+What also annoyed were the basic mistakes e.g. How to correctly number a branch revision (it should normally be parentRev.BranchNumber.RevisionOnBranch, not parentRev.RevisionOnBranch).
+
+I think the editors must take a significant portion of the blame for failing to help the author deliver a more readable boo

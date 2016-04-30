@@ -1,0 +1,15 @@
+Suze orman's contined commentary, even after one uses the program and understands it, grates. You can't turn it off.
+
+But the major problem comes about when you try to print off the forms; they don't print properly, creating half pages, and lots of blank spaces that make the documents useless as legal forms.
+
+Contacting Help by e-mail brought various suggestions, none of them actually helpful.
+
+One response said the draft forms were faulty and they were working on it. When we wrote back that the final forms were what we were having trouble with, the response was to use PDF Creator to make a PDF and print the forms using that free program.
+
+Our state of the art computer/printing system couldn't get PDF Creator to print the forms, with an error note saying the forms weren't Windows compatible.
+
+Writing, again, to Help, we got another "solution" -- one saying PDF Creator would ask us where we wanted to save the forms, which had nothing to do with our query.
+
+The program is useless, and contacting the Orman team was useless as well.
+
+We think you might do well to pass this program up

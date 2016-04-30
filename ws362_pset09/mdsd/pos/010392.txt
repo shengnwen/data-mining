@@ -1,0 +1,5 @@
+As Web Services have grown in potential, the Web Services Description Language arose to describe them, as the name suggests. In turn, from this we have the Business Process Execution Language, which is better suited in which to write how to string together a bunch of Web Services. There have been books explaining, in part, how to use BPEL. But mostly from a syntactical viewpoint. 
+
+In contrast, Havey shows how to use BPEL in a top-down manner. The tenor of this book is that Business Process Modelling is conveniently expressed in BPEL. It may be easier to learn BPEL this way, given this motivation. The earlier books that include explanations of BPEL tend to use simpler business examples.
+
+Also, quite aside from BPEL, Havey shows that BPM is a subject that has some theoretical rigour behind it. Not just high level concepts

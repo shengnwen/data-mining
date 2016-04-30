@@ -1,0 +1,5 @@
+The two stars in my rating are not so much a comment on quality (although it has all the glitter of a 1940's graduate math tome), but as a warning that it is likely to be of value to an extremely limited audience.  I would strongly suggest looking through a copy to verify its usefullness to what you want to do before investing money in buying it.
+
+It sets up the machinery and provides examples of methods to determine distance from a linearly defined boundary of paramaterized point sets.  If this is what you need to do, then it will indeed be a useful book.
+
+However wider claims of great usefullness in analyzing general performance of businesses, or any other entities characterized by incomplete information and random variation, need to be accepted cautiously. Hence my warning that it will be of very limited usefullness to the majority of analysts, and it would be well to verify that it addresses the problem one needs to solve before buying it

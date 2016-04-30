@@ -1,0 +1,5 @@
+With 11 years of experience in the field, in my opinion this guide is a top one. Harris has a clear -back to basics- style of writing which come along with some supporting drawings (most people intend to have visual learning capabilities) and fine examples and references. 
+
+You'll need certainly some experience in the field and some kind of overview about security topics but with some other additional material available in the field like that of Roberta Bragg and Krutz you'll pretty satisfied with this guide.
+
+Rob Faber [MSCA, MCSE Server 2003]

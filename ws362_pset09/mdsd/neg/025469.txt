@@ -1,0 +1,3 @@
+I like to try out the examples myself. I have made numerous attempts to acces the book's website. I get a message from my browser that the wesbsite cannot be found. I have emailed both the author and the publisher but have not recieved a response.
+
+I have also found at least one mistake in the book. Figure 2.3 in Chapter 2 is supposed to show a web page without a style sheet vis-a-vis Figure 2.4 which shows the same page with the style sheet applied. However, they both look exactly alike

@@ -1,0 +1,6 @@
+You would learn more from the Protege OWL pizza tutorials.
+The book has no discussion on inferencing or how to actually make an ontology with OWL.
+The one example is simply a representation of the hours that a business is open. It could be expressed in plain RDF(S) and does not provide any indication of the power of OWL. For example, it directly specifies the hours for each day. A better example could define hours in terms of the type of day (weekday, weekend, holiday, Thanksgiving) and then infer the hours for each day. 
+The book uses unusual terminology holonymy, hyponymy, etc. (generalization and composition, respectively)
+OWL forms only half the book with the remainder covering URLs, XML,RDF, RDFS. Removing that material would have allowed OWL to be covered in appropriate detail. 
+Only the XML/RDF serialization is described, which is only used for exchange between tools. There is no discussion of the abstract syntax, N3, Turtle, etc that all provide a more human readable serialization

@@ -1,0 +1,9 @@
+This book rates cities by several livability factors, then adds the ratings to determine who's #1 (it's Charlottesville, VA), who's #2 (Santa Fe, NM) . . . all the way down to who's #331 (Laredo, TX), dead last.
+
+In doing so, the authors have inadvertently switched the ratings of cities with the same name: Columbia (Missouri and South Carolina), Columbus (Georgia and Ohio), Decatur (Alabama and Illinois), Florence (Alabama and South Carolina) Jackson (Michigan and Mississippi), Lafayette (Indiana and Louisiana) and Springfield (Illinois and Massachusetts).
+
+For example: Florence (Alabama) gets Florence (South Carolina's) rosey score for employment, while the latter is saddled with the former's rather grim employment score.  Or, Jackson (Michigan) receives Jackson (Mississippi's) milder weather rating, while the latter is stuck with the former's rotten climate rating.
+
+Since a city's ranking depends on the rankings of other cities, these astounding errors affect the final results of every other city listed in the book.  You can verify this yourself by comparing ratings summarized in the beginning of the book with ratings in each city's profile.
+
+This book is a fraud.  If this had happened in health care or financial services, the authors would have been fired and their study withdrawn

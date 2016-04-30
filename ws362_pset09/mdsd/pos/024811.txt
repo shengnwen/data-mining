@@ -1,0 +1,11 @@
+While the Linux world develops by the day, and new advances and Kernels are constantly being updated, this book remains a helpful and near essential tool for a beginning Linux user. From the absolute basics to a moderately advanced approach, this book offers a huge amount of tips as to which direction to approach Linux. I would suggest that anyone reading this book actually download and install the most recent distributions rather than installing the outdated ones on the disks.
+
+The author definitely has a strong presence throughout the book, giving a tone of guidance necessary to those new to the operating system.
+
+Though this book is excellent in it's own respect, never rely solely upon it, and stock up on Linux books. This book seems to wax over the command line, among other small facets of Linux that need to be explored in greater detail, so I would Suggest Linux in a Nutshell, or any of the other fantastic O'Reilly books as a companion to this book
+
+Content: 4/5
+Exploration: 5/5
+Writing: 5/5
+Completeness: 5/5
+Overall: 5/

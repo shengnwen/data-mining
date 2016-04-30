@@ -1,0 +1,1 @@
+Book just skims the topics mentioned in its title - just a disordered collection of a bit outdated drawings with childlike commentary. No word about power conversion essentials: topologies, magnetics, feedback, stability, EMI, power semiconductors

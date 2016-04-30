@@ -1,0 +1,7 @@
+This appears to have been written by a Java evangelist who loves to talk shop about the ins & outs of Java programming. Unfortunately, this is supposed to be about game programming, and in that regard, I found nothing practical about it. A single chapter on 2D graphics? This book goes into great depth providing the mathematics of 3D collision detection (chapter 16), but doesn't get any further in the graphics department than drawing a few static (non-animated) Actors (i.e. "sprites"). 
+
+The focus of this book is off-point from the start, in my opinion. The chapters toward the end on 3D graphics provide insufficient information to build a 3D game, and yet the material up to that point is insufficient to build a 2D game. What you end up with in the end is a lot of knowledge about Java, but not a single practical program, let alone game. 
+
+This problem is exacerbated by the fact that the CD includes .java and .class files, but no explanation on what to do with them (the back cover does say this is a Beginning-Intermediate book, not Advanced). 
+
+The Java Developer's Kit comes with much better demos than you will find in this book WITH convenient .html files with code to run the applets, which is something these authors should have included

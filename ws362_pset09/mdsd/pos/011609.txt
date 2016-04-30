@@ -1,0 +1,9 @@
+I am struck by the types of comments that have been made about this book.  There seem to be two camps:
+1) Those who think it's a very well structured, interesting, informative book
+2) Those who think it's a terrible book.
+
+Those in the latter category seem to think that the terms 'tuples' (rows), 'relations' (tables), 'attributes' (columns) are somehow Britishisms, because the book is written by authors from a Scottish university.  In fact, those terms are used in the database literature, and come from the mathematical foundation behind relational databases.
+
+I use this book in a course I teach on Database Management Systems, and I have found it easier to read and use than many other academic database books.  The first time I taught the course, I inherited the choice of text book from my predecessor;  it was a disaster as a textbook!  I substituted this book, and my students seem to like it reasonably well.
+
+Because you can't reasonably cover the material in this book in a single semester, I do think that it might be better to break the book up into two smaller books.  That way, the first of the two might be more usable in a single semester course.  Not all colleges necessarily have a two semester sequence, and if they don't, this book is overkill for just a single semester.

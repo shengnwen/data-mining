@@ -1,0 +1,9 @@
+TA is a highly sophisticated topic which cannot be covered thoroughly with a 316 page book. That's for sure. In fact, the author had been honest not to over promise with the humble title of his book. The scope of discussion is limited to chart patterns, trendlines, channels, moving averages, Fibonnaci numbers, MACD, Stochastics, RSI and a few others. As the author had emphasized his objective to make his book only an introduction to TA, I am not going to comment on the variety of TA tools covered. However, I still want to criticize on some of the weaknesses: 
+1) Number of real life examples/price charts are few. 
+2) The choice of parameters for MACD and Stochastics had not been discussed 
+3) False breakouts are so frequent in the author's graphs samples (that's a fact of life, I admit). However, the author made little attempt to teach readers how to avoid such traps with the use of multiple TA tools. 
+4) The relative weak Q&A sections that questions are focused on readers' understanding of the definition of jargons instead of the usage of TA tools. 
+
+Though the price is affordable, I am hesitant to recommend it to any aspiring trader/investor who are serious to get an elementary but quality course on TA. It's not the cost of the book that matters, but the cost of time and potential trading loss for reading it. 
+  
+ 

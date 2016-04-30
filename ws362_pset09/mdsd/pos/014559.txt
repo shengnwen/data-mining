@@ -1,0 +1,2 @@
+Best general usage Gimp book I have read (and I have read  many).
+Numerous comments regarding key strokes, and what is happening under the hood, which makes the subject matter more accessible

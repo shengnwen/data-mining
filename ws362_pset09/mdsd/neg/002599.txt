@@ -1,0 +1,13 @@
+Gell-Mann went to much effort to weave the diverse topics of this book together under the theme of complex adaptive systems. I found this to be a pointless endeavor. A good theme should provide cohesion or make the subject more approachable. Conceiving of both a single-celled organism and a culture as complex adaptive systems, however, provides little insight into the functioning of either and serves mostly to drive home the point that the notion of a complex adaptive system is so broad that nearly anything worth discussing falls under that heading.
+
+Quantum physics is discussed at length. Unfortunately this section reads more like a catalog of concepts and discoveries than like a good introduction conveying key concepts. Other subjects (biology, evolution, ecosystems, computer learning, economics, public policy) are covered too superficially to yield anything of interest.
+
+The major arguments of _The Quark and the Jaguar_ are as follows:
+
+1) Effective complexity is not the same as algorithmic complexity. Algorithmic complexity is 0 for uniform data and highest for completely random data. (Potential) effective complexity is highest in the middle, where patterns and rules (schema) can be derived and minimal for both uniform data and random data.
+
+2) Classical physics implies a deterministic world. How can anything interesting happen? Because quantum physics offers randomness.
+
+3) Complex adaptive systems create schemas to model the data. This is true for the formation of life, to children learning to speak, to scientific progress, etc. Successful complex adaptive systems are solutions to problems. So the biological and cultural diversity on the planet represents a huge amount of valuable information.
+
+4) We should preserve biological and cultural diversity so we don't lose valuable information

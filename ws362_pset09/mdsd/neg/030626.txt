@@ -1,0 +1,5 @@
+I chose this book after reading the glowing reviews here at Amazon, hoping to use it as an introductory tutorial to XML. I was disappointed! 
+
+The writing style chosen by the author is terse, as if writing space is at a premium - and this for a book which is 600+ pages long. The examples are badly chosen in my opinion, and the explanation of basic concepts is presented in the style of a reference manual. Take for example the explanation of the NOTATION element attribute: "A notation type attribute contains the name of a notation declared in the document's DTD... In theory, it could be used to associate types with particular elements, as well as limiting the types associated with the elements". 
+
+At this stage, I gave up on this book and went instead to Hunter's "Beginning XML". Still, all wasn't lost: I read a colleague's copy, so at least I wasn't out of pocket

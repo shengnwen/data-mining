@@ -1,0 +1,15 @@
+This is the best book that I have found for Verilog synthesis. There are many good books on Verilog, but most of them focus on simulation. This book is specifically useful for synthesis.
+
+The book seems intended to be used for a course on digital logic design. The first few chapters deal with digital logic design generally, and can be ignored. The discussion of Verilog begins after 100 pages in chapter 4.
+
+The core of the book is chapters 4 through 7, which describe how to define digital logic with Verilog. This is approximately 300 pages of description, discussion, and examples. The examples are well written, and very useful. The examples show, in a simple and straightforward manner, how to write Verilog that synthesizes well.
+
+Chapter 8 covers programmable logic devices, such as CPLDs and FPGAs. Unfortunately, the focus of the chapter is on specific device families, and is only of historical interest. For example, none of the Xilinx FPGAs discussed would be recommended in a new design. If the chapter had covered the basic concepts of device categories of interest, it might remain useful.
+
+The last few chapters cover some advanced topics, such as digital signal processing. A few of the topics covered are interesting. Most are too incomplete to be useful, and I believe that some of them (such as FIR filters) will not synthesize in a realistic case.
+
+The appendicies are extensive, and provide a reference for Verilog.
+
+The strength of the book is that it is the only one I have found that covers Verilog synthesis clearly. That portion of the book is a pleasure to use. The weakness of the book is that large sections are essentially irrelevant. It is a 1000 page book that would make a good 400 page book.
+
+The book would be significantly improved by an update, especially to Verilog 2001. In the current edition, Verilog 2001 is mentioned only in an appendix

@@ -1,0 +1,10 @@
+I was in the market looking for a good book on javascript and found... a marked lack of them. Most javascript resources seem targetted towards the non-programmer - they focus on using existing snippets of code and existing libraries and incorporating them usefully. But they do not attempt to explain exactly what is happening and why it is happening - they don't give you the ability to do anything from scratch.
+
+This book, thankfully, goes into perfect detail on everything. It tackles difficult areas like the DOM with clarity and good organization. The book progresses very logically and the writing is very clear.
+
+
+It gives very broad and fairly deep coverage of the language - from the very basics to Objects and Inheritance to DOM and to client-server communications. Each section is well written, it does not condescend but is very accessible. This book, being out earlyish, modestly suggests itself as an introduction to AJAX techniques - however, I found it much more useful than other books explicitly dedicated to the technology.
+
+Another very useful touch is his attention to cross platform issues, giving you code snippets to make things work in all (or at least most) browsers.
+
+Overall this is an excellent book.

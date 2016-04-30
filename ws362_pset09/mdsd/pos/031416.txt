@@ -1,0 +1,1 @@
+If you have experience in writing device driver (for any OS) this book is not the best choice. But if you don't, this book is an excellent one. This book takes you through each and every step involved in building various kinds of device driver for the system. The content is written to make sure you understand the concept(s)

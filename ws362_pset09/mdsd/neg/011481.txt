@@ -1,0 +1,17 @@
+Having recently completed a Ph.D in a very similar topic, I was excited that maybe somebody was taking the evolving beauty of index investing to the masses. I was disappointed.
+
+The book sets out a good case for index investing, specifically the use of ETFs'. For this the book must be commended. The author points out the shortcomings of a buy-and-hold strategy, as well as the pitfalls of active investment management, using traditional approaches. This sets the reader up to think there a panacea in store, which there is not.
+
+He specifically goes to length to tell the reader that picking stocks and timing markets are futile attempts at building a portfolio, and yet his solution for an indexed portfolio? Pick ETFs' and time markets, neatly disguised as "tactical asset allocation" and "stop loss" strategies.
+
+He states that strategic asset allocations are rigid, and therefore tactical asset allocations need to be applied, namely over/under weighting a portfolio according to what YOU think MIGHT happen in the market. This is nonsense. My research indicates that strategic asset allocations need not be rigid, and in fact I have found that by scientifically evaluating the strategic asset allocation periodically as much as 90 percent of a portfolio's expected return can be realised. No guesswork.
+
+Surely the author knows that guesswork is subject to being correct a large part of the time. In fact research indicates at leat 80 percent of the time to match the market, so I find it bizarre that the entire buildup is deflated by offering nothing more than tired, useless strategies. To wit, he suggests applying tactical asset allocations to take advantage of the January effect. Has he not heard of the efficient market theory which is a fundamental part of index investing?
+
+As for compiling a portfolio, he makes no mention of how this should be done, or explains modern portfolio theory. He indicates the futility of trying to find the next Microsoft, and yet shows how choosing the "right" indexes would yield higher returns than the market. A very confusing approach.
+
+As for risk management, he espouses the use of stop losses. How bizarre. This is a market timing technique that could lead to excessive trading costs, and leaves one in a dilemma as to when to re-enter the market. A far more prudent approach is what is known as value averaging. If a required return has been breached on the upside remove money from the market. On the down side reinvest the surplus money. This technique yields a significantly higher IRR than a buy-and-hold strategy. 
+
+He proclaims that markets always move up in the long term. If you are Japanese I wonder how you feel about that.
+
+The author does offer insights in the form of indexing, ETFs', asset allocation, rebalancing and other tidbits, but the book does not deliver any "revolutionary" approaches. A pity since he is on the right track. The work is sorely lacking in research and new insights. 

@@ -1,0 +1,1 @@
+The real title should be &quot;Computational Conformal Mapping in 1975.&quot; It's far from the state of the art, leaves out major topics and contributions, and has barely any reproducible computation in it. At best an introduction to classical, little-used methods

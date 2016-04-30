@@ -1,0 +1,7 @@
+So this is what became of X.500? Well, ok, not literally. But some of you may remember in the early 90s when X.500 came out and was heralded as the definitive way to implement a distributed directory service. But, for various reasons, it proved impractical and very few places actually implemented it.
+
+What this book shows is how Microsoft took the best ideas of X.500 and redone, along with other ideas, into Active Directory. Impressive capabilities, as thoroughly discussed by the authors. And also seemingly very practical, unlike the unlamented X.500.
+
+For those of you from a unix background, you might be familiar with NFS and the setup of a master server and slave servers. This maps into the idea of domain controllers for AD domains. But you can easily see here that AD far extends the scope.
+
+Perusing the book also led me to this off the wall observation. In AD, you hold data that is essentially static. That is, it should change only on a time scale longer than the propagation time for changes to reach all the domains. And the data should be small. (A few kilobytes at most.) For a set of many domains, AD uses a global catalog to restrict the scope of searches, instead of those going out to all domains. The point is, this is a critical problem in many p2p networks. So if you are thinking of building a novel p2p network, you might want to study how AD tackles the issue. Though this book nowhere makes this comparison to p2p, as far as I can tell

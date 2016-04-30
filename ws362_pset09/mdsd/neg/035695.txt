@@ -1,0 +1,4 @@
+I bought this book primarily for information regarding accounting and general ledger systems. I read all the great reviews here and thought this would be a great book.  I am very disappointed.  The entire section on accounting is only 40 pages and contains only a cursory overview of accounting systems and structures. They include a CD with the book which is supposed to contain actual SQL data structures but you have to pay them $350.00 to unlock the CD.  Given the depth of the book I would be reluctant to risk paying them that much for simple data structures which you can easily find elsewhere on the web for free.
+
+In all honesty I have not studied this book fully but in my opinion it was a waste of money and I will try to return it to Amazon.
+

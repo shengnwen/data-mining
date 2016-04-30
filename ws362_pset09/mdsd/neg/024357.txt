@@ -1,0 +1,1 @@
+This would be a great book except it needs to be updated for Matlab R12 and (now) R13.  Many of the functions referenced in the book (e.g. zplot, freqz) have now in the signal processing toolkit so one really needs to acquire this toolkit to make the book fully useful

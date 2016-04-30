@@ -1,0 +1,1 @@
+This book is and basic introduction to terrain rendering. It gets quick to the point and doesn't care much about the math. If you look for a introduction to terrain rendering and want get your results quickly this is a book for you, especially for this price!!! If you are looking for a profound book about terrain rendering with focus on math, choose another book

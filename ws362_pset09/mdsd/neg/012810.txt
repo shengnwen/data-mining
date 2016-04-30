@@ -1,0 +1,7 @@
+prior to reading this book, i had already taken a more difficult , engineering-oriented Digital Signal Processing class (groundwork for Geophysics) so I had a good background it in.  
+
+this book attempts to dummy down DSP concepts for the laymen (or layscientists) but fails in doing so.  half of the ideas are well articulated, but the other-half are written poorly (confusingly or expounded insufficiently) or are illustrated poorly. 
+
+i imagined that if i had no background in dsp or engineering--the target of this book--i would have found it very frustrating.
+
+since this is a textbook, most of the readers will have no choice in book selection, anyways, so tough luck :

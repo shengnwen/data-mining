@@ -1,0 +1,11 @@
+This is Martin Fowler's first book, published in 1997. The book is divided into two large sections.
+
+The first section details analysis patterns that Fowler has encountered across industries. These chapters cover several common domain patterns including representing organizational hierarchies, inventory, accounting, and others. Fowler approaches these chapters by starting with a simple model and repeatedly expanding on this model to fit more and more complex needs. This section of the book is interesting from an academic and a practical perspective. It was interesting to see how Fowler has approached different domain problems and I expect to reference these chapters as I tackle similar problems in the future.
+
+The second section of the book covers what Fowler calls Support Patterns. In these chapters Fowler discusses tiered architecture, presentation layers, facades, and association patterns. The second section on support patterns is less useful and some chapters are quite dated. While this information may have been useful in 1997, if you are looking for more information on layered architectures read Enterprise Application Architecture - a more recent book by the same author.
+
+I found this book to be quite good. I enjoy Fowler's style of writing and for the most part I found the book easy to follow. However, this is Fowler's first book and it lacks the polish of his more recent other books -- in a few spots it was hard for me to follow the author's train of thought.
+
+This book predates UML and the diagrams used throughout the book take a while to understand. There is a key to the models on the inside cover of the book, but if the diagrams had been updated to UML they would have been easier to understand. If needed, you can find UML diagrams for this book on Martin Fowler's website. I think sample code would have helped clarify some of the models as well, as was used in the "Gang of Four" book.
+
+If you are designing a domain model for a complex business, I think this book would be useful for you. If you are looking for similar books, I would suggest Design Patterns by Gamma, et al. ("Gang of Four" book), Patterns of Enterprise Application Architecture, and Refactoring both by Fowler

@@ -1,0 +1,3 @@
+This has to be one of the "must-buy" titles for any flash developer wishing to use OOP in his programming tool kit. This book gently guides the reader through all the key concepts of OOP and more importantly backs them up with simple but concrete examples. Please don't underestimate the importance of 'simple and concrete,' because when it comes to explaining, 'Design Patterns,' try and read just about any other book out there including Colin Mook's very excellent, "Essential Actionscript 2", and you'll soon learn how the theory and the complexity can have your head swimming. This book, on the other hand, makes learning fun and the authors deserve some kind of accolade for so succinctly rendering the concepts in well chosen but accessible terms.
+
+

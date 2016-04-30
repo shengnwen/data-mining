@@ -1,0 +1,31 @@
+The book's preface starts out with a simple fact, one that is not always obvious to many: It is never impossible for a hacker to break into a computer system, only improbable. When designing and security a network, it is the job of the security architect to maximize that level of improbability as much as possible. Anyone who makes their network even a little bit more security resilient will quickly find a drop in the number of security breaches.
+
+
+The publication of Hacking Exposed a few years ago started a new era in books about network scanning. Hacking Exposed was the first popular book that detailed how to go about performing a penetration test. In a similar vein, NSA is comparable to Hacking Exposed in that it provides a framework for doing security assessments. The big difference is that NSA provides a much more structured approach to performing the assessment, whereas Hacking Exposed lacked that formal approach. Hacking Exposed also goes into more details in many areas, and its initial title has morphed into many other different titles. 
+
+
+This more formal approach is manifest in the books 14 chapters. The first two chapters of NSA start out with the fundamental need and requirements for performing a network security assessment, and then details the tools and methodologies required to bring that assessment to fruition. 
+
+
+Chapter 3 details the ins and outs of network enumeration and also shows how to use standard utilities such as whois and nmap for network enumeration. Perhaps one of the most beneficial features of the book is the selection of countermeasures that are found at the end of each chapter. These countermeasures are very useful in ensuring that any vulnerabilities are appropriately fixed.
+
+
+Besides listing methods which an intruder might use to elude common security applications, the book also goes into numerous hacking tools. While some may see this as providing fuel to the fire, it is clear that the tools are readily available (and have been for years). Listing of such tools won't make hacking easier for miscreants and script kiddies; rather it provides a level playing field for systems administrators who need to defend against such hackers.
+
+
+After network and host enumeration, NSA steps forward into topics such as dealing with web servers and CGI, remote access issues, and ftp and database security issues. Chapter 9 does a good job of focusing on Microsoft Windows security issues. While entire books have been written about weak Windows security protocols such as NetBIOS, SMB and CIFS, NSA does a good job encapsulating ways to keep vulnerabilities here in check. Readers are highly advised to put the Windows networks services countermeasures listed at the end of the chapter into use. 
+
+
+Chapters 10-12 deal with the myriad security issues with email, VPN and RPC issues. While most of the information in these chapters (and the book as a whole) has been elucidated elsewhere, there is nonetheless a lot of valuable information contained in the chapters.
+
+
+Chapter 13, "Application-Level Risks," is important in that many organizations put far too much emphasis on security the perimeter and forgetting about the application. The need for more emphasis on application-level security is eloquently put by Marcus Ranum when he notes that "these days, with the kind of plug-ins that come in your typical browser, combined with all the bizarre undocumented protocols used by new Internet applications, make it highly unlikely that a firewall is doing anything more complex than a thin layer of policy atop routing. As such, the applications behind the firewall are now more critical to security than the firewall itself. Which should scare the holey moley out of you."
+
+
+Chapter 14 closes the book with a methodology for running a network security assessment. The author notes that running an assessment requires more thought than simply running security tools in a haphazard manner.
+
+
+Overall, Network Security Assessment provides a good framework for anyone who is serious about running network security scans to security his perimeter and interior networks. The book is written in a style that is readable and understandable style; while more of an introductory text, it does not treat the reader as a dummy.
+
+
+When it comes to running a network security assessment, the methodology is often more important than the running of the tools. While there is nothing radically new detailed in NSA, it does provide an effective and comprehensive overview of the issues involved in only 355 pages. If you are looking for a to-the-point book that does not get bogged down with screen prints and meaningless hacker stories and myths, Network Security Assessment is a good place to start.

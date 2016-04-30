@@ -1,0 +1,9 @@
+Andrew Hunt and Dave Thomas present what are humbly referred to as `tips' towards better software development. In principal, these two guys present a well put together argument that software development is a craft meant to be honed by craftsman (thus the secondary title, `from journeyman to master'). Truly, these two understand what it is to be an egoless developer destined for greatness and have captured the essence in a concise set of rules to follow.
+
+Most notably is the DRY axiom (don't repeat yourself) which, although simple, encompasses so much that is bad in software projects on many levels that it leads the book off as a key tip (and is referenced further in as well). Others including understanding orthogonal code and ubiquitous automation are equally as pivotal. These authors clearly understand their terrain and think the way you want your developers to think.
+
+On rare occasion, one of the tips provided seemed oddly out of the realm of what I would consider "key, generally applicable advice." An example was the blackboard or clue bag concept seemed a little off base for a book on programming and didn't provide me with enough concrete strings back to the rest of the tips to make me understand why it was included.
+
+The book includes helpful cross-references allow similar subjects to be quickly found when there is topic crossover (happens a lot). The pull out in the back with the tips quickly provided for reference re-enforce how simple it really is and reminds one that we can all improve. Also, there are lots of references to other good material as a launching point for anyone choosing to make software development their profession.
+
+Overall, a must-have book for the professional developer regardless of domain or technology. Ranks up there with `The Mythical Man Month' and `Code Complete' as a classic.

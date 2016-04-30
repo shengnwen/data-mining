@@ -1,0 +1,5 @@
+This is basically an excellent book.  A lot of very useful stuff.  Unlike the online PHP manual, it is on this technology called a book.  This comes in handy on say a NYC subway train, where you want to brush up on some PHP, or find the solution for something you are working on.  
+
+One major warning though: all the database stuff (about 20-30 percent of the book) depends on the PEAR DB class.  That is a great thing to use as are many of the PEAR classes.  But there is certainly great PHP code that doesn't rely on PEAR DB.
+
+Besides the db stuff the book has great examples with strings, numbers, I/O (files and directories), dates, etc.  And being that I used to be a Reptile Biologist - you got to love that Iguana.  If nothing else, just buy it for the cover

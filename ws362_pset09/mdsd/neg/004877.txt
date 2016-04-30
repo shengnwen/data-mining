@@ -1,0 +1,6 @@
+This book is good for people seeking PC repair and maintenance tips. The authors include valuable information about diagnostic utilities and tools. But I don't recommend as an A+ exams study guide. 
+The problem is that the contents of some chapters are not in the right place. For example, chapter 15 covers motherboards, power, bios and expansion buses. As expected, the authors include information about power supply and PCMCIA cards. But also, preventive maintenance and safety! Chapter 18 covers system resources and input devices. Why the authors included here laptops and batteries? 
+The chapter that covers basic networking is a disaster in terms of organization. The actual chapter is covering A+ Hardware Exam objectives but the authors also include A+ OS Exam objectives (internet, viruses and firewall). To complete the confusion there is information about OSI reference model, bridges, routers, switches and hubs and guess what?
+They are not A+ Exam objectives.
+The OS exam coverage is incomplete. I can not understand why the authors provided little information about Windows 9X and Windows XP and why they dedicated a long chapter to Windows Me!
+When I realized that I wasted my time with this book I purchased another one

@@ -1,0 +1,34 @@
+
+I do not recall reading another business book in recent years which I found more intellectually stimulating...and practical.  Where to begin? Perhaps the most appropriate approach would be to quote the authors. In their Preface, Ross, Weill, and Robertson suggest that, until now, research and executive education have failed to make a breakthrough in understanding and improving IT architecture efforts. They then recall Albert Einstein's observation, "The significant problems we face cannot be solved by the same level of thinking that created them." What do the authors recommend? "The focus needs to be higher - on [in italics] enterprise architecture [end italics], the organizing logic for core business processes and IT infrastructure reflecting the standardization and integration of a company's operating model...[Therefore] enterprise architecture boils down to these two concepts: business process integration and business process standardization. In short, enterprise architecture is not an IT issue - it's a business issue."
+
+Ross, Weill, and Robertson arrived at their conclusions after rigorous and extensive research which revealed what certain top-performing organizations do and how they do it.  In this volume, they share what they learned so that other organizations  can be guided and informed in their efforts to improve their own performance. More specifically, they respond to questions such as these:
+
+1. What are the most common symptoms ("warning signs") of an inadequate foundation for execution?
+
+2. Which three disciplines must be mastered in order to build one which is solid? 
+
+3. What are the key dimensions of an appropriate business model?
+
+4. How to implement the operating model via enterprise architecture?
+
+5. What are the four stages of enterprise architecture development and how must each be navigated?
+
+6. What are the specific benefits during the implementation of the enterprise architecture?
+
+7. When establishing a foundation for execution, why is it best to build it "one project at a time"? 
+
+8. How can - and should - enterprise architecture be helpful when outsourcing?
+
+9. How to leverage its foundation for profitable growth?
+
+10. What are the "Top Ten Leadership Principles" for creating and exploiting a foundation for execution?
+
+With regard to the last question, it is important to keep in mind that Ross, Weill, and Robertson's recommendations refer to enterprise-wide initiatives. Therefore, there must be effective leadership at all levels and in all areas of a given organization while creating a foundation for business execution. Everyone involved must be committed to the foundation, help to identify and remove barriers to progress, "feed the core" with continuous experimentation,  use the architecture as a "compass and communication tool," and collaborate with others while proceeding through each stage. These are the capabilities of exemplary companies such as Merrill Lynch Global Private Client, Dow Chemical, JM Family Enterprises, and TD Bankworth. "And what makes [these capabilities] a competitive advantage is that only a small percentage of companies do it well - we estimate 5 percent of firms or less." I presume to suggest that the material in this book is relevant to all organizations, regardless of size or nature. Even with their differences in terms of scale and available resources, they face the same challenge:  effective application of the principles recommended by the authors.  
+
+In the final chapter, Ross, Weill, and Robertson identify and briefly discuss a number of pressures that will make a foundation for execution even more important in the coming years. They explain why companies which have learned how to implement and manage standardized and integrated processes are best prepared for the realities of the marketplace. "A foundation for execution allows a company to automate predictable processes so management can focus on higher-value tasks like innovating, partnering, and identifying new opportunities. The foundation empowers employees and enriches jobs by reducing redundant and tedious tasks while providing the information needed to innovate and customize."
+
+After reading this brilliant book, many executives will conclude that their organization lacks a solid foundation for business execution. They will have become convinced by Ross, Weill, and Robertson of the importance of enterprise architecture as strategy. Now they are not only willing but eager to enlist the support of others to engage their organization in what is certain to be a difficult (albeit essential) "design and construction" process. However, people need to be convinced. They usually have the same two questions: "Why must we do this?" and "What's in it for me?" Fortunately, everything needed to answer these two questions is provided in the final chapter and the same material will also be invaluable during the preparation of a formal proposal to obtain institutional support throughout the given enterprise.
+
+To Ross, Weill, and Robertson, I offer "Bravo!" 
+
+Those who share my high regard for this book are urged to check out James O'Toole and Edward E. Lawler III's The New American Workplace, Lawler and Christopher G. Worley's Built to Change, Richard Boyatzis and Annie McKee's Resonant Leadership, and George S. Day and Paul J.H. Schoemaker's Peripheral Vision

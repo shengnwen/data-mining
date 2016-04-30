@@ -1,0 +1,3 @@
+This is a solid walkthrough of building C# automation code for Office, and for writing code that integrates into Office. Excel is covered in depth. As are Word, Outlook and the fascinating new Infopath product that is an XML technologies client.
+
+The writing is good. I could have used a few more non-screenshot graphics to illustrate the control flow between applications. But these are nit-picks. This is a solid book on automating and integrating with office using C# and .NET framework

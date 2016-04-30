@@ -1,0 +1,17 @@
+It is a book that, as fashionable today, accuses Euclid of numerous flaws, while itself replete with them.
+
+One can begin at the beginning of Euclid's Elements. He defined certain basic terms, which, it is now argued, should not be defined if to avoid &#34;infinite regress&#34; (p.11). Ironically, the accordingly undefined terms, and some additions to them, are said to be clarified, filling in gaps in Euclid's proofs (p.13).
+
+&#34;Infinite regress&#34; is alleged because on defining terms by others, we can ask that the others be defined, and so on indefinitely. However, this is not how definition works. We speak and write volumes with barely a definition, because we already understand most of the language. If some of it is uncertain, we can clarify it with familiar words. And what we especially want to understand in discussions are key words as in the above.
+
+Leaving terms undefined is motivated rather by wanting to arbitrarily &#34;interpret&#34; them for subjects like non-Euclidean geometries. This, as I noted elsewhere, commits the fallacy of equivocation. One cannot prove something by changing meanings of words involved.
+
+As to gaps in Euclid's proofs, it is claimed he failed to supply axioms for conditions merely assumed (p.70). But it is axioms that are assumptions. In fact, they are said to (p.10) likewise avoid &#34;infinite regress&#34;, by being accepted without proof. But the unstated conditions questioned, like betweenness (p.72), are of fundamental human knowledge gained by observation, the source of certainty even in logical principles, &#34;not conceivable otherwise&#34; and confirmable by diagrams. These conditions are like other words in the proofs tacitly understood, without making them explicit.
+
+More specific to the author are other flaws. He misstates Euclid's 1st postulate, having it say that a unique (straight) line &#34;exists&#34; passing through any two distinct points. The uniqueness (or such as existence) is not stated in Euclid's postulate and is not an issue until Proposition 4.
+
+Or, the author confuses his assertion (p.83) that every segment is congruent (equal) to itself (as usually part of Laws of Thought) with the 4th Common Notion, which states that things which coincide with one another are equal to one another. That Common Notion is referenced in again Proposition 4, and is about placing one shape over another whereupon they coincide and are equal in that sense.
+
+Flaws in the book also enter elementary logic. It is e.g. stated (p.45) that &#34;~[H &#62; C]&#34; (&#34;H does not imply C&#34;) is the same as &#34;H & ~C&#34; (&#34;[H and not-C] is true&#34;). The statements are universal, and given the first one, the second can be false in particular cases. In another flaw (p.49) the Law of Excluded Middle is said to state that P implies P or not-P. What the law does state is merely that either P or not-P is true, without positing one of them.
+
+The book contains many other flaws, not coverable within present limitations.

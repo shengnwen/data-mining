@@ -1,0 +1,5 @@
+With the growth of MacOS X and programmers looking how to take better advantage of the UNIX/Darwin/Mach underpinnings of the system, there is a great need for something to educate programmers on the basics of how to best take advantage of this environment. This book, affectionately known as K&P by some of us "old timers," continues to relevant, even after more than 20 years since its first publication.
+
+Sure, there are more "up to date" books, but K&P's treatment of the basics are the best. The book is full of discussions on best practices and uses for common commands that are still in use today. They show how to build the constructs to make shell scripts fly, even on today's faster hardware.
+
+The treatment of C programming under UNIX is classic. If you did not learn C by reading "The C Programming Language" by Kernighan and Dennis Ritchie (K&R), then the chapter on building a calculator with lex and yacc will be a difficult read. But other than that, this book is a must-have for anyone learning to program under UNIX

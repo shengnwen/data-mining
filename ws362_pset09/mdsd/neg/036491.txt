@@ -1,0 +1,10 @@
+Was looking forward to this book since I found some systems using BBs.  However, was less than impressed.  Nothing new, especially for someone that the indicator is named after.  Lots of references to his websites too.  Squeeze play-expect a move after period of low volatility, yep, nothing new.  But, no good discussion on how to implement strategy to capitilize on squeeze.  You'll learn more from the following tips than this book,
+
+1. If price touches a rising lower Bollinger Bands (long) or a falling upper Bollinger Bands (short) in the traded time frame, that is a safe entry point.
+
+2. If price touches a lateral (flat) Bollinger Bands and is also touching (or nearly touching) a lateral Bollinger Bands in a higher time frame, that is safe entry for trade in opposite direction.
+
+3. If price touches lateral lower Bollinger Bands (for long) and lower Bollinger Bands on higher time frame is distinctly rising, that is a safe long entry (reverse for short).
+
+4. If price touches lower Bollinger Bands and MACD and/or stochastic on higher time frame is showing long, that is safe long entry.
+

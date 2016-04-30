@@ -1,0 +1,13 @@
+No doubt, the interplay of topology and physics has stimulated phenomenal research and breakthroughs in mathematics and physics alike.
+
+Unfortunately, there is so much mathematics to master that the average graduate physics student is left bewildered.....until now.
+
+The text is an excellent reference book. I emphasize reference. The book presupposes an acquaintance with basic undergraduate mathematics including linear algebra and vector analysis.
+
+The author covers a wide range of topics from tensor analysis on manifolds to topology, fundamental groups, complex manifolds, differential geometry, fibre bundles etc.
+
+The exposition in necessarily brief but the main theorems and IDEAS of each topic are presented with specific applications to physics. For example the use of differential geometry in general relativity and the use of principal bundles in gauge theories, etc.
+
+Unfortunately, there are very few exercises necessitating the use of supplementary texts. However, to the author's credit appropriate supplementary texts are provided. The author goes to great lengths to show which texts inspired the chapters and follows the same line of presentation.
+
+Perhaps the greatest attribute of the text is to take disparate branches of mathematics and coallate them under one text with applications to physics. In doing so one gains a better grasp of how the fields of mathematics interact in the domain of physics

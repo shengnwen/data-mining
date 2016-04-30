@@ -1,0 +1,1 @@
+Unfortunately the version of JSF this was written against was using a different naming standard for the taglibs and there are a few other concepts that have changed.  Wish I would've bought a different book

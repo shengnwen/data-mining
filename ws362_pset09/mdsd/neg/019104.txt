@@ -1,0 +1,18 @@
+As far as I can tell, this book is driven by doubletalk, optimism, and magic.
+
+DOUBLETALK:
+Always take risks, we are told, because projects without risk don't have enough benefit. (A glib assertion, but.. OK.) Then we are told that we should never evade a risk - that is, we should never leave anything up to chance. In the middle here and there, we are told that risks won't go away. And finally, we are told that showstoppers are managed by promoting such risks to project assumptions with ceremonies... that evidently banish evil possibilities. The intent is to give managers the impression that they can take macho keen risks while controlling everything.
+
+Sorry Guys. You can look both ways twice, but every time you cross the street, you stand a chance of losing your life. Deal with it.
+
+
+OPTIMISM:
+Those risk diagrams. The wonderful thing about them is that... they're bounded! Ya know what? I'd kill for one of those! Project Management  might actually work for software development then! A bounded risk isn't a risk at all; it's a certainty with the possibility of coming in early in front of it.
+
+Gee, Guys! Many of my risk diagrams are lognormal - and they come from histograms of historical data. You didn't cover those.
+
+And finally there's the 
+
+MAGIC: Aside from the banishing rituals, there's the simulator based on magical industry averages. Wherever the data come from, and whatever it does, it doesn't have a large enough sample to make a stable... pie chart.
+
+But that's just it. The book is great for pie chart mentalities, and every moment they spend reading it, they're staying out of my way. 

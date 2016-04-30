@@ -1,0 +1,1 @@
+Very good introductory book to ARMA models. Full of real-life examples  that provide some intuitive insight about the issues that may arise when  modelling time series and forecasting. Requires some initial knowledge in  statistics and algebra but if you're involved in time series modelling, it  should be your first book

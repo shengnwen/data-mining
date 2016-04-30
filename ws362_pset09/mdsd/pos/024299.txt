@@ -1,0 +1,9 @@
+The last time I bought this was the Second Edition.  Boy, a lot has changed since then!
+
+I've mostly avoided Javascript because of platform compatibility issues.  These aren't entirely gone now, but it certainly has gotten bette, and this book shows how to get around what remains.
+
+I liked the "no-fluff" writing.  David Flanagan covers everything concisely - some reviewers here have complained about lack of examples, but I felt that those given were sufficient.
+
+The basic structure is as it was before (language overview in part I, client side use in browsers in part II) but many subjects have been expanded and there are entire new chapters.
+
+Definitely definitive :-

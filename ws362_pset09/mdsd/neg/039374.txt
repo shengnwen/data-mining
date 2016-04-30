@@ -1,0 +1,10 @@
+How many times do you have to read that, in order to create a menu item you have to
+      Press down the arrow key
+......
+and then
+      Press down the arrow key
+....
+and then
+      Press down the arrow key
+
+??!! the author can fill pages and pages with this kind of "step by step" instruction. It's not a matter of being new or not to VB .NET, it's a matter of expecting the author to assume that the reader has some common sense.  Avoid this book

@@ -1,0 +1,3 @@
+While this book contains wonderfully simple explanations of some very complex theories and ideas, there are several errors in the sample calculations that make me wonder how carefully it was edited.  I found no less than five errors in calculations in their "model answers" and some of them were incredibly simple (36+3=39, not 38).
+
+I would recommend Tests and Measurements For People Who (Think They) Hate Tests and Measurement instead if you're looking for a user-friendly guide.  Calculation errors are NOT user-friendly

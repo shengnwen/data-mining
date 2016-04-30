@@ -1,0 +1,5 @@
+I have been reading a lot of books about architecture recently, so when I spotted this I bought it without looking too closely at it. If I had paid more attention then I would have noticed that even its title hints that it isn't a standard book about n-tier architecture and/or UML modelling. First, the book is about IT architecture not software architecture, and second middleware is a major driver for the book.
+
+In fact I have to say this is one of the most refreshing books I have read recently. It has the subtitle "Strategies for Building Large, Integrated Systems"; though this is undoubtedly true, I would be more inclined to call it "Everything you wanted to know about architecture but daren't ask"! Certainly for me it filled in some gaps in my knowledge and in general drew together a number of topics that aren't always treated in architecture books, and gave them a nice coherent thread.
+
+See my blog for a more detailed review

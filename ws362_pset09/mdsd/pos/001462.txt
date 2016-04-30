@@ -1,0 +1,1 @@
+This book is a great reference site for using Oracle's WebDB. I am a developer within Oracle and it is great to be able to use this book as a reference guide for supporting my internal customers. It is easy to follow and understand and gives you many great ideas for web database development.  I know it has helped me provide a better service to my customers

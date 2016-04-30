@@ -1,0 +1,11 @@
+Very practical and readable book.
+
+I recommend this book even  if your company has successfully implemented CRM, because your CRM is only as good as your customer data.
+
+For example, yesterday I received a great offer in the mail for broadband internet from the large multinational company that I get my local telephone service from.  But - I have been a broadband customer with this same company for 7 years.  In fact, I get a bundled broadband rate for having both broadband and local telephone service.  Why don't they know this?  Why are they offering free modems and installation to new customers when I had to recently pay them to replace my 4 year old modem?  And why doesn't the customer service representative know this when I call?  
+
+This is especially embarrassing because the company has an industry award winning CRM and customer data warehouse system (that they spent many millions building) including a third party name and address cleansing and matching solution.  Something is clearly not working as designed.  Jill and Evan's book shows you how to avoid these all too common, expensive embarrassments.   
+
+The book provides  a great readable roadmap including templates and architectures for managers and system designers so you can achieve all the benefits you expect from your CRM system.
+
+You can trust their advice. Jill and Evan are pioneers in the design and construction of data warehouse, system integration, CRM and now CDI MDM solutions for major customers.  They have been on the ground as independent consultants successfully building massive, complex systems for large customers for over 20 years.  This book distills that experience into a very readable guide on what CDI and MDM are and how to successfully implement it.  It includes excellent case studies from their real world experience.  

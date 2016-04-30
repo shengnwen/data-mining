@@ -1,0 +1,15 @@
+I just finished a semester-long graduate course that used this book as one of three textbooks.  I am an experienced, mid-career data modeler and developer of database-centered applications and I have used entity-relationship diagrams for years, so I was initially a little concerned that this text would not have much new for me.  I was also suspicious of the author's notation because it leaves out a number of syntactical elements I was accustomed to using in UML and other data modeling languages.  However, I was very pleased and surprised with the amount of valuable and original content in this book, and I have significantly altered my modeling practices as a result.  
+
+This book is written in a quirky but very readable style, and I recommend it for both experienced data modelers who want to improve the quality and efficiency of their work, and for anyone who wants to start learning about data modeling.  
+
+Beginning data modelers will especially benefit from 
+1) the emphasis on logical data modeling and user communication, 
+2) the explanation of how to choose good names and identifiers, and 
+3) the examination of common patterns that appear in almost every data model, how to recognize them, and how to interpret them.  
+
+Experienced data modelers who have already grappled with those issues on past projects will gain further insight from the authors' coherent systemization of those topics, but should also appreciate and benefit from
+1) the content-neutral process laid out for iteratively evolving a diagram through controlled interactions with users, 
+2) the investigation of the underlying principles and forces that shape a data model, with many illustrating examples drawn from real-world projects, and
+3) the intellectually rigorous analysis of the notation and syntax used to represent a data model, and the semantic interpretation of each structure.  
+
+If I had to identify one set of people who would get the most out of this book, I would select software developers who learned data modeling on the job, or who are starting to learn it, and who would like a cohesive intellectual foundation for what they are doing.  This book can help you go from being a "pretty good" data modeler who can handle modeling familiar data to being an expert data modeler with a strong theoretical basis for your work who can quickly develop high-quality data models regardless of your personal level of understanding of the underlying subject area.  

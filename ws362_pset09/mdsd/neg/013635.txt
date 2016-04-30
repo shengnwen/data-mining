@@ -1,0 +1,3 @@
+The author has done a good job of scouring the antenna literature and summarizing all of the equations in one place.  The problem is the lack of any discussion about what the equations mean.  I am reminded of the definition of a college education given by Prof. McWhorter of Stanford, "the process of the professors notes becoming the student's notes without having passed through the mind of either."
+
+If you are an experienced antenna designer, this book will be of help.  If you want to learn from scratch, try the 50 year old book by Kraus

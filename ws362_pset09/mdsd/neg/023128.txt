@@ -1,0 +1,17 @@
+First, I am an avid reader of Bill's books.  I am a fan of the Pocket Consultant series.  I am a Consultant for a large software firm that has a vested interest in Vista. 
+
+That being said, I can't have been more disappointed with the Vista Pocket Consultant.  The omissions are the problem here - as well as some factual inaccuracies.  The book was obviously written and vetted on code that wasn't done yet, as references to tools, dialogs and terms that changed in later RCs and RTM are rife in this book.  Ximage and ImageX are not the same thing, for example.  One exists as a tool for Vista deployment, the other is a tool used by a major computer OEM.
+
+As to omissions - one of the main pillars of Vista and HOW it affects the Administrator is User Access Control.  Sadly, Bill gives only passing reference to UAC - with no real explanation for what it is and how it works.  Administrators need to know what UAC DOES, how it does it, and why it does it.  If a pillar of a piece of software is ignored, then the real value of the book is in question.  This would be similar to not covering NTFS, DACLS and ACEs in Windows NT, or Active Directory (at least to a level or degree that you knew what questions to ask) in Windows 2000.
+
+Also not discussed is the subject of BitLocker.  Again, lack of reference is very frustrating, given who this book was aimed at.  Administrators are EXACTLY the people that need to know this information.  It should have been a `must have' in this book.
+
+Discussion of the integrated firewall is lackluster and meager.
+
+If the subject equaled new security feature in Vista, this book did not capture the details of what is important.
+
+In my most humble opinion, this book is a rehash of the Windows XP Pocket Consultant, with new pictures and a `find and replace done - Windows XP to Windows Vista.  
+
+I had intended to buy a copy of this book for each of my client-administrators.  Then, I sat down with the book to find some of the key information that I knew that they would need to know OVER what they already knew from XP SP2.  I decided to recommend Mark Minasi and Byron Hynes' Administering Windows Vista Security: The Big Surprises because they touched on the most confusing and complicated issues in the new OS.
+
+I will continue to look to Mr. Stanek in the future for good books - tactical and precise.  However, I know have reason to pause, as I have bought on sight before.

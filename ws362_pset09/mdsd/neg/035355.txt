@@ -1,0 +1,3 @@
+Talk about over-hype from reviewer #1!
+
+This "manual" is thin on substantive content, with TONS of whitespace & whitepages to stretch it out to ~125pages. The documentation of the code should be available as a PDF with files on MATLAB's file exchange or on the publisher's website. Save yourself some $$.

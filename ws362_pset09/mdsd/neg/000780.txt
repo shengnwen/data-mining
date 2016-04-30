@@ -1,0 +1,21 @@
+This is an eclectic collection of various recipies for Excel. This is a strange "lemmings" effect that it has such a high rating on Amazon. 
+
+The book is essentially a badly written cookbook as it does not provide underling mechanics and key ideas behind the Excel formulas. Chapters are more or less disconnected and most of them can be read in any order. 
+
+At the end the reader is left with very new good findings that probably are not worth the price of the book. 
+
+Pagecount is very deceptive -- considerable part of the book is fluff -- brainless reproduction of basic things that one can find in help and that is not worth even one dollar. Many examples are very trivial and not worth reading. 
+
+Tricks like Appendix B are simply disgusting -- the author just copied the listing of functions that has no practical value whatsoever to inflate the pagecount. 
+
+Explanations mostly are extremely fuzzy. The author has real talent to make simple things complex and complex things impossible. Also this is just "do like I said" type of cookbook: the author never tries to explain concepts that are used (use of absolute adressing vs relative, the syntax intricacies of the second argument of countif and similar functions, etc) 
+
+Also the book suffers from frequent references to previous versions of Excel, which only distract the reader. One can assume that if the reader really wants to use one of the previous versions of Excel he can buy prev. edition of the book and save money. 
+
+In few places were things became more interesting they are also incomplete and/or incorrect (creation of your own VBA functions and collection of functions, usage of array functions like frequency, etc). 
+
+My impression is the author is just a book writer and does not have rich real world experience with Excel, the experience that is necessary to distinguish between important and trivial things. 
+
+As a result he cannot provide the reader any help in getting the grasp of underling architectural ideas, that are often very non-trivial (Excel is extremely powerful analytical tool disguised as a commodity spreadsheet).
+ 
+

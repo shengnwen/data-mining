@@ -1,0 +1,18 @@
+This review applies to the fourth edition
+
+The good:
+
+1.  Good introductory chapters on basic javascript.
+2.  I've always wanted to know how to do those neat drop-down menus.  Now I can.
+
+The bad:
+
+1.  Exercises at the end of the chapters have no answers.  As in, if you can't figure it out, you're out of luck.  (or maybe it's on the website -- see below)
+2.  The neat Virtual Fish Tank screen shown on the front of the book? You don't do that. (You do have some hover buttons, but that's better done in CSS now.)
+3.  By the last chapters, it seems to be a bit of a reach.  Not sure I really care about creating a poker game. (Especially since I'd have to type several pages of code in -- see below)
+4. Being that this was released in 2006, the HTML examples really ought to have been XHTML 1.0 Strict or XHTML 1.1.  There were more than a few things that would not pass validation in either of those types.
+
+The UGLY:
+
+The website is supposed to have the example code.  It does, but having tried on two different computers, the downloaded zip file is corrupted.  I've sent two emails to the publisher and heard nothing.  So a lot of time can be spent doing typing instead of learning.  No thanks.
+ 

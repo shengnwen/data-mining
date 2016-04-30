@@ -1,0 +1,9 @@
+From the cover hype, I expected a complete turnkey program for installing and learning Linux. I was disappointed.
+
+First, the book-provided CD would not boot, and there were no directions in the book on how to change one's BIOS to allow the CD to boot. (I learned from a friend how to do it.)
+
+Second, the software provided to allow one to have a dual boot (Windows and Linux systems existing separately on one hard drive) is incompatable with Windows 2000 and XP, for it is confused by NTFS files.
+
+So now I've got a useless book, unless I go out and plunk down 50-70 bucks for commercially available partitioning software OR install a companion hard drive reserved solely for Linux.
+
+The cover should warn the inexperienced (dummy) user of these sorts of things

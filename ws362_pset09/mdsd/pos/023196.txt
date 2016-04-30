@@ -1,0 +1,1 @@
+Very solid introduction into Camera Raw as used by Photoshop CS, CS2 and Elements.  Many advanced ideas are pretty easy to follow with the fine examples included.  Explains why raw format is the better choice for serious digital SLR photographers.  Differences between CS2 & Elements should also help those choosing between those two programs. 

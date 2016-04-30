@@ -1,0 +1,25 @@
+This badly needed update to the classic first edition preserves what is best about the old edition, which is the format and attention to detail, and adds the changes that have occurred to the UNIX operating system since the first edition was published back in 1992. Specifically, there are implementation samples for FreeBSD, Linus, and MAC OS X included. This edition is as the first one was, an excellent reference for anyone doing system level programming in C or C++ on the UNIX platform. It is was never intended to teach the reader the fundamentals of the UNIX environment nor to teach C/C++ programming. The author assumes a strong  knowledge of both. The book begins much as the first edition did, by explaining the UNIX kernel in generic terms. It then goes on to explain the various implementations of UNIX and their specific differences. You will find chapters three through ten largely unchanged from the first edition, as the basic mechanisms of file I/O, directory structure, interprocess control, and signaling have not evolved since that time. Chapters eleven and twelve are two new added chapters on threads, as  threading has become very important in UNIX system programming. Also, gone is the chapter on interfacing to a postscript printer. It is replaced by a more modern chapter on communicating with a network printer. The HTTP protocol is discussed in this context. The book contains a rich set of examples and downloadable code that is very useful. In addition, the book contains the implementations of two large-scale projects: a database library and communication with a network printer. Each project includes complete code with schematics. This book also contains numerous exercises, and the solutions to some of those exercises are included in the back of the book. Since Amazon, and some reviewers, show the table of contents for the first edition but not the second, I include that here for the purpose of completeness:
+1. UNIX System Overview
+2. UNIX Standardization and Implementations 
+3. File I/O
+4. Files and Directories
+5. Standard I/O Library
+6. System Data Files and Information
+7. Process Environment
+8. Process Control
+9. Process Relationships
+10. Signals
+11. Threads
+12. Thread Control
+13. Daemon Processes
+14. Advanced I/O
+15. Interprocess Communication
+16. Network IPC: Sockets
+17 Advanced IPC
+18. Terminal I/O
+19. Pseudo Terminals
+20. A Database Library
+21. Communicating with a Network Printer
+Appendix A. Function Prototypes
+Appendix B. Miscellaneous Source Code
+Appendix C. Solutions to Selected Exercise

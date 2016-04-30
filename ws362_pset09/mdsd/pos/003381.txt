@@ -1,0 +1,1 @@
+I liked this book, but it is somewhat limited in its scope.  I'm a software engineer, and this book doesn't offer tips on designing software.  However, it is phenomenal for code tuning and improving programming style and logic.  The experienced coder will not be disappointed with this book in his/her library.  Even the new coder can learn valuable tips from this

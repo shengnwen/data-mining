@@ -1,0 +1,5 @@
+If your not an Absolute Beginner...  If you have at least some background with programming...  This book probably is not for you.
+
+I'm only through the first 9 chapters of this book and I'm having a hard time staying awake while reading it...  Perhaps if I was a true beginner I'd appreciate his methods, but to me it seems like the author was paid by the word.  Which is to say he uses three paragraphs to say one sentence of meaningful information. And he repeats himself several times (at least in the first three chapters of the book)
+
+I wish the guys who wrote the PHP manual could do one for VBScript

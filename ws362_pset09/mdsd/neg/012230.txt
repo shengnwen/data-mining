@@ -1,0 +1,6 @@
+I really want to give this book at least 4 stars as I love the idea of encapsulating those great mathematical breakthroughs in one book and giving each a proper account instead of over simplistic summaries like many other math readings do. 
+HOWEVER, the errors contained in this book is intolerable. It doesn't make sense anymore to give those mathematical details as you can hardly follow them due to the errors. 
+For example, on page 5 it prints:
+If (2^n - 1) is a prime number then 2^(n-1)*(2^(n-1)-1) is a perfect number and that even perfect numbers must have this form. 
+it obveriously should be 2^(n-1)*(2^n - 1) instead of what has been printed. As other readers have suggested, you would expect more similar errors along the way. 
+Don't buy this book and wait for the 2nd edition if the publisher ever want to make an effort to make this book readable. I'm so very disappointed.

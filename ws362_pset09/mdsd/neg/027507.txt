@@ -1,0 +1,4 @@
+As someone that reads alot of books, both technical and non-technical, this is definetly the worst written book I've ever seen. It seems it has not been read by any editors.
+You can find typos, spelling mistakes, grammar errors and such all over the place. The authors just copy-pasted some of them over and over again. The text is boring to death, and for some reason, the least needed parts are repeated several times. For example, the meaning of "Description" of a field in a list is explained more than a dozen times in less that 5 pages.
+All of this, even before touching the content and subject of the book itself. The order of the content was not well thought of, the style of writing is boring, and the content itself is not very informative.
+As a developer, I did not expect to find much on the development side of SharePoint, but I doubt that even technicians and solution architects will find much help in this one

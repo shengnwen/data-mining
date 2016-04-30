@@ -1,0 +1,11 @@
+If you are a complete beginner with respect to many of the skills needed for Ajax: HTML, CSS, DOM, JavaScript, then this book might be for you.  All of the O'reilly Head First/Head Rush series are excellent teaching books and do a wonderful job at teaching skills in small bite-size chunks.  Lots of pictures, exercises and games.  This is about as fun as a book can get.
+
+But once you've read the book, you'll realize that you really didn't cover much ground at all.  400 pages of Head Rush Ajax is about the same amount of Ajax technical material as 40 pages of Ajax in Action.  All those fun pictures and games take up a lot of pages!  Only the most basic topics of Ajax are covered.  Much of the book is wasted explaining web-development 101 level subjects...
+
+So it wasn't possible for me to give the book 2 different ratings.  As a pure beginner's book - this is a 4 or 5 star book.  But if you already know HTML, HTTP, DOM, and CSS -- then this book becomes a 2 star Ajax book because it teaches so little about Ajax.
+
+
+
+
+
+

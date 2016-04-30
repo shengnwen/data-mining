@@ -1,0 +1,3 @@
+I got a lot of reading this book.  Security is a very complex and deep subject.  The author did a great job explaining the "gotchas" and steps you can take to avoid problems.
+
+This isn't just a system administrators book.  The software you write can expose holes in any security strategy especially from a data perspective.  I'd suggest picking this one up

@@ -1,0 +1,1 @@
+Is the author writing these good reviews?  Personally, I think this book is about as clear as mud.  So far I've read up through ch 7 for a class and can honestly say that I would not be able to produce even a simple program worthy of distribution.  No gui or graphics, all text prompts. If this book is a true representation of Java then I'm sticking with Visual Basic. 

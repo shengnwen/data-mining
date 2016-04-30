@@ -1,0 +1,1 @@
+This book goes into detail on number theory, but it is often hard to follow with the history mingled with the theory.  More advanced material is referenced without proofs.  Two readers will especially like this book: those who want an introduction to number theory and those who want a good introduction to the history of number theory

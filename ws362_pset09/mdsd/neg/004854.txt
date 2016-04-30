@@ -1,0 +1,8 @@
+If you are interested in version 2.0 of hibernate, this book works well. If you, however, are interested in learning hibernate 3.0, you will struggle to get anything to work.
+
+Examples:
+1. code/ddl generation from mapping xml doesn't work without serious adjustment
+2. the session.find command no longer exists (page 48)
+3. session.delete(HQL) no longer exists (page 51)
+
+For someone who is trying to learn hibernate, this manual has caused more headaches than it has solved

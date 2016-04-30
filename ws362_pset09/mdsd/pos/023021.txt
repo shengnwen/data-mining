@@ -1,0 +1,1 @@
+If you are looking for thorough explanations with great physical insight - this is the book to get. It is for people who want to know WHY more than HOW. However, If you are looking for how (to implement), I suggest the book  &quot;Fast Fourier Transform&quot; by Brigha

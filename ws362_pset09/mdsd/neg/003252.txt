@@ -1,0 +1,5 @@
+I think Collaborative Web Development was ahead of its time when it was written in 1999, but today it reads more like a relic.  It also doesn't help that the writing style is rudimentary (Ms. Burdman should've considered using a ghost writer) and the book is littered with typos.
+
+Maybe the book could be useful to people who have absolutely no experience in working with companies that have a web site, but there's got to be better stuff out there.
+
+I would NOT recommend Collaborative Web Development for anyone who has any bit of experience in project managing for the web.

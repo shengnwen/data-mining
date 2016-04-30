@@ -1,0 +1,16 @@
+'The Verilog Hardware Description Language' is a very good tutorial and reference for intermediate designers.
+I used this book in an upper level hardware design course. The course had a beginning Verilog course as a prerequisite. I hadn't taken that course but I had experience in digital design and VHDL. This book got me up to speed quickly with it's many examples and tight explanations of the Verilog Language.
+Some pluses:
+-Example designs are short, complete, and simulatable. Most are even synthesizable. This is good because an example can be quickly understood in its entirety. You don't need to flip through and stare and multiple pages to get an idea of what's going on. If you insist on having them, there are two long, practical examples towards the end of the book.
+-The text is very well written. Similar in style to 'The C Programming Language by Kernighan and Ritchie.'
+-Verilog 2001: Focuses on 2001, which is a little clearer than previous standards. I think all tools support 2001 by default now so that should be used.
+
+Some minuses:
+-Too expensive.
+-Not enough discussion on how Verilog constructs are compiled and netlisted. This is critically important in FPGA/ASIC design. However, this book is not any worse than other HDL books in this respect. It's just so important, I really haven't seen anything that gives the topic the treatment it deserves.
+
+Possible minus:
+-Not really for beginners. This is not a hardware design text.
+
+I haven't used the CD that came with the book so I can't comment on that. My guess is anything on that CD is not as good as industry standard tools like Mentor's ModelSim.
+Overall a very impressive book that will get you to productivity quickly in a Verilog project

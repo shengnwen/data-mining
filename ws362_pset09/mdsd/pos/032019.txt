@@ -1,0 +1,63 @@
+When searching for a very good UML reference book last year, I happened upon the book entitled "UML 2.0 in a Nutshell" by Dan Pilone with Neil Pitman.  The book, which measures a mere 8.9 by 6 by 0.8 inches, is both lightweight and highly portable; which is one of the reasons that I decided to purchase a copy. However, it was ultimately the content of the book, and not its compact size, that convinced to me that this would a very useful resource.  Condensed within 216 pages, "UML 2.0 in a Nutshell" lives up to its title, as the book is an extremely informative resource in understanding the various graphical elements that comprise UML with its nine types of diagrams.
+
+The book's 12 chapters and two appendices are divided into four main parts: an introduction, static diagrams, behavioral modeling diagrams and finally, extensions and applications of UML.
+
+First Part: Introduction
+
+chapter 1: Fundamentals of UML
+
+This chapter provides a short, but good introduction to the fundamentals of UML.  If you have never used UML before, this will help to introduce several key concepts of UML; but you might want to consider purchasing a UML tutorial book, such as "UML Weekend Crash Course" by Thomas A. Pender, to obtain a more hands-on approach to learning UML.
+
+Second Part: Static Diagrams
+
+Chapter 2: Class Diagrams
+
+Class diagrams are one of the most important aspects of UML.  With class diagrams, the relationships between classes can be thoroughly illustrated, including the strengths of the relationships between classes.  This chapter provides a precise description of the various ways that class relationships can be defined within UML: dependencies, associations, aggregations, compositions and generalizations; as well as association classes.  This chapter also discusses class members (variables & methods), whether a class might be abstract or an interface, and templates.
+
+Chapter 3: Package Diagrams
+
+Classes that are contained within a common package can be illustrated within UML using package diagrams.  This chapter also includes relationships between packages and use case packages.
+
+Chapter 4: Composite Structures
+
+This chapter discusses composite structures that exist during runtime, including connectors and ports, as well as collaborations.
+
+Chapter 5: Component Diagrams
+
+Components (replaceable & executable pieces of a larger system whose implementations are usually hidden) can be used in UML as either a black-box or white-box view.  This chapter discusses both uses.  
+
+Chapter 6: Deployment Diagrams
+
+This chapter discusses how the deployment of an application (which may include many pieces) can be illustrated within UML, including artifact instances, manifestations, nodes, devices, execution environments and communication paths.
+
+Third Part: Behavioral Modeling Diagrams
+
+Chapter 7: Use Case Diagrams
+
+This chapter documents how an actor (a person or another application) interacts with applications and their internal components.  
+
+Chapter 8: Statechart Diagrams
+
+This chapter discusses the two types of state machines that can be described in UML: behavioral state machines and protocol state machines.  This includes states, composite states, submachine states, transitions, activities, pseudo-states and event processing.
+
+Chapter 9: Activity Diagrams
+
+This chapter discusses how activities and actions are illustrated within UML, including activity edges, activity nodes, object nodes, control nodes and more advanced activity modeling: activity partitions, exception handling, expansion regions, looping, streaming, interruptible activities and data store nodes.
+
+Chapter 10: Interaction Diagrams
+
+How UML is able to illustrate interactions between objects is accomplished through interaction diagrams. This chapter discusses usage of interaction participants, messages, execution occurrences, state invariants, event occurrences, traces, combined fragments, interaction occurrences, decompositions, continuations, sequence timing, timing diagrams and communication diagrams.
+
+Fourth Part: UML Extensions & Applications
+
+Chapter 11: Tagged Values, Stereotypes and UML Profiles
+
+This chapter discusses use of stereotypes, tagged values, constraints and UML profiles. 
+
+Chapter 12: Effective Diagramming
+
+This chapter is essentially a "do" and "don't do" chapter that emphasizes the need to keep UML diagrams as simple as possible, though that is not always possible.
+
+The two appendices: Appendix A is about MDA (Model-Driven Architecture) and Appendix B is about the object constraint language (OCL), which is an extension of UML 2.0.
+
+Overall, I rate "UML 2.0 in a Nutshell" with 5 out of 5 stars and highly recommend it to anyone learning and/or using UML on a regular or infrequent basis. I have yet to see a book as well written as this in explaining the many aspects of UML in as a concise & easy-to-understand form as "UML 2.0 in a Nutshell".

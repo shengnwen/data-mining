@@ -1,0 +1,1 @@
+Every technician and/or PI should own a copy of this text for their lab.  With the logical diagrams and full explanation of the text, this book is really condensed and assumes some knowledge of molecular biology.  This book does not assume knowledge of genomics, but rather serves as a manual

@@ -1,0 +1,11 @@
+This was the bible I used for a project, I loved the ideas and I named the classes after the names in this book.
+
+However, 3 years later, after reviewing this book, I would say, many ideas in the book are already outdated and over emphasized in the past. Just remember the good old days when EJB was glorious and almost every company went for it.
+
+After the EJB rush, now when we are back to basic, we realized that many Plain Old Design Patterns are real gold. I would suggest you don't rely heavily on J2EE, focus on domain design instead.
+
+Many books provide this advice on domain driven development, such as Design Patterns, Refactoring, Domain Driven Design. 
+
+After you read those books, then read this book again. You will agree with this review.
+
+http://www.amazon.com/Books-for-Professional-Java-Developers/lm/R34SZ976NXXD22/ref=cm_lm_byauthor_title_full/104-7074534-463355

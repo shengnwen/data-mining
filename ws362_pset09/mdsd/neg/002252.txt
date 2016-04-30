@@ -1,0 +1,9 @@
+Hi there
+
+Coming from an Oracle and SQL Server world, not alot changes really between the enterprise class DBMSs, many of the same best practice principals apply.  Unfortunatly, this book falls WELL short of the mark.
+
+The book only glances over tuning, with no thorough look into the startup parameters for example.  Indexing, stats collection etc is also very poor and there are no discussions on internals (to save us all from reading the code!).  
+
+The replication chapter was OK, but I would seriosly suggest that the modelled replication model for load balancing is a really bad idea and a maintenance/cost nightmare.
+
+For a prod dba from Oracle or SQL, you will be very disappointed

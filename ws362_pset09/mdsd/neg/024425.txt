@@ -1,0 +1,1 @@
+I bought this book for my Numerical Analysis class.  It proves theorems very un-rigorously.  I've only seen the first 3 chapters so far, but a frequent phrase that comes up is "and by the results that we will show in Chapter 6, (statement) is true"

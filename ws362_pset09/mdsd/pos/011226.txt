@@ -1,0 +1,4 @@
+Econometrics, as the extension of statistics into economics, sends shivers down the spine of most undergraduates.  This book is, so far, the best textbook I have seen to teach econometrics.  It divides concepts into chapters that are easy to reference separately, and it follows a logical sequence similar to the one in most college-level courses.  
+
+In its 4th edition, Gujarati has had much time to improve the method and get comments.  However, after having gone through the course and the textbook, I was left with the feeling that there must be a better way to teach econometrics.  After learning it, you realize that the concepts are indeed simple, with much complex veneer to scare people away.  In a few years, a wise and student-aware professor will write a textbook (call it the Econometrics Holy Grail?) that will make learning econometrics similar to learning basic stats.  
+

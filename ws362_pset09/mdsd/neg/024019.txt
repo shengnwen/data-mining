@@ -1,0 +1,3 @@
+If you're looking for a "what's new in SQL Server 2005" this book covers that.  If you're looking for a reference book on the product, that goes into how to configure or upgrade from an earlier version--Keep Looking.
+
+The book explains new features in some detail.  But, I want to know how to place the databases in a specific directory, how to set up replication--not mirroring; and how to install the software remotely.  The book does not discuss any of that

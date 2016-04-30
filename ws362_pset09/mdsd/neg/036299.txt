@@ -1,0 +1,2 @@
+I took two days and went through the book. Sounds more like 
+R&D book rather than something which I am going to use. If you want to learn good SQL tuning, stick with Guy Harrison - it is more practical

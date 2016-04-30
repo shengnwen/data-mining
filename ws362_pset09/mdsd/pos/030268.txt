@@ -1,0 +1,5 @@
+Hibbeler offers an undergraduate text for the mechanical engineering student. The materials studied are solids, not fluids. The discussion starts with the simplest case of treating the bodies as totally rigid. Then we see a development of Newtonian mechanics, commencing with statics. No net velocities, in some obvious reference frame. 
+
+But even in this simple case, Hibbeler shows the student how to find the balance of forces in such archetypal instances as beams. 
+
+Later, he talks about how solids can to varying extents resist stresses. Be these longitudinal or torsional stresses. The resultant stress-strain relationships are a fundamental concept in mechanics, and the student should be able to follow the treatment quite adequately

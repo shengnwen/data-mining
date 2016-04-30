@@ -1,0 +1,1 @@
+The intro to TAPI starts out well, but many in depth TAPI features are not well covered.  Most noticeably missing is more than a perfunctory coverage of transmissing/receiving data through TAPI. The book's main thrust is  voice emulation.   This book was recommended to me, but I would have  difficulty recommending to anyone else

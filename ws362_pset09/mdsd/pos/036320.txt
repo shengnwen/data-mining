@@ -1,0 +1,10 @@
+The book clearly pushes forth a lot of pragmatic content that should be thoroughly adopted by the 80-percentile of all programmers "out there."  For the 20% who would argue that a "guideline" isn't etched in stone, the rest of us need not worry.
+
+It is easy to appreciate the authors' collective expertise and listen intently to the common sense and lessons learned through their experiences--all nicely wrapped up in this convenient package.
+
+Inside are numerous quotations (proverbs?) that speak to the common sense of this book, such as: "If you have a procedure with ten parameters, you probably missed some."
+
+In some ways, one may think that this book competes with Meyers' "Effective" series.  While there certainly is some overlap, in a world plagued with bad code and bad coding standards and practices, one can argue that there can not be enough emphasis on raising the bar.
+
+This book clearly puts forth a bar and explains the why's and why not's of its placement.  I encourage every C++ programmer to buy and read this book cover-to-cover.
+

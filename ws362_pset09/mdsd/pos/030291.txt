@@ -1,0 +1,5 @@
+SQL by now has acquired many elaborations in syntax. It can be a formidable barrier to a new user. But the authors explain well how to take a query, expressed in plain English, and arrive at an actual SQL query which will work. Hopefully, anyway!
+
+If you follow the book, then you can end up building quite complex SQL queries before you know it. To the extent of being able to embed joins inside joins, and to facilely manipulate outer joins and subqueries. 
+
+By the way, the book was published in 2000. It is not obsolete in the least, unlike texts in other branches of computing. The SQL described in the book is ANSI SQL 92, which is supported by all the main database vendors

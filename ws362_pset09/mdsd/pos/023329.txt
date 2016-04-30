@@ -1,0 +1,1 @@
+This book describe how kernel works and how was designed, it do not shows lines of code just shows you the way you have to write code into the kernel, I think is helpful if you try to undertand or write Linux Kernel code

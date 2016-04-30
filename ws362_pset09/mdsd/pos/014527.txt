@@ -1,0 +1,6 @@
+As a relatively inexperienced person drafted to build a web site, I found this book a well-spring of help and ideas. I HIGHLY recommend it but have a few points that could be addressed in future versions.
+1- Very numerous, unimportant but distracting typos/errors such as 'than' in the place of 'that.' Some seriously tedious editing attention should be applied to correct these irksome glitches.
+2- Constant referral to color such as 'green block' where the graphic is grayscale. Either use color graphics or stop using color as the descriptor.
+3- Representation of the egregiously non-standard IE as the closest to standard. Standards are determined by standards agencies such as W3C, not by market penetration.
+4- Outdated evaluations of browser share and the absence of FireFox in the discussion.
+Items 3 and 4 are undoubtedly due to the 2004 publication date but #4 is an issue impacting usefulness

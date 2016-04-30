@@ -1,0 +1,1 @@
+Not so bad, not so good... it has good topics, but there are not implementation of how to build it, the small number of sample have some unique (rare) style... if you intent to write your first compiler this is  NOT your book, if you already made one and pass for some frustating issues  then this is your book..

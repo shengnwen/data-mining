@@ -1,0 +1,1 @@
+This book is atrocious...plain and simple. There isn't a single thing in here that couldn't be gathered by glancing at the SDK documentation. Not to mention, it's wrong!! When was the last time you were able to access objects via the ipp provider and have your way with them?? according to this book...you can...interesting..

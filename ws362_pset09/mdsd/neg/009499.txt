@@ -1,0 +1,7 @@
+The world is still waiting for a good book that explains object-oriented analysis and design. This isn't even close to being that book.
+
+I knew I wasn't going to like the book as soon as I looked through the table of contents and noticed that appendix one is a kitchen sink full of topics, some of which belong in the body of the text and some of which have no business being in an OOAD book (why would you include sections about unit testing and refactoring in an introductory OOAD book?).
+
+Unfortunately, appendix two is even worse as it attempts (in less than 10 pages) to define the basic building block terminology of OO (inheritance, polymorphism, encapsulation). Why would this be in an appendix - this is the meat and potatoes of OO!!!!!
+
+Finally, the book must get rid of the programming examples - this is far and away the greatest weakness of the text. This is an OOAD book - not a Java programming book. O'Reilly made the same mistake with it's Head First Design Patterns book

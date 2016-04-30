@@ -1,0 +1,19 @@
+I am studying for an M.S in software construction in Denmark and this textbook was assigned to a course covering Software Engineering this last semester. The semester at the same time was focusing on teaching the theory of compilers and computation complexity.
+
+Being from Denmark, english is not my native language and I must say that the verbose language used in this book sometimes had me pulling my hair. It seems I am not alone when i say that. Most of the reviews here tell about problems with the overcomplex language used.
+
+I am not sure why the outher finds this necessary. There is also much use of references to other (somewhat outdated) books about the subject. I am not sure how many several authors I have read when i finish this one - it must be several. The left-margin is used for key-points, little advices, web-references which is a great idea. But they do take away the focus of the main text.
+
+I cannot say whether or not it presents the material correctly or if something is missing or the information is outdated or whatnot - I just do not like this book. It seems it was written for software engineers already in the field (it is the practitioner's approach) and the only thing they really need is a (grown up) presentation of the methods used in modern software engineering. And this book does contain that - indeed. Atleast it seems like it.
+
+This book is not for students which at the same studies technical courses like compilers and complexity theory. The intended reader for this book was perhaps never meant to produce source code but instead do the management of these chaotic projects. Though, this I am not sure of, since I an not a practitioner - but a hardworking student seeing myself reading this while coping with the immense culture shock it is for me to realize that I do not know anything about developing software.
+
+The book does manage to give away information (if read carefully) and from one perspective it is not just a waste of money. One usefull feature are the examples of dialogs between members working on a fictive software project. They are very informative.
+
+But to use it like is has been done in my situation is just a clear misconception of the reality which lies in the study of the conceptually hard areas of this kind of education.
+
+Bottom-lines:
+
+- You like programming, mathematics, theoretical studies and understand that careful planning and execution of software projects is a requirement - get another book on software engineering. Perhaps the one by Sommerville or McConnels's Rapid Development are good bets.
+
+- You have been working in the field of software engineering for several years but haven't really gotten the touch of programming or have had ups and downs managing software projects, buy this book indeed, you'll cope with it just fine

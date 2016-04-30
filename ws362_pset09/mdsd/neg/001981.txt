@@ -1,0 +1,1 @@
+I bought this book to learn about switching power supplies. The types are not dicussed. The formulas given to calculate inductor values generate results that contradict each other and don't make sense. Reads like a poorly written application note

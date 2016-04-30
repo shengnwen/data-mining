@@ -1,0 +1,13 @@
+The main problem with this book is that the author isn't very good at what he does. He details lovingly how to make the artwork but he  simply lacks the talent to create 3D art that's very good. The model he creates, Slogre is in the end, a lumbering snow man like mess of a creature poorly set up for animation.
+
+The author spends a lot of time talking about concept art and why its important only to ditch it in production of the model, ditching all of its charisma to create an ugly mess that looks like it was created by someone completely inexperienced. 
+
+Most of the textures he creates end up looking very flat and ugly. The black and white printing causes a lot of his points to be lost. The best examples of this are on pages 225 and 226. He shows a demonstration of poorly tiling textures with noticeable seams. However, due to the cheap printing, the wall is just a solid block of grey making the visual aid wholly useless. 
+
+If you're completely new to 3D art, there are far worse places you could start. This book has some decent primers initiating readers with certain aspects of various art programs including Photoshop. There's a lot of information here and it's not all useless.
+
+However, if you are planning on getting into 3D art, I would recommend you start out with Milkshape 3D and Psionic3D tutorials. (Google those. Amazon doesn't allow linking last time I checked.) For texturing, 3D Game Textures by Luke Ahearn is a much better resource than this. 
+
+If you have any experience in 3D art though, then you can probably skip this book without a second thought. There is likely nothing you couldn't have figured out on your own. The things that are worthwhile for the experienced here are already available in Internet tutorials. 
+
+The only thing that would make this book of any value to an experienced artist is the collection of nearly 500 royalty free photos intended for use in your own textures. To some, these are probably worth the price on their own, but they're photos that would be easy for someone to take on their own. Think twice about buying this book.

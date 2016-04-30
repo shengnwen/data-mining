@@ -1,0 +1,9 @@
+Decades ago, when Knuth wrote the first edition of his classic Art of Computer Programming, he invented an assembly language in which to implement the many algorithms of the books. He called it MIX. It was quite representative of the actual assemblers of the time [late  60s]. But time and Moore's Law marched on. The 8 bit nature of MIX grew increasingly outdated. 
+
+In response, Knuth gives us here a massively upgraded version, called MMIX. It operates on 64 bit wide data. Yay! Still a classic von Neumann architecture, mind you. But very spiffy. MMIX also has 256 general purpose registers and 32 special purpose registers, where these all are 64 bits wide, naturally. Plus, MMIX lives in an address space of 2**64 bytes of memory. 
+
+Unlike the Intel or AMD chips, which are CISC, Knuth opted for a RISC MMIX. So learning the opcodes is very rapid, if you have dealt with assemblers before.
+
+This little text gets you up to speed in MMIX. Consider it as prep for the full volume 4, when that comes out. [Prof. Knuth, it's late.]
+
+But this MMIX book is utterly unlike any other assembler book. It comes replete with programming problems (and answers) of considerable intellectual heft. Conventional assembler books simply don't do this. Their problems tend to be mundane and trivial. This book lets you find surprising conceptual depths hidden under a deceptively simple language. Compare this to chess

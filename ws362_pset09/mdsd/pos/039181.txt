@@ -1,0 +1,1 @@
+Can't design motors without a little computer-aided engineering ...this is a good overview of the theory of subjects such as finite element analysis, boundary element analysis, finite difference analysis, etc.  I used this text in my graduate level course on the subject

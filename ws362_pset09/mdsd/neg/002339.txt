@@ -1,0 +1,1 @@
+I bought this book to better understand the inner workings of SIP but, instead, was greeted with a superficial introduction to a miriad of SIP applications, services and options. At the end of the day RFC3261 is a much better source of information, as dry as it might be. As such, I cannot recommend this book to anyone trying to learn the intricacies of SIP

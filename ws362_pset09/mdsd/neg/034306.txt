@@ -1,0 +1,5 @@
+This is a very technical book, written by very technical people for other very technical people. It would never be considered light reading or adorn many coffee tables.
+
+The authors handle the various and diffuse material reasonably well, given that they are very technical people &c, but at some point it begins to resemble a conclave of monks arguing about angels and needles, and the whole structure begins to resemble something by Rube Goldberg instead of a work well though out.
+
+It is a reasonably thorough book on this very technical subject, some 800+ pages of heavy lifting. From the vantage point of a company making investments that utilize technology, what the book is about strongly goes against Ockham's Razor. But if the simpler approach cannot or will not be adopted for any reason then this is a useful reference book that most, perhaps all, of the implementation consultants should have in their libraries

@@ -1,0 +1,12 @@
+The flow in this book is excellent. The authors do a great job in organizing this book in logical chapter. The chapters are organized into techniques to find solutions to particular problems, like for example, Greedy Algorithms, Divide and Conquer, and Dynamic Programming. 
+
+Each chapter contains a few representative problems of the technique or topic discussed. These are discussed in great detail, which is helpful to initially grasp the concepts. Furthermore, the end of each chapter contains a number of solved exercises. These are written up in less detail than the chapter problems, because they are usually slight variations or applications of the representative problems. I found these to be very helpful to me, as to  build up a stronger grasp of the problem at hand.
+
+Furthemore, the progressive search for a solution, such as for the Weighted Interval Scheduling problem using dynamic programming, is essential to understanding the process through which we can find such algorithms. The book is well written, in a clear, understandable language. The supplementary chapters on Basics of Algorithm Analysis and Graph Theory are a great started for people who have not been exposed to those concepts previously.
+
+Network flows are covered extensively with their applications. I suppose this section of the course was enhanced because our instructor's research interests are Network Flows and she threw example after example at us. There are a great number of problems at the end of this chapter to practice.  
+
+(...)
+One of the strenghs of this book, is that when the authors determine the running time of a particular algorithm, they write about how to implement it, with which data structures and why. Although it is assumed that data structures are common knowledge for the reader, this type of analysis is helpful for further understanding of such structures.
+
+All in all, this is a great textbook for an introductory course in the design of algorithms

@@ -1,0 +1,1 @@
+I'm very glad to finally see a book out that doesn't require people to spend a vast fortune buying Visual Studio, while that is fine for corporate development many personal developers can't afford the rather steep price tag associated to Visual Studio. 

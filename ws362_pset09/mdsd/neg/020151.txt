@@ -1,0 +1,7 @@
+The main problem with this book is that it simply does not spend nearly enough time on the subject it claims to cover - namly programming character animation.
+
+The book contains 11 chapters, total around 286 pages, however only chapter 8, about 23 pages is actually worth reading. The rest of the book is very disappointing. While one could argue that the 2 chapters on matrices/quaternions is useful, this information could be found in any game/math book/website.
+
+Examples of useless stuff: chapter on User Interface(heh), chapter on initializing D3D/Opengl, chapter on macros, and worst of all, the stuff talking about what a linked-list is(wtf)
+
+I wish the author simply released this as a PDF online, because the little useful information here isn't worth a whole book

@@ -1,0 +1,40 @@
+Alas, this book was a VERY disappointing reading.
+
+Its one of the biggest sins is having a misleading title. "SQL Server Architecture and Internals" ? Forget it.
+
+The first whole third of the book is Win32 in a nutshell. It tells you about memory, processes, I/O and everything. But I already have my Richter dog-eared all right, I wouldn't need a reminder in a book on SQL Server.
+
+Then, about the SQL Server. Internals ? What a joke. The only internals that you would find are names of the DLLs where this or  that SQL Server subsystem resides and a few hardcore debugger sessions to show you those DLLs actually get loaded. Uh-huh, thanks. 
+
+Can you imagine a book on SQL Server internals which doesn't mention pages and/or extents ? In-depth description of different execution plans ? This is the one. 
+
+What this book really is, is 20 chapters worth of overviews for more or less known SQL Server features. Average-to-good overviews of a less known features. Uhm, architecture, internals ? Nope - SQLXML, DTS, notification services, cursors, transactions. Take cursors - it says there are four types of cursors, you know, static, etc. and shows an SQL snippet for each. That's basically it. Take transactions - ACID, isolation levels and usage hints. Oh well, it could be worse...
+
+Difficult to say without reading other books by the same author (not that I have an urge any more), but it appears he has written a whole series of them. You find sentences like "In my other book..." all over the place. Just love it:
+
+[quote]
+I must confess that I was conflicted when I sat down to write this chapter. I wrestled with whether to update the SQLXML coverage in my last book, which was more focused on the practical application of SQLXML but which I felt really needed updating, or to write something completely new on just the architectural aspects of SQLXML, with little or no discussion of how to apply them in practice. Ultimately, I decided to do both things.
+[/quote]
+
+Isn't it great ?
+
+Oh, the chapter on Full-Text Search was hilarious. How about this:
+
+[quote]
+Communication between SQL Server and Microsoft Search occurs via a full-text provider. This provider resides in SQLFTQRY.DLL in the binn folder under your default SQL Server installation.
+...
+The sp_fulltext_... system procedures interact with it via the undocumented DBCC CALLFULLTEXT command
+...
+Table 16.1. DBCC CALLFULLTEXT Functions
+[*** A TABLE OF FUNCTION IDS TAKING THE ENTIRE PAGE ***]
+...
+As a rule, you shouldn't call DBCC CALLFULLTEXT in your own code. The function IDs and parameters listed above could change between releases 
+[/quote]
+
+What a heck did I just learn ???
+
+I thought this book would show me how to improve the performance of the applications that I write by knowing the database server architecture deeper. Instead, I got a book of not so bad overviews of different things for which there either was no coverage in the previous books or the author thought a quick reminder would be nice.
+
+To be fair, some of the discussions were reasonably interesting, like chapter 12 "Query Processor", but give me a break, it's like 40 pages in a 1000 pages book.
+
+Don't

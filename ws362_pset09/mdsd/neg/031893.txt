@@ -1,0 +1,5 @@
+I agree with another reviewer who said the book was unnecessarily long.  Genetic Algorithms are a great programming tool, and there are some tips and tricks that can help your programs converge faster and more accurately, but this book had a lot of redundant information.
+
+If you are interested in using GA for solution-finding, I doubt you'll find much useful in this book beyond the first chapter or so.  Many of the examples later in the book were so specific that I couldn't see how they could be usefully generalized.  Really optimizing a GA approach for a specific problem domain takes a fair amount of tuning, and this book won't help much with that.
+
+I think time spent surfing siteseer or other publication sites would be better spent than reading this book.

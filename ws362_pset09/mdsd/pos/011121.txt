@@ -1,0 +1,5 @@
+Having enjoyed the Exceptional C++ books from Sutter, I ordered this book as soon as I got the usual email from Amazon.com whenever my favourite authors release a new book.
+I must say I'm a bit dissapointed. Not because this isn't a good book, which it is, but because it's not as good as the previous ones. It seems like the author didn't expect the readers from learn that much from the Exceptional C++ series... so he explains things that seem obvious if you read those book.
+One example: "Don't memcpy or memcmp non-PODs". Who would ever do such as thing other than a newbie?
+Anyway, if you are wondering whether or not you should buy this book: If you completed the previous ones (and made all the exercises), just don't. Not because is not good, but because you don't need it.
+If you are fluent in C++ but by no means a guru yet, go for the book. Make an effort to revise a bit of your own code following its advice. You are likely to be surprised with the results

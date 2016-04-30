@@ -1,0 +1,19 @@
+I've gone through half of this book and will not be completing it.
+
+Despite this being a "beginner" book the author quickly overwhelms the user with advanced examples while providing nearly zero explaination of what he is doing or why he is doing it.
+
+Only the simpliest of concepts (data types, casting, etc) are discussed before getting to some of the first extremely long and extremely complex examples.
+
+From the beginning there is no discussion of code and very little in the way of explainatory comments.  After 200 pages the author STILL has only mentioned "using" a few times and hasn't even brought up a discussion of namespaces.  Yet these items are included in every sample.
+
+Many of the items being used are never explained, there is no step by step process that tells the reader what any particular command does or why he's using it.
+
+My criteria for a "good" book is that by the time the author starts an example he/she should have previously explained what the purpose the example serves.  Is this an example that will re-enforce the graphic manipulation discussion of the most recent chapter?  Is this an example that will show me in practice the simple coding practices the author explained in the last 100 pages?  None of this is there.  The author jumps from talking about datatypes to using some advanced C# libraries in a sample without any explaination ever provided.
+
+This book expects you to type in dozens of pages of code (or get it off the included CD) and learn by osmosis the point of the sample; why it works; and what the key elements/procedures are.
+
+Maybe some people can somehow mystically connect to the authors train of thought and understand unexplained code through this method, but I am unfortunate to not be one of them.
+
+If you really want to learn C# and are a true beginner than Petzolds Programming in the Key of C# is probably the best book I've read to this point (I have high hopes for Murach's C# but am just starting that one).
+
+Unfortunately I haven't found any acceptable books that link C# and games programming yet that discuss the subject at a newcomer level

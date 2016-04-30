@@ -1,0 +1,3 @@
+If you want to learn about volatility, this is the book for you. This is more advanced than a basic volatility book, so beginners and advanced students of volatility will benefit.
+
+Also, if you are actively trading options, this book is often quoted, so you may want to get it just so that you could follow what people are saying

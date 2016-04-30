@@ -1,0 +1,7 @@
+This book sounded ideal, a beginner's book with clear explanations and projects to illustrate the electronics concepts taught in each chapter. The introduction lauds Mr. Cutcher's skill as a teacher so highly I was really anticipating a wonderful tour through the basics of electronics. 
+
+Mr. Cutcher may indeed be a great teacher, but he is a very poor writer. His writing is disorganized and confusing, his instructions are unclear and sometimes incomplete, and he works so hard to fit everything into his "electric circuits are like water" analogy that he forces it when he should find a better way to describe it.
+
+Lastly, many of the illustrations in this book are so atrocious that often the reader has no idea what they are supposed to represent. In this age there is no excuse for graphics that look like they were produced by a six-year-old on a Colecovision. I am astonished that this book was deemed ready for publication. Are there no editors in this segment?
+
+I am very disappointed in this book. A good beginner's book is a wonderful thing to find, and this isn't it. I cannot recommend this book to anyone interested in learning electronics; it will be especially difficult for young people who don't have the focus to follow poorly-written or confusing material. I would especially worry that young people would not recognize the faults of the book and come away feeling that electronics is "too hard" for them because they couldn't follow Mr. Cutcher's explanations

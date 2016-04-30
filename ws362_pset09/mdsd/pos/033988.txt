@@ -1,0 +1,11 @@
+Now, VOIP security has been talked about for a few years; it started even before organizations started to deploy VOIP in greater numbers. Many folks like to say that "VOIP security is a disaster," but usually they don't explain how or why.
+
+Dave Piscitello does. In his excellent book ""Understanding Voice over IP Security" he provides excellent coverage of both VOIP technology basics as well as internet security fundamentals (which are admittedly more useful to the security beginners) Then he fuses the above information into a comprehensive coverage of VOIP security issues, from protocols to call fraud.
+
+VOIP and NAT? Security analysis of SIP protocol? VOIP and honeypots? PSTN gateway security? Public VOIP vs private VOIP? Is VOIP spam inevitable? Yes, all those and much much more are covered in the book.
+
+On the negative side, I had to skip through some of the security basics (yes, even a castle metaphor is there ...), but I am conscious of the fact that such content is indeed useful to people with networking background. At the same time, some of the esoterica of phone networks was completely new to me and thus exciting to read.
+
+I enjoyed the book; I liked that it is written to be useful to both security folks - who need to learn about VOIP - and network folks - who often need to acquire better security education.
+
+Dr Anton Chuvakin, GCIA, GCIH, GCFA [...] is a recognized security expert and book author. His current role is a Director of Product Management with LogLogic, a log management and intelligence company.   A frequent conference speaker, he also represents the company at various security meetings and standards organizations. He is an author of a book "Security Warrior" and a contributor to "Know Your Enemy II", "Information Security Management Handbook", "Hacker's Challenge 3" and the upcoming book on PCI.  In his spare time he maintains his security portal [...] and several blogs

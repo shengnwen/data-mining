@@ -1,0 +1,1 @@
+Best introduction to current transactional analysis, both for anyone and professionals. Introduces the key concepts of TA in a very practical manner. You are also encouraged to work on yourself using the concepts.  Very easy to read and comprehensive at the same time

@@ -1,0 +1,5 @@
+This book might be best described as SOA for managers.  Most of the book covers high level concepts.  In some parts everything is presented as an abstraction, leaving the reader to wonder what the connection with the real world is.
+
+Even as a book focused on a high level overview this book doesn't work.  This should have been a 300 page book.  Who has time to put up with an extra 400 pages?
+
+If your interest is in actually implementing something, you'll need to go far beyond this book.  I've given it 2 stars instead of 1 because I did learn a few things from it.

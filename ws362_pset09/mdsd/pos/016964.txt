@@ -1,0 +1,1 @@
+This is the most readable computer science book you will ever encounter. Not really a reference, but more a generalized understanding of why we do some of the things we do in the software engineering field. The perspective this book gives you will make you a better programmer for any language

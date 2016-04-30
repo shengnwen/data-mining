@@ -1,0 +1,5 @@
+The notation can be hard to follow if you don't have a grasp or natural incline for statistical regression.  Steps are hard to come by in some problems because too many steps are skipped for a beginner.  It is almost necessary to have at least a basic statistics background before reading this.
+
+Even though I had a background and had read ahead, I had to depend on my professor to truly understand the material at all.  If your professor has an accent or goes quite fast, and if you don't have classmates you can work with, using this book alone will be more than painful.
+
+I would suggest a supplement such as "Using Econometrics: A Practical Guide (4th Edition should suffice) [Hardcover] by Studenmund" if you are just beginning to learn about regression

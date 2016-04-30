@@ -1,0 +1,3 @@
+I was pretty disappointed with the material that covered DNS.  This is major section of the exam, and this is what made me fail twice.  I barely failed both times, but the DNS questions were much more complex than what was covered in the book.  
+
+Unfortunately, I don't have a lot of experience with DNS because our org doesn't use Windows DNS, so I think that hurt me, too.  Someone with a couple of years experience with DNS might do fine, but try to get another source if you don't

@@ -1,0 +1,34 @@
+I am an amateur player (I would estimate my rating to be somewhere around 1800-1900) who like many players started off with 1 e4 as White, but I have been playing 1 c4 for quite a while now. I have had this book for a couple of years and didn't use it much, until recently when I decided I would like to try out more direct openings with White and got it out to see if 1 e4 might be suitable for me. Before I go into the specifics of the content, I'll mention that the overall quality of the product is good, with a nice glossy cover, quality paper and binding and clear print and diagrams, although there are a fair number of (largely excusable) typos.
+
+This is a repertoire book for White (Emms gives suggested lines to play as White against the various defences that Black can employ). Suggestions are given for all the main defences, as well as a few less used ones (1...Nc6, 1...b6 and 1...a6). Emms largely avoids main lines in an effort to avoid theory, but virtually all of his suggestions have a good pedigree and have been played by various World Champions at one time or another.
+
+The basic repertoire is as follows:-
+
+- Against the Sicilian, the closed variation (as played by Spassky): 2 Nc3, followed by a kingside fianchetto and generally gaining space on the kingside with an attack on the Black king's castled position.
+
+- Against 1...e5, the Bishop's Opening (played by Kasparov and Larsen): 2 Bc4, followed by Nc3, d3 and if possible f4-f5, with a large space advantage on the kingside and again a powerful attack if Black is careless, or else active piece play in the centre.
+
+- Against the French, the King's Indian Attack (Fischer's favourite): 2 d3, followed by Nf3, Nbd2, a kingside fianchetto and often e5 with a kingside attack.
+
+- Against the Caro-Kann, 2 c4, with the idea of transposing into a favourable Panov Attack (as played by Botvinnik) by delaying d2-d4.
+
+- Against the Pirc and Modern defences, the 150 Attack (played by Kasparov and Anand, amongst others): 2 d4, 3 Nc3, 4 Be3, with a possible Qd2 and Bh6 to exchange Black's defensive Bishop and h4-h5 with a massive kingside assault.
+
+- Against the Scandinavian, Emms recommends 3 Bb5+ against 2...Nf6, with a later d4 and c4 to build a big centre while avoiding the Portuguese Gambit. Against 2...Qxd5 and 3...Qa5, Emms' idea is to force a pawn weakness in Black's kingside with a later Ne4xf6.
+
+- Against the Alekhine, the solid but dangerous Exchange variation is recommended (c4 and d4, then exd6), as played by Alekhine and Fischer.
+
+The lines suggested for White are not the most aggressive available, but I think that the title of the book is quite justified - Emms has struck a nice balance between active and solid play here. Certainly Emms' effort to ensure that "Black has no easy way to reach a dull equality" has paid off. That was one of the gripes I had with playing 1 c4 in some lines, but all of the suggestions in this book at least reach complex positions with chances for both sides.
+
+The repertoire is presented in a 'variation by variation' layout, with one or two games mentioned for each minor Black sideline along the way. This is one of the better approaches to learning an opening in my opinion, even if it does take a little getting used to, and it enables the reader to easily look up lines from his own games to see where play diverged from the book. I am pleased to say that Emms is objective with his assessments, recognising that Black can achieve equality in some lines if he plays accurately, but also giving possible improvements of his own for White in these cases.
+
+Personally I like the suggested repertoire very much. I have found the lines quite quick and easy to learn, with understanding of ideas often being more important than knowledge of variations. They are solid yet dynamic, largely avoid deep theory and will give you positions which you will likely know better than your opponent.
+
+I should make a few things clear at this point however.
+Firstly, as I have said, although this book is called 'attacking with 1 e4', Emms has chosen objectively sound lines which have stood up to grandmaster scrutiny, so I'm afraid fans of wild 19th century gambit play are out of luck!
+Secondly, this book may not be suited to an absolute novice. While it provides a good and complete system for White, there is not a great deal of prose explaining the plans for both sides. Many lines are given without comment, just an assessment at the end. This is fine for seasoned players with a deeper understanding of the position, but beginners may well have difficulty understanding why a particular line given as better for White is so, or how to continue after the line in the book runs out.
+Thirdly, following the repertoire will land you in a wide range of different types of positions - closed, open, isolated queen's pawn, opposite side castling, etc. This is undoubtedly good for one's chess development in the long run, but some players may, for example, dislike playing closed positions, or have a particular aversion to taking on an IQP. In this case they may prefer to pick only the lines that suit them. If you hate playing the King's Indian Attack, by all means play 2 d4 against the French, but stick to the Bishop's Opening if you don't like the Ruy Lopez! In my case the 150 Attack is a bit sharp for my liking, so I prefer to play 2 Nc3 and then either play the Classical or the Fianchetto variation, or transpose into a Closed Sicilian after 2...c5.
+
+Emms covers the Closed Sicilian, the Bishop's Opening and the King's Indian Attack in particular depth, so even if you only want to play one of these lines, this book is well worth a look. The only (tiny) hole I have found in the repertoire thus far is in the main line of the Scandinavian, where I believe Black can avoid Emms' suggested Ne4xf6, weakening Black's kingside, by delaying ...Nf6 until ...c6, ...Bf5 and ...e6 have been played, making it more difficult for White to make progress. But of course White still gets the more active position with best play.
+
+All in all then, an excellent book, and sufficiently comprehensive for most amateur players. I recommend that anyone who plays, or is thinking of playing 1 e4 at least take a look at this book, even if you think you know your stuff already! A little bit more prose would make this a definite 5 star book, but as it is it's a high 4. For a 5 star repertoire book, have a look at Tony Kosten's 'The Dynamic English' - but sadly that covers 1 c4, not 1 e4!  :-

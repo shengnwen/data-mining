@@ -1,0 +1,4 @@
+One thing that's really missing is a nice chapter on Kernel debugging -- using some existing kernel debuggers and how they all compare, interpreting those OOPS messages -- everything that goes with kernel hacking!
+This book covers VMM so comprehensively that it's really meant for those who _actually_ want to work on kernel, so a 'Kernel Hacking' chapter was a must.
+
+Otherwise this book is just perfect - I give it 5 stars :

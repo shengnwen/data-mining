@@ -1,0 +1,5 @@
+This is a very expensive book, although well worth it.  It goes
+into factors determining tube lifespan, management of filament
+voltages applied to thoriated-tungsten tubes,etc.  A wide variety
+of tubes ranging from triods to tetrodes and pentodes were
+discussed.  Magnetrons and travelling-wave tubes were also discussed

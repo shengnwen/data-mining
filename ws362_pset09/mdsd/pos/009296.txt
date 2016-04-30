@@ -1,0 +1,7 @@
+I have had this book for almost a year now and read almost the whole thing.  One aspect of this book which makes it a very worthwhile read is the clear differentiation which the authors maintain between Windows Sharepoint Services (free to implement) and Sharepoint Portal Server (can be VERY expensive.)  Most Sharepoint books I have read fail to make this distinction and suffer greatly for it.  I very much appreciated the clear differences between the products.
+
+This book is a great primer for someone looking to get a Sharepoint implementation up and running (which I have been.)  Understanding scalability, using farms, managing the databases are all covered in sufficient detail to be able to implement it yourself and have it survive use.
+
+I was disappointed that the scope of the book wasn't wider.  I would loved to have seen some developer information, or at least a list of resources.  I would also liked to have seen more guidance on creating sites, organization of sites and other setup information.  Perhaps a better title would have been Sharepoint 2003 Infrastructure Unleashed.
+
+With those comments, I can also say that I'd buy another volume of this and appreciate the authors attention to detail, especially in clearly differentiating between the free and the expensive Sharepoint products. 

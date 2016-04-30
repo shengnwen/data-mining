@@ -1,0 +1,11 @@
+The text is interesting and informative. The text is short and sweet. There are examples, which is nice. That is as good as it gets.
+
+Much of the text is based on Canned Heat, a test environment which the author claims works of Windows 2000.  This claim appears to be bogus.  I have verified that the software does not work on several perfectly healthy Windows 2000 workstations. The software does appear to work on Windows XP.
+
+The problem is that so much of the text is based on Canned Heat, so if you can't get this to work, much of the text is not that useful.  The text begins to sound like a marketing brochure for Canned Heat. 
+
+If you go to the website, you may be dissappointed (as I was) to never receive a response.  Every form I tried returned an error message. I have verified this with other interested parties. Emails to the addresses provided have not been answered.
+
+My best advice is to avoid "How to Break Software" and "How to Break Software Security."  For what little you get, the books are overpriced.
+
+If the author wants his readers to take him seriously as an authority on software testing, then he should spend more time testing his own software before shipping it out. Frankly, I find it hard to take him seriously if this is the best he can do.

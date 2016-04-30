@@ -1,0 +1,7 @@
+I got this book because the book claims to evaluate softswitch advantages as a Class 4 replacement. I work for a telecommunications company and one of our projects was to expand our long distance capability at the lowest costs possible. We evaluated the softswitches out there and determined the technology had not matured enough to replace hardware switches.
+
+This book does explain the architecture and protocols, and for many SOHO's out there, it is a viable alternative. However, this book is deceptive in claiming that there is no reason not to immediately migrate from circuit switched Class 4 to a softswitch Class 4. After reading this book I believed that only configuration errors would stop migration, but my personal experience differs from the author.
+
+I have experience to know that the softswitch products out there are either good for small scale migrations or as a MUX between real circuit switch hardware. Claims of Class 4 replacements are vaporware.
+
+Because this book was the first one about softswitch does not make this a 5 star book. There is better white pages out there and sales literature that is better, and more realistic, than this book. I think the 5 star reviews are either shills or someone who has not read this book

@@ -1,0 +1,1 @@
+This book is what it says it is. A great Introduction to Linux. The book does a great job at showing how features in Linux relate to features in Windows. So if you are used to the Windows way of doing things, this book will make learning Linux very easy. I espcially like the information on compiling the kernel. This book really took away many miscomceptions that I had about Linux

@@ -1,0 +1,9 @@
+Hey,
+I was fortunate enough to learn this course from the author of the book. The book by itself might seem tough. The fault lies in the fact that subject matter is not altogether too simple to understand without someone teaching it to you!
+
+With the help of the instructor, we did learn a lot about formal languages, finite automaton, regular grammer, etc.
+
+The key to understanding this material (and using this book effectively) is solving as many problems as possible, preferably in a group setting so that solutions can be discussed.
+Note: For most problems, there exists multiple solutions, and the approach is what needs to be learned and discussed.
+
+Recommended, with some reservations...Good luck

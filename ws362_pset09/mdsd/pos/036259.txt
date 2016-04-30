@@ -1,0 +1,1 @@
+A book for engineers who haven't got time to study the lengthy derivation of mathematical equations.  Ballpark figures and estimates are handy. 

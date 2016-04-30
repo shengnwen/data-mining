@@ -1,0 +1,7 @@
+I agree with other reviewers that this is a survey or concept book.  Schlossnagle is a bright php programmer but a lousy teacher.  Do not buy this book if you are hoping to learn 'Advanced PHP Programming' from it.  This book is too superficial in it's coverage of the many subjects.  Ie: Schlossnagle's coverage of Object Oriented Programming is less than six pages (why bother?), and does not adequately cover the basics.
+
+This book is good for introducing you to things you may not have thought of before.  Ie: I liked the section on exceptions but found it too brief and assumed too much.  I was therefore forced to read other materials, including the official php manual, before I had a real grasp of exceptions.
+
+Larry Ullman does a much better job of explaining subjects.  His PHP Advanced for the www (first edition) is an excellent book to actually learn from.  Unfortunately it is a little dated and the second edition is still a couple months away.
+
+Do yourself a favor, spend your money on another book if you are intending to actually learn 'Advanced PHP Programming' from a book

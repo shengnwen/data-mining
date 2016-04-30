@@ -1,0 +1,3 @@
+This book cover topics from basic theory of discrete-time signals and processing tools to diverse applications in telecommunications, speech and acoustics, radar, video, specialized aspects of information-hearing signals in digital form, seismic data analysis, remote sensing, multimedia applications and medical technology.
+
+One of the key features of this handbook is that provides essential information, background material, technical details, and introduction to standards and software, while enabling an inmediate, perceptive, and thorough exposure to the knowledge, experience, and writing of leading engineers, researchers, and professors

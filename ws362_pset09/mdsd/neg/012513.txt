@@ -1,0 +1,6 @@
+Well despite an appealing title, it remains an overview. The 
+author is only giving a small extract of the programming code
+which would be hard for someone to pick up without being more 
+familiar with DirectX structure. Not very useful unless you
+know some DirectX but then, does not give a lot more info ....
+especially for $49 ! Don't waste your money.

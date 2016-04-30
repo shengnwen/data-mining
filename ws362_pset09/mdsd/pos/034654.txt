@@ -1,0 +1,15 @@
+If you run Windows XP and you're annoyed by the number of things you can't do (or so says Microsoft), you'll love this book...  Windows XP Hacks & Mods For Dummies by Woody Leonhard.
+
+Contents:
+Part 1 - The Nuts & Bolts of Hacks & Mods: Windows XP - What's Not to Love?; Tools of the Hacking Trade; A Quick XP Makeover
+Part 2 - Controlling the Look and Feel of Windows XP: TweakUI, the Power User's PowerToy; Pinning Down the Start Menu; Taking On the Taskbar; Decking Out the Desktop
+Part 3 - Adjusting Everyday Activities: Reining In Windows Explorer; Cool Keyboard Hacks and Menu Mods; Searching on the Desktop; Switching to Better Online Software; Pulling Off Pictures
+Part 4 - Modding to Monitor and Manage: Seeing What's Happening; Decoding IDs, Accounts, and Passwords; Using Remote Assistance; Retooling Disks
+Part 5 - Protecting Yourself (And Your PC): Changing (In)Security Settings; Taking the "Mal" out of Malware; Keeping Your Privates Private
+Part 6 - Entertaining Yourself: Making the Most of Media Player; Buying Music and Videos; Trading Music and Videos; Getting Games to Work
+Part 7 - The Part of Tens: Ten Steps to Mastering the Registry; Ten Speed-Up Hacks - Maybe
+Index
+
+This was one of the most entertainingly informative books I've had the pleasure of reading in awhile.  Leonhard is not at all a fan of Microsoft and his cynicism drips on every page.  Things I normally take for granted as "that's just the way it works" are dissected, and ways to hack around them are outlined.  For instance, perhaps you don't like the way that the roller wheel on your mouse scrolls more than one line at a time.  Woody shows you how to download the TweakUI powertoy from Microsoft, which has the ability to tweak that setting and seemingly a hundred more.  He also suggests a number of other software packages (non-Microsoft, of course) to allow you to have a more safe and secure computing experience.  Substitute Firefox for IE.  Switch out MSN for Trillian or Gaim.  Basically, you'll find dozens of gems in these chapters that will quickly pay back your investment in time and dollars with the book.  Plus, you'll have fun reading it.  Leonhard's a great writer...
+
+Definitely a recommended volume to have at hand for your Windows XP computing experience..

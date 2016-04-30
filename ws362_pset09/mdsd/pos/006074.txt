@@ -1,0 +1,11 @@
+What this book does in basic terms is walk you through the process of website conception to managing your website once it is on line and everything in between. It covers all of the information that you will need to get your site up and running. Some of the the subjects are covered very well like the use of CSS, adding graphics, flash animation, design elements, templates, HTML, Meta tags and the use of graphics. All subjects are covered in ample detail. 
+
+She has included helpful hints along that way with the use of side bar items that like "Tip" used to discuss a feature with in Dreamweaver that pertains to the subject  that is being covered, "Technical  stuff" used to describe technical aspect of the operation that you are preforming and "warning" that warn you of the consequences of you action or inaction to a Dreamweaver prompt.
+
+Janine Warner writes in a nice easy writing style. The formatting of the book is excellent with the use of different font types and styles to help the reader. This helps greatly when skimming through a pages looking for a website reference or HTML coding examples. As Ms. Weaver explains this is not a cover to cover read but more reference material. It is also very well organized.
+
+This book is a great starting point for Dreamweaver but I would recommend that while this book does a great job covering CSS you should go get a book dedicated to CSS because of the complexity of CSS.
+
+The only prerequisite here is that you have to really want to learn Dreamweaver. When working with Dreamweaver it is important to know what you want your site to do before you start to use Deamweaver for the first time other wise you can get caught up in the many features that may or may not be helpful to you. There are so many things in Dreamweaver that do almost the same thing but not quite. This book provides some good insight into doing just that. Dreamweaver which is a great program but can be a daunting task at times. Thankfully this book takes the daunt out of daunting.
+
+For the true beginner to Dreamweaver this is a five star book. For those with experience this is probably a 3 star book. The intended target audience is the beginner to intermediate user which is how I came up with my rating of 4 stars

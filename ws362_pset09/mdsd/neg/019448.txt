@@ -1,0 +1,1 @@
+This book does not cover many topics.   For example there is a whole section on co-existing with Exg 5.5 but no where in the book does it tell you how to remove your dependence on exchange 5.5.   Also does not cover the installtion of EXG2000 in the Backoffice 2000 package

@@ -1,0 +1,3 @@
+This book was obviously rushed to market.  While Charles' excellent writing style almost makes up for the lack of illustrations, organization and layout, it does fall short.
+
+I highly recommend Windows Presentation Foundation Unleashed (WPF) (Unleashed) by Adam Nathan instead.  Adam is every bit Charles' equal in writing clear prose and both he and the publisher went the extra mile (and a few months work) to "get it right".

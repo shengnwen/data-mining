@@ -1,0 +1,9 @@
+This text - comprised of detailed accounts of Euclidean, Affine, and Projective geometries, a thorough discussion of the Poincare model of hyperbolic geometry, and a motivating chapter on Algebraic geometry - is remarkable for its clarity and simplicity. Very little is initially expected of the reader - a sound knowledege of linear algebra, complex arithmetic and trigonometry - and the proof style is not too formal. Considering the level of detail of its treatment (it's a little more than twice the length of Coxeter's Geometry Revisited, which shares a similar selection of topics) it is ideal for undergraduates or those looking for a good, inexpensive text for self study. 
+
+Throughout the text the author emphasizes the use of basic algebraic techniques as an aid to finding clear and simple proofs. In more than one case a result is proved several times, each proof illustrating a different technique. In the first chapter, the utility of the vector approach is highlighted by using vector arithmetic, inner-products and exterior algebra to prove several classic theorems of plane geometry. In later chapters elementary group theory, Moebius transformations and linear algebra are used extensively in the discussions of the mappings of the Euclidean plane, of the mappings of the inversive plane, and of projective geometry respectively.
+
+Basically, this is a good, detailed undergraduate introduction to geometry. It's perhaps a little less entertaining than Coxeter's introductory geometry books but it has a much friendlier price-tag.  
+
+     
+        
+

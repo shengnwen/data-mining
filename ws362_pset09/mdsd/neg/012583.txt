@@ -1,0 +1,15 @@
+This is the first book I've read on 7 card stud, and I found it helpful for giving me the basic concepts. It's easy to read and you can get through it in a few hours. The concepts aren't particularly deep. It's in "42 lessons" although some of the "lessons" are less useful than others: Lesson 1, for instance, is one page that says "It takes the right 'stuff' to win at poker".
+
+Things do get better, but I found the concepts a bit high level and could have done with much more illustration. There is one lesson (17) that has some examples of 3rd street hands but it's not enough.
+
+For a book published in its present form in 2004, I would have expected to see some mention at least of internet play, but it is entirely focused on live play. In fact only on live play in Las Vegas - no information how to adapt to European card rooms for example.
+
+Another ommission (and maybe this is to prevent confusion, as starting hands are quire different), is there is no mention of Hi-lo, which is quite popular these days.
+
+The book encourages you to play in a "straightforward" way at these limits (medium and low)... however this means that it doesn't tell you how really good players play. I found the advice fairly sound in the $1/2 room (the second lowest) on PartyPoker, but anything above that and the players are far more aggressive and you'll probably start losing. 
+
+Importantly, there's little mention of how to vary your starting hand requirements depending on the size of the antes. This makes a big difference because for example on PartyPoker the antes are the same size on the $.5/1 tables as for $2/4 and you have to vary your play accordingly.
+
+Editing is sloppy and I found quite a few glaring mistakes. For example in Lesson 8 it talks about an increase in antes from $1 to $3 and calls it a 300% increase (actually a 200% increase). And lesson 42 has 2 whole paragraphs from earlier in the chapter repeated at the end clearly by mistake.
+
+Despite the ommissions and sloppy editing it does contain some good ideas and I'd recommend beginners read it. I haven't read any other books on the subject so I can't say if this is any better or worse. ;

@@ -1,0 +1,5 @@
+I am using this book for JAVA class at my University.  It really sucks, because my teacher teaches like most other books teach, and this book has some weird pedagogical method of teaching objects rather than syntax.  Terrible when your teacher wants to teach his way and it conflicts with this book.
+
+Quick and easy example why NOT to buy this book:  The "main" function is not mentioned ONCE in this book.  NOT ONCE.  So when people with zero programming experience started seeing my teacher put main up on the board, they were lost.
+
+The compiler is more of a visual JAVA and would be great for an OOP class.  But to learn JAVA its awful.  It tried to avoid "syntax" yet it has complicated programs where knowing syntax is necessary.  Skip this one unless you want to get a better handle on OOP after having learned JAVA

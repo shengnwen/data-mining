@@ -1,0 +1,12 @@
+- Bentley's 'Programming Pearls' offers many programming techniques and design principles.
+- But the text assumes that the reader is *extremely* familiar with C-style syntax and many advanced computer science concepts.
+
+While Bentley emphasizes important fundamentals, his language is rather esoteric.
+
+I bought this book because Steve McConnell ('Code Complete' author) recommends it for 'beginner' developers at his company (Construx Software); but I encourage 'beginner' developers (and even senior developers) to look elsewhere.
+
+This book is meant for computer science graduate students. It incorporates more advanced math and more advanced computer science techniques than the average software developer will ever encounter.
+
+Most of 'Programming Pearls' was penned before the widespread use of object-oriented programming; so Bentley heavily emphasizes code tuning. In today's world, most .NET and J2EE developers are likely to find greater efficiencies within their architectural design.
+
+- Developers who need to either learn or revisit important fundamentals should read Steve McConnell's 'Code Complete'

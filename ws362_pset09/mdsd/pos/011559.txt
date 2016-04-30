@@ -1,0 +1,11 @@
+(brief disclaimer: i am acquainted with one of the authors, and have corresponded with him for a number of years)
+
+The authors of Ajax in Action state in their introduction that the book is not intended for beginning programmers, or for those without JavaScript experience.  This is a warning worth heeding: members of either group will find themselves at a loss with this book.
+
+However, that's because the book does what it says on the tin; it gets right to the core of Ajax, and very quickly.  After a brief explanation of what Ajax is, and where it comes from, the authors move onto what you can (and cannot) do with Ajax, and from there on, it's all "how", with extremely practical examples.
+
+And that's perhaps the greatest feature of this book: it's practical examples, includin word-completion and live searches. And the book's guiding philosophy, "getting it working first, then make it look pretty", is sure to be appreciated by those of you have suddenly found yourselves working on a web app with a deadline.  To that end, there's also discussion of a few of the more popular Ajax frameworks and libraries, and how to get started with them.
+
+The book also contains two helpful appendixes: one of useful tools for those working with JavaScript, and the other covering important aspects of JavaScript itself.  Finally, the book has a reasonably complete list of available Ajax frameworks and their talking points.
+
+Combine the above with the authors' clear language and understanding of the topic at hand, and Ajax in Action becomes an excellent book for those needing to get up and running quickly

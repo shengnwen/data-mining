@@ -1,0 +1,5 @@
+Ant (Another Neat Tool) is a build tool that facilitates building applications using Java. To use Ant, you construct a build file that then directs the various Java software packages to automate the building of a working application. The book starts with a simple application: compiling Java source. From here it goes on to ever more complex projects until the whole Ant language is covered. 
+
+The only complaint I have about the book is the beginning. You'd better have some idea about what you are trying to do before getting started. The book gives analogies like: "Thing of your source code as raw materials that you are sending into a factory for processing and assembly into a product, say an automobile. ... Ant is the factory floor with all the whiz-bang gizmos." What's this supposed to mean? Come on guys, we're talking about a software package, not a factory. It seems like the first part of the book is written to impress rather than express. 
+
+If you know you need Ant, then I'd recommend the book, it's just the first chapter that's a mess.

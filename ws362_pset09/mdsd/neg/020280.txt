@@ -1,0 +1,3 @@
+I had great hopes for this book, but for any industry veteran it is basically a repackaging of what many other "experts" have written before.  The book is needlessly verbose, but yet glosses over key points with literary hand waving.  The lack of significant examples, business cases, and real world process development gives one the feeling the book is merely the presentation of a thesis or philosophy devoid of concrete real world application.
+
+For someone just starting out in the industry they may glean some basic concepts, but there are so many more publications that do a better job and do it cleaner.

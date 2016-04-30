@@ -1,0 +1,1 @@
+This book attempts to do the impossible by guiding non-technical people  through the process of building an NT intranet.  It starts with &quot;what  is a network&quot; and transitions quickly to installing IP and installing  IIS.  The book lacks any technical depth and I found it mostly useless.   Windows NT Server 4 Unleashed worked better for me

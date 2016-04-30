@@ -1,0 +1,1 @@
+'ajax and php' is a very mediocre book with a lot of code in it, not especially good for learning, and not worth the price. if you want a really good ajax book, i recommend 'ajax in action'

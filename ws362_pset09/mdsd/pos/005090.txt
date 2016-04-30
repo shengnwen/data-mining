@@ -1,0 +1,27 @@
+This book, based on the premise that computer graphics, computer vision, and image processing are merging into a single discipline, is very unique and interesting because it deals with so many different arcane image processing subjects. My main complaint against the book is that there could have been more algorithms and equations shown considering the mathematical nature of all of the subjects mentioned. However, the CD has the executable and source code for many good programs, which somewhat makes up for this. The tremendous amount of information contained in the book makes it a great reference for someone who already understands basic image processing, computer vision, and computer graphics and just wants to pick up more tricks for the purpose of multimedia programming. For example, it is the only book that I know of that deals with the algorithms for morphing images. It is not a book to be read cover to cover- you'll find yourself skipping around quite a bit. The book's table of contents is as follows:
+1. The computer image - an overview.
+2. Representation and modelling of three-dimensional objects.
+3. Basic realism - lighting polygon objects.
+4. Increasing realism - textures and shadows.
+5. Increasing realism - the evolution of local reflection models.
+6. Increasing realism - global illumination or following the light.
+7. Bi-cubics and image synthesis.
+8. Defects in computer graphics images.
+9. Image processing for enhancement or basic processing in image space.
+10. Edges and their detection.
+11. Image transforms.
+12. Image segmentation.
+13. Images and mathematical morphology.
+14. Classical pattern recognition and image matching.
+15. Towards recognition, understanding and description of 3D scenes.
+16. Shape from X.
+17. The moving computer image.
+18. The moving image in computer vision.
+19. The moving image in communications - facial animation.
+20. The computer image and the third dimension.
+21. Virtual reality and efficiency in image systhesis.
+22. Seeing the unseen - the computer image in medicine.
+23. The computer image and art.
+24. Fundamentals of the computer image.
+25. Colour and the computer image.
+26. Reducing the information: compressing images - a new frontier

@@ -1,0 +1,2 @@
+This book spends WAAAY too much time on Boolean algebra!!! The author should have given more time for the K-Map.
+If you are new to Digital Design, I suggest you to read Digital Fundamentals by Thomas Floyd. It is a much better book

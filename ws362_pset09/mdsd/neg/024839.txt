@@ -1,0 +1,7 @@
+I purchased this book and realised that I already have it! This book is a slightly updated version of thie book 'Microsoft Windows Communication Foundation: Hands-on'
+
+I did not like the first book as the style of writing is more about giving you a whole source code as page fillers instead of just highlighting the chunks of code that actually matter. Also would have been better to go step by step on the actual lines of code instead of giving summary of what the code does.
+
+There are a few new chapters regarding WWF and WCF, but other chapters are just cut and paste from the previous book. 
+
+Personally I would look for another book

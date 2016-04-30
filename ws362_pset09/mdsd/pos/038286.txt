@@ -1,0 +1,11 @@
+The author, James Surowiecki, lays out and explores a variety of general and specific cases of groups of people acting either wisely or stupidly.  The examples are all easy to relate to, and I found them to raise meaningful questions in my mind which were answered in due course in the text.
+ 
+When I think of crowds, I think of unthinking masses moving together, led by tradition, habit, or an individual.  How can that be wise?  A more accurate title would be "How some groups of people can make better decisions than experts, while others act like collective idiots, and what characteristics distinguish the two types of groups", although that's hardly likely to sell as many copies. :-)
+ 
+For me this really shed some light on my past experiences of participating in successful and unsuccessful teams at work.  I'd sometimes wondered why I've been on a few teams that appeared to "click" (smart people who want to work together to achieve a common goal), but our results weren't great, whereas other teams have been successful.  What was it that made a good team?  I had some of the pieces, felt I still had some real gaps in my knowledge.  This book certainly helped.
+ 
+To paraphrase the basic idea that I took away from the book, teams of people can achieve superior results if:
+1 Each individual on the team is well informed; 
+2 The work of one individual does not influence the work of another; 
+3 There is an objective method to aggregate individual conclusions into a group conclusion.
+As simple as they sound, there are many ways to fail, and the book does a great job of exploring a variety of phenomena that cause failure.

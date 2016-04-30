@@ -1,0 +1,9 @@
+An electronics technician of 8 years, I have a solid understanding of computers but I am totally new to internetworking and Cisco equipment. In my opinion this book is very poorly written and I do not beleive it was proof-read before it was printed. Since I am not a Cisco pro I cannot detect any of the errors between the information presented and how things really work, but I can detect all the inconsistancies of the information given. 
+
+Figures and diagrams that do not correlate with the text leave you wondering which is correct. Topic and chapter review quizes that ask things which were not explained in the text. There are answers provided in the back of the book to these quizes but 1 or 2 out of 10 of every 10 answers are incorrect and not ammended in the current errata. This is very frustrating to me because I have spent too much time reviewing material to figure out why I missed a question - only to find that I didn't. 
+
+When I emailed Ciscopress and explained the ammount of errors I am finding I was refered to a very small errata page. I offered to submit a list of items that I felt should be reviewed for accuracy... but should I be the one proof reading this text?
+
+Will the $250 exam also be so flawed?
+
+

@@ -1,0 +1,5 @@
+im moving over from vb to c#, so naturally I would like to see examples written in c# so I can get the semantics down.
+
+This book does not do that.  Half in c#, half in vb, fully useless.
+
+Next time release 2 versions of the book.  Or better yet, write some of it in vb, some in c#, some in python, some in perl...

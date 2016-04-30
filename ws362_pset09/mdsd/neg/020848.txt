@@ -1,0 +1,17 @@
+It seems like most of the people writing reviews for this book already know databases to some degree. I didn't, so I'd like to share my experience.
+
+This book takes an old-school, grammatical approach to the SQL language, grouping related commands into chapters, then explaining each, one by one.
+
+This makes the first part of the book exhilarating. You go to the O'Reilly website and download a database to work on, and immediately you are querying, updating, etc, using the examples from the book. SQL at first seems refreshingly direct and powerful compared to the (OO) programming languages I know.
+
+However, the 'a command followed by long verbal explanation" approach completely falls apart when the content goes even a little deeper. For me, the book took a nosedive at the first "Joins" chapter, and never recovered.
+
+It was then I realized that I had not yet firmly grasped what a 'foreign key" was, so it was hard to get my head around the the idea of a join.
+
+A simple graph would have helped at many points, but there are no graphs.
+
+Nor are the code examples embedded in meaningful contexts or test cases. Indeed, the reasons for writing the code are almost in every case revealed AFTER the code is shown ("in that last query, the intent was..."), and the code is never commented, which makes it harder to understand and retain. And without any context, it is difficult to understand WHY to use one command over another. It seems like you can skin a cat a million ways in SQL--so why prefer one kind of filtering to another? Performance, readability, what?
+
+I guess it sounds like I just wanted this book to be a 'Head First'-type book, and that's true. But even on its own terms, this book is frustrating. Its pure emphasis on the language somehow skips syntax, and the long verbal explanations are constantly seesawing away from themselves ("as we will see", "as we have seen"). 
+
+I've finished the book and feel reasonably confident about using SQL now. So this book is serviceable...but unnecessarily painful, too

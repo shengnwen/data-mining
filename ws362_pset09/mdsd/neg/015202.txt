@@ -1,0 +1,5 @@
+A lot of good information if you are familiar with HTML (Hyper Text Markup Language) Don't most of us today use an Editor when creating our web pages? How many of us are still comfortable using HTML? This book is my second dissapointment this week with the "Dummy Books". Maybe the publishers are no longer winking at us when they refer to us as dummies. Methinks they mean it literally now after after being "taken" twice this week. 
+
+In the promo for this book there is no mention there is going to be a heavy reference to and a working knowledge need for HTML. So unless you are buying this book for your guru web editor it will be of limited value.
+
+There are a lot of good ideas in this book, however, the publisher should have been a little more forthcoming about prerequisites necessary to understanding what this book is all about. 

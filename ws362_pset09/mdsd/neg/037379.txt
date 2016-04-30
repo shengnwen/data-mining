@@ -1,0 +1,13 @@
+I had to read this book for a Technology and Education class, and it was a total waste of time and money. I'm a professional computer consultant in the middle of a Masters in Education, so I feel qualified to discuss the technical aspects of this book.
+
+While this book was Copyrighted in 2005, almost all the pictures and content are so dated I think that little has changed since the first edition. A Third edition has just been released, which may be more up to date, but I feel it will be just as useless.
+
+The main problem with this book is that it covers everything with no regard to technical ability. For instance, the book informs the reader what a scanner is, and then says they can be usefull for converting a printed page to editable text on the computer. If you are learning what a scanner is for the firs time today, then you AREN'T ready to start using OCR to import documents. In other places, it says floppy disks (yes, the 3.5 disks) are useful for storing information (most computers don't even accept floppy disks).
+
+Additionally, the book is entirely pro-microsoft. It briefly touches upon 'free' software as it distinguishes between shareware and freeware, but doesn't mention Free/Libre Open Source Software. Between Sakai, Open Office, Firefox, and the myriad of other programs, this is inconceivable. All the pictures are for Word, Outlook, and Internet Explorer. It also makes no mention of Apple Computers (at least I didn't find any) or GNU Linux/*BSD.
+
+Finally, it is filled with cute buzzwords that mean nothing, at least to me, such as "The DID's formative feedback look ensures performance objective validity." which appeared on the sidebar with a lightbulb.
+
+Basically, if you don't know anything about technology, this book will be of no use, as much of it will gloss over what you need to learn, and if you are already a competent computer user, this book will be dated and provide scattered information that might have been helpful 5 years ago.
+
+I would recomend not buying this book. If you are a teacher and want to see how technology can be used in your classroom (without learning useless information like what a POST is) I'd try Will Richardson's Blogs, Wikis and Podcasts. That was useful and interesting, while not being too technical

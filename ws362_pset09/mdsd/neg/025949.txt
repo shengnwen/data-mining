@@ -1,0 +1,2 @@
+While the framework is nicely structured, I was not able to get a good picture of how to implement the idea.  As a startup's founder, I find the book of little help - maybe for established incumbents it would be different.
+

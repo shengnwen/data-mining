@@ -1,0 +1,6 @@
+This book was used in my Intro to Computer Security class, which I thought was going to be an interesting until I had to read the book. This book is suited more for those already in the field or have knowledge about computer security. 
+
+The way the book is writen makes it a hard read as it is full of theory and hardly any application. Complex theories are not explained in a way that allows somebody new to the field the chance to understand them. 
+
+Examples are more or less useless as they are either complex or not explained in full. Most of the examples cause more confusion then understanding. This is not just my opinion but the majority of my the class. 
+

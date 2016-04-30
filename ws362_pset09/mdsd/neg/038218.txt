@@ -1,0 +1,7 @@
++ Defacto standard
++ Accompanying WebCourse
+
+- Too deep if used as an intro book; lacks solutions if used for a reference book
+- It's HUGE!; hard to carry around
+
+= Tries to appease too wide an audience.  Definately attractive to professors who already know the information and feel this is THE book yet probably too deep for an intro algorithms class.  Wish there was a searchable pdf version that came with the book on a CD as well as odd numbered solutions.

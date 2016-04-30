@@ -1,0 +1,7 @@
+The 3G IMS book provides a look at IMS organization and SIP signaling from one of the people who were there while the protocols were being established.  Since this is an emerging and still developing technology, the little insights like "this is what we intended to do here", and "this is where we want this eventually to go" will be emminently helpful in choosing equipment and network organizations.
+
+I have to describe to customers how they might use IMS equipment and integratit into their networks.  While this is no engineering level document, it is solid at describing the interfaces they will have to support.  I think they will be assured by the information I now have to give them. 
+
+This is a bit pricey and the editing a bit sloppy, but then I find that the rule rather than exception with a lot of the inside information manuals.
+
+This will be of great use and I hope it will arm me to be able to comfort customers that this architecture just might work

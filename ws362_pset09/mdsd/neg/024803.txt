@@ -1,0 +1,1 @@
+This book is not a good introductory to process control. Avoid this book at all cost 

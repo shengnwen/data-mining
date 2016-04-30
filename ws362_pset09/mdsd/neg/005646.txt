@@ -1,0 +1,13 @@
+I bought this book because I liked the table of contents.  I assumed this book would present concrete, actionable specifics on the subjects presented in the table of contents.  I was disappointed.
+
+Under information planning, this book only tells you that you should do it.  Gee, thanks.  Under estimating and scheduling - you should estimate future project resources and you should request new resources and fund innovation.  Oh, boy.  Yippee.
+
+This book is an exercise in stating the blatantly obvious.  I expected to see information on the nuts and bolts of producing technical documentation...I expected to see examples of budgets, examples of ways to create efficient systems for document production using single-sourcing, and to see examples of specific, important techniques for planning a document production process that allows for easy translation, revision, re-usability and transfer to different mediums.  I expected to get a reference that would become well-worn on my desk.  This book is as far from such a tome as it could possibly get while still being written in the English language.
+
+I want to improve the efficiency of my documentation projects.  I'd like to know about technologies (XML?, VBA?) that might help me with separating content from layout and improving reusability.  Is that here?  Nope.  But you do get way too much talk about how you should acquire good tools that support your business goals.  There is nothing about what those tools should be or what specifically would make them good.
+
+One page tells you the difference between a "traditional" project and an "agile" project...things like:  An agile project "responds to change" and has "minimal process documentation"  as well as "reduced development schedules".  That's nice.  Who cares?
+
+Implementing a Topic Architecture is the only section that even makes a move in the direction of specific, concrete, useful material.  But even it leaves you thinking, "Well, duh...yathink?"
+
+To sum up, this book tells you all the obvious things you ought to do...but that's it.  It doesn't have anything to say about HOW you would actually do those things.  I doubt the author has the foggiest idea how because I doubt she has a single hard skill to speak of.  She definitely didn't write about any

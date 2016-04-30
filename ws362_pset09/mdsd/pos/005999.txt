@@ -1,0 +1,11 @@
+I wrote and published this review in The Journal of Irreproducible Results, the science humor magazine, vol. 48 #3, September 2004:
+
+This pleasant little book tells a bit more about Venn Diagrams than most scientific people vould vant to know.   In addition to the familiar 3-ring version, it revards the reader vit beautiful new examples of many complexly intervoven curves.  The matematics, the logic, und the graphics are all beautiful.
+
+The publisher puffed out the easy, short text by doublespacing the lines.  The diagrams get generous space.  If you don't pause to carefully examine the geometry of each diagram, you can read this book in a couple of hours.
+
+The historical introduction proved useful.  Less than a dozen pages in, I had just passed Euler Diagrams, Venn's predecessor, in vich an outer circle encompasses a whole set, und an inner circle marks off a subset.  My son broke in to complain that he vus hungry, but his pizza vus burnt und he didn't like having to vait for anutter pizza to bake.  I set down the book, und accompanied him to the kitchen.  There sat the very image I had just seen in the book.  The whole set vus the overbaked pizza.  The outer ring vus indeed charred beyond edibility.  But the center half vus merely crisp, und still edible.  So I cut it out.  That subset vus just vutt I had been reading about.  Und it vus also dinner.
+
+Binary numbers und Gray codes feature prominently.   Lewis Carroll, George Boole, C. S. Peirce, und Martin Gardner each play roles, but John Venn himself remains curiously under-described.  Recent und current matematicians continue to advance the field.
+
+But this book is ultimately insufficient, because these are only Venn Diagrams.  For more complete aspects, vun must also consult Vutt Diagrams, und Vair Diagrams, und Vye Diagrams

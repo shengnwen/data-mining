@@ -1,0 +1,3 @@
+Just a quick note ... The book gives a deep insight how the compiler work with C# code to produce CLR-conform code. It shows what impact the style of code has and which features are available only because of the compiler.
+
+It's nice to read, but for me as a "normal" programmer not really essential

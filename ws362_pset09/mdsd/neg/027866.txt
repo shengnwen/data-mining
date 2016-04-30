@@ -1,0 +1,3 @@
+The book covers a lot of material but, the book's index is far from complete.  
+
+Although the book proports to describe both DB2 and other databases, facts such as the important difference between Numeric and Decimal types in DB2 are omitted.

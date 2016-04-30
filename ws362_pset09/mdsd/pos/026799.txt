@@ -1,0 +1,10 @@
+I stumbled over this (lovely) book a little by accident. As I kept reading, my enthusiasm for the book gradually increased. While the book is addressed perhaps more to students in computation and in CS, it is very attractive also as a text to be used in mainstream mathematics, and in probability theory.
+
+ It begins with a new look at the classical Kolmogorov construction of measures on infinite product spaces, and asks for explicit ways of labeling them with a class of certain concrete numerical functions. Then it moves onto noiseless coding theory (from communications science), but it stays rooted firmly in classical ideas from Shannon-Kolmogorov communication and information theory.
+
+It is indeed pleasing to see that God still plays dice, not only in quantum theory, but also in such classical areas of math as in number theory.
+From the foreword: "...putting Shannon's information theory and Turing's computability theory into a cocktail shaker, and shaking vigorously..."
+
+The book is a second edition 2002, with a number of attractive additions to the first edition from 1994. It will likely work equally well in a course, as for self-study.
+The main portion in the book focuses on classical and modern topics in computability, and its connections to randomness; covering concrete halting problems, chaos, cellular automata, algorithms, and their complexity.
+Palle Jorgensen, October 2004.

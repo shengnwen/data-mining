@@ -1,0 +1,13 @@
+The book presented 25 patterns grouped in 5 areas, decoupling (conceptual and architectural level), resource, input/output, cache and concurrency.
+
+The most interesting patterns are in resource and cache. Decoupling and concurrency patterns (e.g., data accessor, active domain object, layers, transactions, optimistic/pessimistic lock etc.) are well known and the contents are a bit too light to be very useful, yet the concepts are giving readers some directions.
+
+In resource patterns, some interesting patterns are presented, particularly resource timer automatically releases inactive resource, retryer enables fault-tolerance for data access operations.
+
+In cache patterns, cache collector purges entries whose presence in the cache no longer provides any performance benefits; cache replicator replicates operations across multiple caches.
+
+There are some areas to be improved, first, author should consolidate pattern names with other pattern authors, e.g., data accessor is also known as data access object, active domain object is similar to active record,  paging iterator is close to value list handler (though value list handler is more decoupled from underlying data store), the point is, one of the important benefits and purposes for documenting patterns is to build common vocabularies among designers, using different names for same or similar patterns is defeating this purpose. The same pattern name should be used and may be presented as a variation of the original pattern.
+
+Secondly, the examples given in the book is a bit too simple, sometimes, the examples might not justify or validate the interface abstraction is generic enough to handle real world problems, so some tweaking and modification to the pattern would be expected.
+
+Overall, the book is well organized, and contents are easy to follow, most patterns come with class diagrams and sequence diagrams. Good for designers who want to decouple data access from rest of the application, utilize cache to minimize data access and thus boost application performance, manage resources in an efficient and leaking-proof way.

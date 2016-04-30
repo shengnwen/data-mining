@@ -1,0 +1,13 @@
+Woodward, a philosopher at Cal Tech, presents a detailed development and defense of an "interventionist" or "manipulability" theory of causation.
+
+Major influences on Woodward include Spirtes, Glymour, and Scheines (1993/2000), who focus on causal inference and discovery from statistical data, and Judea Pearl (2000), who developed the notion of an intervention and showed how to estimate quantitative causal notions given qualitative notions of causal dependence.  Woodward, by contrast, focuses on the semantic or interpretive project of understanding the basic qualitative causal notions (p. 38).  Of all these writers, Woodward's concerns are most directly continuous with those of traditional philosophy of science.
+
+Chapter 1 is an introduction and preview.  Chapter 2 presents the guts of the manipulability theory.  Here we get, among other things, a non-technical introduction to the use of acyclic directed graphs to represent causal relations.  We also get solutions to a basketful of fascinating puzzle cases.
+
+Chapter 3 expands on the notion of intervention that the theory needs.  Since that notion is itself causal, the theory is non-reductive.  The manipulability theory is contrasted with the closely related agency theory of causation, and also with David Lewis's counterfactual theory of causation.
+
+Chapter 4 treats causal explanation, and includes a critique of the venerable Deductive-Nomological model of explanation.  Chapter 5 develops a counterfactual theory of explanation, in which the complex antecedents of the relevant counterfactuals correspond to possible manipulations.  There are also pragmatic or epistemic constraints on causal explanation that are not present in purely causal claims.
+
+Chapter 6 deals with the notions of invariant relationships, lawfulness, exceptions, and ceteris paribus clauses in light of the manipulability theory.  Chapter 7 interprets the structural equation models of biomedical and social science in light of the manipulability theory.  Chapter 8 treats Wesley Salmon's causal-mechanical (causal process) model, and Philip Kitcher's unificationist model.
+
+The painstaking detail of the treatment is admirable, if occasionally wearying.  I am not a philosopher of science, but the work strikes me as lucid and penetrating throughout, in a way that recalls the philosophical virtues of classic writers like Carnap and Hempel

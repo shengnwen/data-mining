@@ -1,0 +1,44 @@
+Simsion and Witt's _Data Modeling Essentials_ has been a classic on my data management bookshelf since the first edition.  Now in the 3rd Edition, this work has become even more valuable and useful on data management projects.  The fact that the authors continue to enhance and expand their work is a real asset.
+
+This work is targeted at both students and experienced information technology professionals.
+
+...and, of course, any data modeling book that manages to quote from Led Zeppelin's "Stairway to Heaven", Stephen Covey's _7 Habits of Highly Effective People_, Bob Dylan's "Brownsville Girl", and even Jack Kerouac must be a good read, right?
+
+Let's start with what I really like about this book:
+
+1)	_Essentials_ starts at the beginning "What is a Data Model" and works its way through entities, attributes, subtypes, ERDs, normalization and all the basics through to fairly advanced topics such as the use of surrogate keys, transformations, designing for performance, time dependence and advanced normalization.  Simsion and Witt make this trek in a balanced and clearly-explained manner.  This is no _...For Dummies_ type work - it is a true professional level book that consistently targets the whys, why-nots, how-much and when-to-stops of data modeling.
+
+2)	Along the way, the authors refer to multiple methods, notations, and tools, while sticking with a single notation throughout.  I much prefer data modeling books like _Essentials_ that use the most common notation in modeling, as these books are more useful in a variety of contexts over those that use more obscure notations.  I can see how this edition has updated references to tool features and modeling support.
+
+3)	_Essentials_ includes discussions that are, more often than not, left out of technical works in the data management field.  For instance, most of the topics include references to myths, trade-offs, and real world issues.  The authors' willingness to explore these topics is, in my opinion, a sign of maturity of this book.  So many technical texts in database design completely ignore the trade-offs in tuning, simplifying design, and working with external constraints, etc.,  but the authors jump right in and give their opinions on what is best. 
+
+4)	This book contains a substantial amount of material on the development of physical models and databases.  Many data modeling books treat this area lightly and I find the authors' thoroughness in this area a really strength.  Many logical data modelers struggle with turning beautiful designs into working databases and _Essentials_ does a great job of explaining the trade offs in a non-DBMS-specific manner.
+
+This 3rd edition expands in these areas to become a true professional's guide to data modeling.  
+
+What I didn't like about Essentials:
+
+1)	While the majority of the work uses contemporary terminology and notation, there are still some terms with currency issues.  For instance, when describing process models, the examples use Data Flow Diagramming notation, something that is not quite a common as it used to be and can be perceived as dated.   On the other hand, what did the authors choose to call the boxes on a data model?  "Entity Classes", in deference to what object modelers chose to call these boxes.  The authors believe that this deference will improve communications between modelers.  I don't agree.  Having borrowed a term from the object crowd, how does the book refer to modelers?  "E-R modelers", a term that is rare and dated.  And in many places, instead of referring to data models, they are called "E-R models".   Data modeling tools are referred to as "documentation tools" or "CASE tools" - these are also dated terms.   Perhaps in the 4th edition we will see a complete updating of terminologies and notations. 
+
+2)	As a textbook, this work recommends approaches that are not suitable for novice modelers.  For instance, the authors recommend the use of dummy rows and special dummy words in databases to avoid Nulls, the use of multi-valued attributes (not columns, attributes), etc.  Of course these things happen in the real world, but to recommend them in a text without sufficiently covering the down sides of these approaches is going to get a few newbie modelers in hot water.
+
+3)	As a professional guide, the definition of "Logical Model" as a model that is DBMS-specific is not a well-accepted definition and will cause confusion when professionals work with others who define a Logical Model as a model that is DBMS-independent.
+
+4)	I believe that the introduction of Normalization in Chapter 2 is premature. Many normal forms can be `met' by following good modeling practices.  If these practices were introduced in an appropriate manner, the authors could then show how these practices support normalization.
+
+5)	As I have said in reviews of other data modeling works, I hold text book examples to a higher standard.  _Essentials_ uses an entity and relationship naming standard that is overly prone to errors and misunderstandings:  infinitive-based verb phrases with a "be" form in the reverse relationship.  This leads unfortunately weak relationship names, such as those in figure 10.3 Insurance Model:
+
+a.	Policy Type may classify Policy / Policy must be classified by Policy Type (using may and must based on optionality)
+
+b.	Policy must involve Person Role in Policy / Person Role in Policy must be for Policy
+
+I'm not sure how to interpret these.  Why is "involve" the reverse of "be for"?  What does the term "be for" really mean, anyway?  What does "be of" mean?  
+
+What if I don't want to introduce cardinality in my business sentences?  I'd get sentences such as "Person Role in Policy be for Policy".  What business user wants to work with a model that has assertions such as that?   What does the relationship that is named "nominate" on one side and "be party to" on the other really mean?    This sounds like I may just be nitpicking, but I continue to find this be-form and infinitive verb style prone to errors and I wish authors would give up on it in textbooks.  If the authors can't make it work, how will the students?
+
+
+Overall
+
+While I've mentioned a handful of things I didn't like in this work, I still highly recommend it.  I especially appreciate the approach to topics that most authors shy away from.  This is a substantial work - it has goodies for new modelers, intermediate modelers, and advanced modelers.  _Data Modeling Essentials_ is my number one recommended how-to data modeling book.  It is the perfect balance of theory and practice, giving the reader both the foundation and the tools to deliver high-quality data models.
+
+Disclaimer:  I was a pre-publication reviewer for this work and received compensation, including copy of the book, for providing a review based on my data modeling experience.  I receive no compensation from the publisher related to sales or promotion of this book.

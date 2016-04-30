@@ -1,0 +1,7 @@
+This is a great reference book for UMTS and does a great job of explaining real world examples of protocol flows.  I have all of the other "standard issue" UMTS book both on the RAN and Core, this is the only one that covers all aspects.
+
+The main author Ralf Kreher is very knowledgeable; I have attended a number of his training sessions.  His views on KPI's have helped to guide our strategy on UTRAN and Core analysis.
+
+I highly recommend this book...
+
+Chri

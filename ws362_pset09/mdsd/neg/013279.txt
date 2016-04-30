@@ -1,0 +1,1 @@
+This is a VERY high level book.  You can get more technical information using the &quot;What's This&quot; function in the program (i.e. right-click on a field label).  I think this book was a rush job to be one of the first ISA books available.  The author obviously doesn't have a lot of experience or an in-depth knowledge of this product

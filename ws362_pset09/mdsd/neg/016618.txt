@@ -1,0 +1,1 @@
+This 36 page book is very introductory in nature! If you want to know about Exchange Message Record (EMR) or Automatic Message Accounting (AMA) formats, it wraps it up in giving 4 lines of introduction for each. Not at all useful for professionals. Beginners should be able to find much more information on the net itself.. free of cost

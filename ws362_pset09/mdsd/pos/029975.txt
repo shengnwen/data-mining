@@ -1,0 +1,3 @@
+I've read a number of Maya books over the past few years. Most focus on basic-intermediate usage. Lanier's book is a great resource for learning advanced tips and theory, with many color pictures. This is the best book I've found about using Hypershade nodes to build professional materials.
+
+I particularly liked that the included DVD contains Maya project files for  every scenario pictured in the book (although most of the cool models are not included, just simple geometric primitives). These project files contain great setups comparing different lighting and rendering settings. I highly recommend this to anyone interested in learning intermediate-advanced Maya topics

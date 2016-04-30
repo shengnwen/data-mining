@@ -1,0 +1,1 @@
+This was a required text for a college class.  As a beginner in understanding how operating systems are created the first few chapters were easy to read and understand, but after that I needed the professor to be able to understand the concepts

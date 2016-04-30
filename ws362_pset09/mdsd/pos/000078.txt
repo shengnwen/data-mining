@@ -1,0 +1,3 @@
+Before I read this book I took more of a waterfall approach to my design projects.  My clients weren't really involved much after the discovery meeting, proposal, and payment date requirements.  Pay half now, pay half when we're done.  That was the model we used.  This book has taught me to take a more iterative approach, which really gets the clients involved.  Our team can more effectively manage change and adjust our projects to meet the ever evolving needs of today's web clients.
+
+The authors did a great job presenting "not so fun" information in a very digestable manner.  They did so without being foolish "dummies".  They also responded to a few of my email queries on subjects that I didn't immediately comprehend.  Nice work guys

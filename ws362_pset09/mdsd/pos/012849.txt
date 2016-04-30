@@ -1,0 +1,1 @@
+Milner presents a set of useful, complex theories concisely.  I agree with the reader above in that this isn't bed time reading.  However, the rewards are worth the effort.  An audience interested in computabilty, semantics, parallel systems and modelling will find that this book presents new tools  and ideas in those subjects. Not for the faint of heart, hence only 4  stars

@@ -1,0 +1,5 @@
+An appalling book.
+Boring, poorly written, poorly edited.
+
+Try Algorithm design manual by  Steven S. Skiena or  Thomas H. Cormen's Introduction to Algorithms or Kleinberg and  Tardos'
+Algorithm Design or the excellent Introduction to the Design and Analysis of Algorithms by Anany V. Levitin  instead of this mish-mash

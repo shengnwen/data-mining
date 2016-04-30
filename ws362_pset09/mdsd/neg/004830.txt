@@ -1,0 +1,7 @@
+Despite many reviews recommendation this book for beginners, it has nothing for the beginners. It is clearly for people who have prior knowledge. Does not explain any basics. 
+
+Do not install CD. Despite my mentioning a particular folder in which to install the software, the CD went ahead and created a new folder called PROGRAM. And this conflicted with the WIndows startup at next boot - which gave me a message that this folder has to be renamed to anything but PROGRAM. 
+
+In any case, the software did not run.
+
+But a big disappointment, when I went by the reviews

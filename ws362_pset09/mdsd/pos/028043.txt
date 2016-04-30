@@ -1,0 +1,5 @@
+It's a broad overview of technologies, with some reasonable information about each.  While it provides some data on the principles behind these technologies, and some experimental and measured results, it doesn't go too in-depth with any of them.
+
+I can't blame it for that, considering the length and number of topics, but a man can wish.  I'd love a 1000 page version of this book :-)
+
+Five stars for the topical coverage, one star off b/c I'd prefer different aspects of some of the topics' information covered instead.  E.g. mathematical results are nice, but some protocol/algorithm coverage would have been preferred in some cases.  That's just me, but this is my rating :-

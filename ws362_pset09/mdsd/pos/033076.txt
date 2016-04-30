@@ -1,0 +1,5 @@
+This book does a nice job of filling in where the built-in help of Mathcad falls short, being full of examples and explanations. At $41, it's a bit pricey, though. The evaluation disk is good for 120 days, long enough so the user will know whether or not the program is worth buying at the commercial level.
+
+As for the program, Mathcad does a fine job if units based, what-you-see-is-what-you-get documentation is needed. For instance, it beats the heck out of using Excel, as "pretty print" typeset math is easily inserted, along with superb plotting. Documents made with it are professional looking and all calculations are easily shown with textbook quality fonts. 
+
+However, the program is lacking in symbolic commands. The most glaring of these is the lack of a symbolic differential equation solver. The symbolic capability of Mathcad comes from a subset of the Maple kernel. Why the folks at Mathcad decided not to include the dsolve() command from Maple is puzzling. Other good math programs, Derive, Maple, Mathematica, Mupad... have both numeric and symbolic differential equation solvers

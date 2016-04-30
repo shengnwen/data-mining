@@ -1,0 +1,7 @@
+Upon reading the Preface and Introduction I can't believe my eyes.  I have seen english comp 101 papers with more clarity than Berlinski.  
+
+I am interested in all types of science and lately Genetic Algorithms have peaked my interest; but after my brief journey with Berlinski's prose I'm feeling carsick from the yo-yo inebriated turn of phrase.  
+
+I suppose this book is redeeming in the fact that it attemts to explain the vast complexity and neccessity of the algorithm, but for one who enjoys syntax and sentence elegance this book leaves a bitter taste for the next scientific read.
+
+If you don't know about algorithms already, I suggest you look desperately for another book before you become frustrated at Berlinski's.  If already know about algorithms, this may be a brilliant read for you. 

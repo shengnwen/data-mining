@@ -1,0 +1,3 @@
+Most of the tips offered in this book are basic. As a senior majoring in CS, there was little that I had not heard before. One strong point of the book, however, is how Gunderloy ties together all the loose ends of the development cycle. This book gives an excellent high-level overview of everything that should be happening throughout a development cycle, from project conception to release date and beyond.
+
+The book is very heavily tied to VS .NET 2003; many chapters are little more than listings and explanation of VS add-ons and extensions, giving little value to anyone not using this particular IDE.

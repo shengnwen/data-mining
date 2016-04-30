@@ -1,0 +1,7 @@
+Warning: This book requires a strong foundation of physics knowledge. The author refers to relativity and skims over quantum mechanics pretty quickly in applying his thoughts.
+
+As for the material itself, the book is great. Deutsch gives us a tour of leading theoretical physics and their applications to our understanding to the physical universe. For anyone interested in physics, epistemology, or philosophy, the narrative is engrossing as Deutsch meticulously develops ideas that really work your brain over. 
+
+My only issue with this book is the author's idea of the "four strands." Granted, Deutsch only claims that the future model of reality will include these four strands (evolution, computing, quantum mechanics, Popperian theory) in some way. Yet, I don't find his strands to intertwine with one another. His discourse on quantum mechanics is fascinating, but doesn't significantly tie-in to his overall philosophy. Deutsch does show wonderful similarities between Popperian epistemology, Godel's Incompleteness Theorem, and the Turing Principle. But again, he doesn't develop an overall encompassing philosophical model.
+
+Regardless, the book is informative, a pleasure to read, and well-written. Definitely recommened

@@ -1,0 +1,3 @@
+This book brings you up to speed very fast. I was a complete novice but now using Visual Basic to write a program in my dissertation. 
+
+The only downside is that you have to get Visual studio separately, it would have been a nice addition even if at an extra cost or charged separately

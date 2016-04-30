@@ -1,0 +1,2 @@
+Well, the book tries to cover JAI, JMF and J3D all in one book.
+And does not do too good a job on either (JAI and J3D). I have not tried the JMF chapters. Also my major peeve with the book is that the code for J3D is not available online. I think this was just rushed out of the door

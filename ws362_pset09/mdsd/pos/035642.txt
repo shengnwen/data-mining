@@ -1,0 +1,7 @@
+There are a few caveats to anyone who is interested in programming in graphics:  it's pretty difficult and it's based entirely in mathematics; you need to know a few things about physics, not just computers; and you need to be prepared to spend a lot of time learning.
+
+I have used this book for two courses.  It was a required textbook for my introductory graphics course in which I built a ray tracer.  To the best of my knowledge, the book's coverage of ray tracing is substantial and excellent.  I also found myself using this book as a reference for a geometric modeling course; the coverage on different curves and surfaces is rather short, but what's there is superb.  The explanations provided include discussion on the mathematics, which is a great boon for anyone who's actually trying to understand what's going on under the covers.
+
+From what I have read, this is not a great book for OpenGL programming.  (I attempted to learn a bit of OpenGL from this book.)  It should be noted, however, that the title is "Computer Graphics using OpenGL," not "Learning how to use the OpenGL API."  There's a pretty substantial difference.  Hill's concentration is definitely on computer graphics, not on OpenGL.
+
+I would highly recommend this book for anyone who is interested in learning about computer graphics from an implementation-oriented perspective

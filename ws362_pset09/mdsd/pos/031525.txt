@@ -1,0 +1,5 @@
+While I would not recommend this text to someone wishing to teach herself real and complex analysis, having this book in your personal mathematics library is a must for anyone seeking to further her education in higher mathematics.  It's one of the most commonly used undergraduate texts, referred to by some as the "Bible".  If you can afford it though, I would recommend that you pick up a copy of Baby Rudin to use as a reference.
+
+The first two chapters in combination with Bartle's text on Lebesgue Integration and Measure makes for a killer introductory course in Measure Theory.
+
+Oh, and if you can solve the problems in Rudin's book, you can do pretty much anything, so it's a major confidence booster

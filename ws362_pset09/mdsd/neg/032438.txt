@@ -1,0 +1,2 @@
+This book used to be a must the first time it has been published but after ten years it is getting old and the topic is now better covered by some others authors. The arch/garch section is really weak and this book by its sole is not enough to implement advanced models. 
+The authors also forgot to include practical implementation of the models with Splus or Matlab or whatever language, which is now almost a standard in many financial engineering related books.

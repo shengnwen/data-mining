@@ -1,0 +1,4 @@
+If you work for a large corporation which has millions of $ to spend on DW projects, maybe you should look at this book and even consider some of the ideas that it contains.
+But if you need to develop a data warehouse using limited resources and within a certain timeframe, your time will better used reading other books, because following the Inmon approach will lead you to an unnecessary complicated and expensive design.
+I found that the arguments used by Inmon to demonstrate the limits of the dimensional approach are not convincing at all. For example, at page 142 he says "Because there is a different data structure for each data mart, making any data mart into a data warehouse doesn't make sense."
+Having personally implemented several data warehouses using the "conformed dimensions" approach, I can guarantee that it worked and produced a very elegant and clean data model.

@@ -1,0 +1,5 @@
+A book I was looking forward to, but was very disappointed by. The theoretical parts are ok, but it is nothing you can't find online. The real meat for me was the example code. And oh boy, is it terrible. The chapter on J2ME (the most important one) has two code examples that the author claims are working.
+
+These examples won't start, they won't even compile! They are half finished programs written by a Java amateur. I can only hope it is not the author himself, because if it is it casts considerable doubt on the rest of the book.
+
+I find it amazing that the publishing company includes this in a published book, they really must have rushed it out. Even more shamefully is the fact that this code is available to download online unchanged at the book site. No errata at all

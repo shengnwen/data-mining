@@ -1,0 +1,1 @@
+From page 168, &quot;serialization delay is not covered because its influence on delay is relatively minimal.&quot; Why do the authors think we need fragmentation? They seem to think it's needed because of propagation  delay. I don't think the authors understand &quot;Voice over IP  Fundamentals.&quot

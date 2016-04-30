@@ -1,0 +1,1 @@
+This book is not for the novice.  It does not contain enough clear and complete examples for a novice to use.  Database examples are also weak.  The arthur only talks about SQL server.  What about other connections strings and syntax?  I found Google to be a better guide to the programming I had to do

@@ -1,0 +1,7 @@
+I'm a programmer who has been roped into doing some database design work for  the database that my application uses.
+
+While this book presents a very sane rational analytic approach based on interviewing users for developing a database system for a large (or small) organization, it isn't so applicable to my situation.  When developing a database as the infrastructure to a program (rather than developing a database that stores data for which programmatic access is secondary), the data tends to be more abstract and this book doesn't really address that as much.
+
+Also, it doesn't really address the issue that I'm having right now which is that the legacy database that I'm working with needs work, but I whatever changes I make will require changes to the code, so I was hoping to get some guidance to help me prioritize what changes to make first.
+
+Still, it is well written in simple English and seems like it would be a great read for the intended audience

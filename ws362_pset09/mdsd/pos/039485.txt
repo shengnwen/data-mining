@@ -1,0 +1,1 @@
+Amazon has done an amazing job of creating a very simple API, which Jason Levitt does an excellent job of explaining.  Easy to read, easy to comprehend, now let's see what kind of user interface you can build with this tool.  And maybe, just maybe, someone will benefit from what you've built, buy something from Amazon, and you can share in the sale

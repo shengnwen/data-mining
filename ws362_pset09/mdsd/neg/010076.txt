@@ -1,0 +1,4 @@
+The book is comprehensive and somewhat useful as an introduction into the field. However, it has several flaws that make it fairly disappointing. The text is neither concise nor precise and some information is included that is of questionable value. (60 pages of experimental data in tabular form of thermal properties during cooling and warming of specific solutions are a waste of paper)
+Some sections are sloppy. For example on page 64, describing the phase diagram of water, you will find an incomplete sentence, a description that doesn't match the figure (where is the dotted line A-E?), and a very poorly drawn phase diagram (water doesn't really freeze at -15 C at 100 kPa) The author frequently uses non-SI units.
+A book in this price range should be properly edited and proof-read, in my opinion. This isn't, so I can't recommend it.  
+ 

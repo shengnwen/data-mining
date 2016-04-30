@@ -1,0 +1,9 @@
+No matter how many .NET and/or "programming database" books you have read (like me), this one is a MUST. It doesn't try to fill hundreds of pages, instead it concentrates on a) best practice tips and b) samples on how to write production-ready ADO.NET 2.0 software. This is stuff other books not even mention!
+
+The book explains the shortcomings of .NET 2.0 and gives you the sourcecode and metrics how to circumvent them. It's then up to you whether or not you implement the necessary features.
+
+The book gives you a much better understanding for .NET 2.0. And even more important, it gives you the facts you need when negotiating deadlines and budgets.
+
+It's full of tips you never learn in university. Especially the chapter "Missing Links of Concurrency Management" is an eye-opener. It makes you refactor your existing code!
+
+Simply a MUST on your bookshelf

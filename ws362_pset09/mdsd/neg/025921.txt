@@ -1,0 +1,5 @@
+I agree with some of the other reviews. There is some helpful information in
+this book but it's nothing which can't be found elsewhere.
+It might be worth reading but I suggest skipping the
+examples since they contain too many errors, and aren't
+spaced or documented well enough for easy understanding and debugging. 

@@ -1,0 +1,5 @@
+The author is a great teacher, does an excellent job teaching absolute beginners basic programming concepts and how these concepts relate to Java.
+
+If you have had some/any previous programming learning experience than you might find this book will go too slow for you. However, if you really don't understand basic programming concepts than this book will explain them.
+
+I recommend this book for absolute beginners in programming, not just beginners in Java but any programming. A very good start for someone who has never created or seen a program before

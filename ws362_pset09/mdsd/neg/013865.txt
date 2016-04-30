@@ -1,0 +1,11 @@
+It was not until after I purchased this book and started to read it did I discover that the author "has many years experience in sales of VoIP and softswitch platforms." It shows. This book does not read like a major reference and learning tool, but more like a sales seminar only to answer potential customer's objections on softswitch technology.
+
+I am a senior technician in a major telecommunications company. I have worked on several softswitch platforms from several vendors. I have hands-on experience in both the lab and live environments, and was hoping this book to be a valuable resource on softswitch technology.
+
+There is a bullet point on the cover of the book, "Risks and payoffs" so I anticipated real world failings of softswitch issues and techniques to overcome them. Only minor theoretical "risks" are identified but quickly dismissed with a "car salesman" answer. Nothing substantial at all.
+
+The book is adequate in discussing the protocols used in the VoIP and SIP environments. It is far lacking in the real world application of these protocols. It also fails in the argument that softswitch products are currently are as reliable as any major class 4/5 switch available. On a similiar vein, it appears that the figures used in the economic value chapter are best guesstimates of a salesman, not real world success stories. I can give the author several examples, one being a major US university, of organizations that attempted to migrate to softswitch, and pulled back after it was determined to be a major loss with no end in sight. They pulled back and remained with the legacy system.
+
+In their current state, I would not dare replace my most important class 5 offices with a softswitch. For the near future, the 5ESS, DMS, or even the AXE are far superior products in providing class 5 services. This book could be a valuable reference if the hype was balanced with a more realistic assessment of current softswitch offerings.
+
+I finished this book feeling like I watched a football game, but instead of listening to the professional analysis from the play-by-play announcer, the audio was fed in from the cheerleading squad

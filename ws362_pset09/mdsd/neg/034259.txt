@@ -1,0 +1,9 @@
++ sturdy construction
++ intro to many topics
++ problems at end of chapter have page reference of the answer 
+
+- shallow coverage of too many topics
+- some key learning points are left to the student in an intro book
+- poor formatting and organization
+
+= an intro book that doesn't build enough on the foundations and tries to cover too much in this growing fiel

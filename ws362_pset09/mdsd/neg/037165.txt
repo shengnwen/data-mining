@@ -1,0 +1,41 @@
+I was very disappointed in this book. The title and the buzz about the book lead me to believe that this book was about the revolutionary idea of "open innovation". Open Source, the approach that developed Linux operating system and other software modules and applications, has demonstrated the power of a loose collaboration that operates in an open environment. This book is not about the "open innovation" that is a generalization of the unique approach that worked in Open Source. Instead this book is about running R&D organizations in a more open way - that is balancing internal R&D with the acquisition of the results of external R&D, and the commercialization of internal R&D internally and externally to the company.
+
+I also think that the book could be misleading for at times the author intermixes the words innovation and technology. Yet, we know that there is a lot of capital to be created with innovations that are not based on technology but exploit the changes caused by technology.
+
+And, as a thirty-year veteran of IBM, it was hard to read that the first time that IBM invented "open innovation" was with the advent of the Internet in the mid 1990s. In reality, there were many "open innovation" efforts within IBM as early as 1970 that produced significant revenue.
+
+The author points to the failure of PARC as an R&D failure. I would argue just the opposite. PARC was extraordinarily successful as an R&D effort. Look at how many fundamental innovations relative to personal computers that got developed. It was operational and executive failure that resulting in Xerox's inability to commercialize on what they had. This is not the fault of a "closed innovation" model. The "closed innovation" model created what it was supposed to create.
+
+I also think kit is misleading in a study of this type to lump research and development together into one - R&D. In reality that are four fundamental functions required:
+
+&#61623; Research
+&#61623; Technology Development
+&#61623; Technology Management
+&#61623; Product Development
+
+In a good "open R&D" environment, product developers should be free to use the best technologies, subassemblies or even complete products necessary to meet customer needs, stay competitive and return profit to the company. It's the role of technology management to forecast what technologies are going to be needed for what products and acquire or see that the technologies are developed internally to meet the needs of future products. Technology development's role is to identify promising technologies from research regardless of where the research is done and develop that research into useful technologies. Those technologies not used by the company should be sold or exploited in some way outside the company. And, research's role is to identify promising areas of research, conduct that research and communicate the results widely inside and outside the company. 
+
+Now this is a giant simplification I know, but this book doesn't offer a completely satisfactory explanation for how R&D should be managed in today's environment either.
+
+Chesbrough begins the book with "Most innovations fail. And, companies that don't innovate die." Later he states, "...innovation is vital for companies of every size in every industry. Innovation is vital to sustain and advance companies' current businesses; it is critical to growing new businesses. It is also a very difficult process to manage."  These statements set up the real conundrum of innovation. Pure internal innovation can result in wasted effort and myopia. Pure external innovation can result in the loss of freedom of action with customers. A company should be able to meet their customers needs in the best possible way, and an external innovation strategy can result in access being denied to innovations or innovations just not available. 
+
+Chesbrough rightly concludes that what is required is a balance of internal and external innovation, and internal and external commercialization.
+
+The author makes an extremely important point when he writes, "The value of an idea or technology depends upon the business model. There is no inherent value in technology per se. The value is determined instead by the business model used to bring it to market. The same technology taken to market through two different business models will yield different amounts of value."
+
+Chesbrough rightly concludes that what is required is a balance of internal and external innovation, and internal and external commercialization.
+
+The author makes an extremely important point when he writes, "The value of an idea or technology depends upon the business model. There is no inherent value in technology per se. The value is determined instead by the business model used to bring it to market. The same technology taken to market through two different business models will yield different amounts of value."
+
+One of the most valuable portions of the book deals with the concept of a "business model", an often used term, but infrequently defined. "The functions of a business model are as follows:
+
+1. To articulate the value proposition, that is, the value created for users by offering based on the technology
+2. To identify market segments, that is, the users to whom the technology is useful and the purpose for which it is used
+3. To define the structure of the firm's value chain, which is required to create and distribute the offering, and to determine the complementary assets needed to support the firm's position in this chain
+4. To specify the revenue generation mechanisms for the firm, and estimate the cost structure and target margins of producing the offering, given the value proposition and value chain structure chosen
+5. To describe the position of the firm within the value network linking suppliers and customers, including identification of potential complementary firms and competitors
+6. To formulate the competitive strategy by which the innovating firm will gain and old advantage over rivals."
+
+Chesborough points out that, "An inferior technology with a better business model will often trump a better technology commercialized through an inferior business model." I agree with this completely. It means that technologists have to learn a new language, the language of the business model, to introduce their technology to a company. "Constructing a business model requires managers to deal with a significant amount of complexity and ambiguity", something most managers and technologists don't handle vary well.
+
+To be a company that successfully innovates requires new levels of skills and abilities from its innovators and an open approach to innovation.

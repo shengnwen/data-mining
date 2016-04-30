@@ -1,0 +1,7 @@
+Nicholas Carr is, by all accounts, a decent writer.  This book is very easy to read and can be consumed in a few hours of instense reading.  This book expounds upon one of the most debated IT papers, from the Harvard Business Review, to have been written this century.
+
+Carr's premise is that IT is becoming increasingly commoditized, and will eventually cease to provide a sustainable competitive advantage.  Through a journey from the Industrial Revolution to the coming decades, Carr paints a very interesting portrait of the role of IT in today's business world.
+
+The text itself has several flaws, not the least of which is that Carr's personal knowledge of IT should have limited his discourse on the subject to that of an article.  He appears to be reaching, making inappropriate comparisons and completely ignoring several of the more complex (and costly) areas of IT research (e.g. user acceptance, integration of legacy systems).  His narrow definition of "IT" as only hardware and off-the-shelf software (anyone who implies that visual tools automatically write all the code you need should immediately author such a tool) needs to realize that the bulk of IT spending is not on those two items.
+
+This book should be read by all IT practitioners because many C-level executives truly believe that which it preaches.  Without properly reading it and recognizing its effect on the industry and on spending, you may get caught without proper arguments during the next budget meeting

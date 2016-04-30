@@ -1,0 +1,7 @@
+I found some gems in this book but I don't recommend it. The authors should learn to write in English and the Publisher should learn the art of copy editing. Otherwise, this book could have worked.
+
+Whoever wrote Chapter 15 did a good job and wrote the best material in the book. But, he/she still didn't give the reader an clear understanding of SASL. 
+
+The authors attempted to tie everything together in Chapter 19 - A Company Mail Server. But, you literally cannot get it to work. I doubt anyone ever tested it. The LDAP setup is out of sequence and obliterates the directory. If you try to make this work - and I image people would buy this book for that reason alone - you might just wind up shaking your head in defeat. 
+
+In summary, I see some lousy writing, a serious lack of editing and a book with incorrect information. It's difficult to recommend

@@ -1,0 +1,5 @@
+I had a degree in Computer Science from a respectable university when I read the book. Still, I learned from the book so much that I realized I barely scratched the surface of OO design before reading it. 
+
+It teaches OO Analysis and Design using many techniques, such as writing use cases, modeling the business domain, drawing UML diagrams, using CRC cards, and going through agile iterative development cycles.
+
+This book will not only provide you with a chance to learn OO Design, but also requirements gathering, analysis, and basic architecture and project management

@@ -1,0 +1,1 @@
+This book is seriously out of date for modern web design and development

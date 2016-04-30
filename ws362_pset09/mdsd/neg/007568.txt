@@ -1,0 +1,7 @@
+By his own accounting, Jeffrey Veen is an "internationally sought-after speaker, author and design strategist" but more so, he's good at cobbling together a bunch of rather trite and obvious observations about web design, and packaging them up in an expensive book with his face on the cover. 
+
+The writing is sometimes unforgiveably awful: "Good designers are harnessing the technology available to them and using it to encode the process they use to do good design."  I just wish Veen had harnessed some of that technology to do good writing.
+
+Add to that bad copyediting: Veen recalls glory days at his "alma matter". And he tells us that the book is not a reference manual or even a style guide. "Rather it (sic) a mentor..." Maybe so, but it a sloppily written and edited mentor.
+
+Now, it's hopelessly out of date as well. Get Steve Krug's book instead

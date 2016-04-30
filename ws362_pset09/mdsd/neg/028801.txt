@@ -1,0 +1,9 @@
+this is not a book on *SYSTEMS* architecture.
+
+Like that book on Enterprise (SIC) architecture that was all about LANs and not the entire enterprise ,  this book has too narrow a viewpoint.  
+
+The title should be changed so it is not misleading. The author's perspective may be *his* system but to most of us this stuff is at best a  subsystem, or merely a component, or otehr lower level item.
+
+if you want to know about SYSTEMS architecture the key book is rechtin and maier.  there may be a recent handbook of SA that covers a number of topics but eb and mark have the only real systems architecture book that I have verified. 
+
+this book is not the book the title claims. 

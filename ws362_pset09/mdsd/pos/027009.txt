@@ -1,0 +1,15 @@
+In my ongoing attempt to reach for the brave new opportunities of Internet business, I recently read The Long Tail (Hyperion, 2006) by Chris Anderson, editor of Wired Magazine. The book provides all the logic you might ever need for understanding why, as the subtitle says, "the future of business is selling more of less." As the Internet enables a shift "from mass culture to massively parallel culture," Anderson says that micro markets are strengthening while mass markets are weakening. 
+
+The book consolidated three perspectives for me:
+
+1.	Big hits will continue to exist but will draw fewer loyal customers. Blockbuster products will continue to exist, but the definition of a blockbuster is changing. Anderson offers some data-rich case studies to make his point.
+2.	Contrary to the wisdom once prevalent in business schools, it is no longer imperative to create blockbusters in order to create sustainable profitability.
+3.	The old nostrum about 80% of profits deriving from 20% of products is widely misunderstood and not well supported by the current business environment. When costs of inventory and distribution are low, as they often are in Internet-facilitated transactions, there is less reason to concentrate on 20% of products. 
+
+The title derives from the traditional depiction of the statistical bell curve, in which the high curve in the middle represents the greatest volume of the phenomenon being measured and the flat ends represent the low-volume "tails." Those tails, says Anderson, are lengthening infinitely as the Internet delivers unprecedented variety to mass audiences. The height of the curve is simultaneously flattening. 
+
+Though Anderson doesn't go into it deeply, the "long tail" phenomenon clearly has big implications for the future of labor and management. Many emerging niches, Anderson points out, are being created by self-organizing, voluntary peer production networks. For examples, think of open source software collaborators, indie movie makers, self-published book authors, blog operators, and self-appointed scientists. (An excellent book on this phenomenon is Eric S. Raymond's The Cathedral and the Bazaar, published by O'Reilly Media in 2001.)
+
+Indeed, because of volunteer, self-organizing labor, says Anderson, everything will soon make it to market. (Everything?) One of the major opportunities in this scenario will be for aggregators who help buyers make sense of it all.
+
+Anderson has a compelling, readable style, though a few of the economics discussions are a little jargon-happy. In other reviews, some have commented that The Long Tail leads the reader to the precipice of new insight, but leaves you without a method for taking a confident leap into this new world. Anderson does not claim to offer this kind of how-to advice, but the absence of it is a bit frustrating. Overall, though, The Long Tail leaves you better equipped to think about where it is all going -- business, career and management -- and where you fit within it.

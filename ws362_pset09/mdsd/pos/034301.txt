@@ -1,0 +1,19 @@
+If you want a one sentence review of this book:
+
+"Incredibly thorough and amazing value for money considering the mass of material and instructions provided."
+
+So, why is this book so great?  Why don't you just buy a suite of Turbosquid plugins and save yourself the pain?  Apart from the cost, because it helps you to work through and understanding the how and why the effects work, not just step by step hand holding through a tutorial.  It teaches you to be more observant and how to think through a challenge.
+
+Each chapter has an overview of how Pete will achieve the effect so you know what you are trying to do in a general sense.
+
+For each of the effects involved, Pete starts by referencing images and movies (provided on the DVD) explaining what, how and why the effect is happening with the real world objects.  Let's face it, their is no way you are going to re-create any real world effect (or model/lighting for that matter) without references and a reasonably good understanding of how and why it occurs.
+
+Where the book "kicks out the jams", in my opinion, is in the step by step guides.  Each step will provide the exact steps needed to be taken and a relevant full-colour photo.  However (and this is the important bit), it details WHY you are doing what you are doing.  Attach an animation controller here . . . why?  Adjust the light decay . . . why?  All the questions are answered.
+
+Too many books and web tutorials simply tell you exactly what to do but don't discuss the underlying reasons.  Sure you may get a result, but will you have an understanding of the principles involved so you can transfer skills from the current tutorial to a new situation?
+
+The other reason to buy this book, and almost worth the price alone is the "taking it further" section at the end of the book.  While this doesn't go through step by step, Pete outlines how you can ramp the effect up a notch, to make it truly outstanding (Example: In the tutorial on glowing coals, the Taking it Further section talks about adjusting the underlying light intensity over time to really make it look like they are throbbing with heat.)  While most tutorials would stop at the final result, the "Taking it Further" section of each chapter will really make your work stand out.
+
+If you haven't already guessed, I am a big fan of this book.  I have bought several Max books for my studies, but without a doubt this is the most comprehensive and well laid out book I have purchased.
+
+On a side note, thanks to both Amazon and Pete himself for helping me with a damaged copy of the DVD.  While Pete offered to get the publishers to replace the DVD, Amazon sent a replacement as soon as I made an enquiry.  Good support from the author and the seller

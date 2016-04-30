@@ -1,0 +1,5 @@
+I bought this book because I was very impressed with another Thompson book. "Beginning C++ game programming.". Unfortunately, this tome doesn't live up to that high standard. 
+
+I almost never use the CDs that come with programming books. As I prefer to type in the lessons myself. However I was forced to pop in the CD on the first chapter of this book when my code would not compile. Imagine my surprise when I opened the solution and saw "if( PeekMessage( &msg, NULL, 0U, 0U, PM_REMOVE ) )" where the book had told me to type "while (GetMessage(&msg, wndHandle, 0, 0))". Huh?
+
+It didn't get any better after that. The text is poorly written. The editing is abyssmal. Maybe it gets better later on, but I'll never know. Because I'm not going to waste any more time on this piece of garbage

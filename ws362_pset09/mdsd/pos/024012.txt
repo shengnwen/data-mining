@@ -1,0 +1,1 @@
+The Boylestad book is one of the best I have ever read in it's niche.  Circuit analysis for engineers, as an introduction to practical circuit design, is not Electrodynamics.  You neither expect nor want Calculus or derivation of equations.  You want and need rough and ready formulae and rules of thumb for practical analysis.  This book provides them

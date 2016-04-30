@@ -1,0 +1,7 @@
+I find that Mr. Viescas is too specific in his examples, and does not explain how everything works.
+
+I found that the first half of the book was great and helpful in covering the basics about microsoft access.
+
+However when you get to the section on VBA and automating your applications, He will give you specific example, tell you how he wrote the code, but will not give you clear enough examples about how to do it on your own, in your own application. Very Frustrating.
+
+Mr. Viescas is not alone though. I have been reading many Access Books, and Access VBA Books, and have yet to find one that really teaches you how to do it.

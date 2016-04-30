@@ -1,0 +1,7 @@
+I wish I had read the reviews before I bought this book. The revised edition simply has the typos corrected. At no time do you get the sense that an editor ever read this book. The language is mostly incomprehensible. 
+
+The online site that is supposed to give examples and style sheets redirects to a dog breeding site owned by the author.  After I wrote an email questioning that, it was changed. I have yet to hear back from the publishers, SAMS, and I would avoid all of their books because of this waste of paper. 
+
+I started to make a list of omissions and vague descriptions after the 2nd chapter, but that list is too long to outline here.  This is a very anti-design, techie look at CSS presenting an attitude that was out of date before the text was written.
+
+The project I was working on through this book failed, but I now know that I know less about CSS than when I started this book. I am going to have to unlearn what little 'Teach yourself CSS in 24 hours' has taught me

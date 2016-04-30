@@ -1,0 +1,3 @@
+The book is an advanced text in computational maths. It requires a solid undergraduate background in real analysis. Typically, you'd have this if you are a maths major. Or possibly a theoretical physics major. The level of rigour is unlike most undergrad texts on numerical analyis. The authors strive to demonstrate that even in pure maths, it can be fruitful to have a computer perform computations. The chapters show that often when there are what appear to be pure maths derivations, a context might appear where you can, or perhaps need to, crunch some numbers. 
+
+There are many problems; some quite challenging. Not all the computations are numerical. Several involve symbolic algebra. The text leaves it to you to use whatever maths packages you prefer.

@@ -1,0 +1,5 @@
+This book is more concentrated on diffusers than absorbers, with extensive care on Schroeder diffusers. Also it is more concentrated on acoustical physics than the discussion on various acoustic materials.
+
+Some peoples (like me) may find the chapter "Measurement of Absorber properties" exceptionally useful.
+
+To illustrate my point: you cannot find the terms "anechoic chamber" in the index.

@@ -1,0 +1,3 @@
+Just to say I have almost every Ruby and every Rails book out here,
+To me, his one is by far the best.
+The writing style is very good, and even if the author says it's not intended as a tutorial, you could definitively use it to learn Ruby from scratch too

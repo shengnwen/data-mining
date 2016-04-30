@@ -1,0 +1,45 @@
+Before I start, let me nail my colours to the mast: I'm pro-science, I'm pro-evolution, I really like the idea of rational enquiry and I'm a sceptic bordering on the cynical. I'm *not* some lentil-munching, kaftan-wearing, feng-shui-hugging hippie with airbrushed unicorns and a yin-yang sign on the side of my Kombi. Honestly.
+
+Now we've got that cleared up, let me say it straight: This book takes on some big arguments, but, other than humorously swatting some flies, loses hands down. All it succeeds in doing is illustrating that there are fakers, losers, charlatans and wankers to be found in the Social Sciences departments of any given University. Anyone who's been to university and didn't know that deserves a clip around the ear and to be sent to the back of the class. Now either Sokal didn't know that ( - ~clip~ -), or he's spent half his book shooting fish in a barrel. That might seem like good sport, but before long it becomes obvious it's a cheap thrill.
+
+Having said that, I sincerely doubt that the titillation of seeing dumb French Feminists taken apart is what made this book such a splash: I think it's because of Sokal's purported intent: to undermine the notion of cognitive relativism, especially as it associated with modern philosophy of science, in particular the work of Thomas Kuhn and Paul Feyerabend. This is the battle: Sokal aligns with those who say scientists are the exclusive purveyors of a shining light called truth; the Barbarians at the gate are these simpering postmodernists who want to tear the temple down.
+
+While the poseurs cited in this book are certainly (for the most part) phoneys or idiots, I think Thomas Kuhn was neither, and while Paul Feyerabend overplayed the court jester hand, he had some important things to say too.
+
+So, to the first point: Proving that one writer (or a hundred, or a thousand) who purports to adhere to relativism is a charlatan doesn't establish anything about *the idea* of relativism. All you have established is that you have a found yourself a charlatan. Give yourself a star. 
+
+But while you're pinning it on, remember that postmodernists do not have a monopoly on illogical, bamboozling, balderdash:
+
+Example: Sir Roger Penrose (Emeritus Rouse Ball professor of mathematics at Oxford University, no less) and his dreadful, lumpen-headed, and deliberately bamboozling anti-AI tract "The Emperor's New Mind". The very point of the (no doubt correct but nonetheless entirely irrelevant) science deluged on the reader in that book is to obscure the fact that the real emperor was Roger Penrose and his arguments on AI really blow the kumara. 
+
+Example: Noam Chomsky and Steven Pinker's Linguistic Nativism, which has held sway for a good thirty years in many linguistics departments, and is anything but post-modern: nativism holds that humans have an innate understanding of grammar hard wired into their biology. From my paltry readings in linguistics and the philosophy of language, my impression is that Pinker's and Chomsky's arguments are seriously flawed. (See: Sampson: "The Language Instinct Debate" for a thorough linguistic critique of nativism; see Rorty: "Contingency Irony, and Solidarity" for a philosophical perspective on the contingency of language). Make note of this example, as it becomes relevant later on.
+
+Secondly, Sokal and Bricmont (quite deliberately) refuse to engage on certain topics, in particular on cultural or aesthetic relativism, which they say (without providing a reason) "raise very different issues". Take that star away, for this statement betrays a fundamental misunderstanding about relativism. Actually, ethical, aesthetic and cognitive relativisms raise different manifestations of *exactly* the same issue: Cognitive relativism, in that it relates to "epistemic" truth (as opposed to "moral" truth or "aesthetic" truth - both of which seem intuitively more questionable ideas) is simply a cut closer to the quick: indeed, the aesthetic and moral brands of relativism rely for their plausibility on cognitive relativism anyway (i.e. if the truths we understand about the physical universe are contingent on our language, then it follows that ideals of right and wrong and beauty must be similarly contingent on our language).
+
+Thirdly, Sokal provides the following account of cognitive relativism: 
+
+"While scientists ... try to obtain an objective view ... of the world, relativist thinkers tell them that they are wasting their time and that such an enterprise is, in principle, an illusion"
+
+Now that, to put it mildly, is a *very* punchy version of relativism, and not one that any credible relativist philosopher I know of (and certainly not Thomas Kuhn, who spent a whole book explaining how and why the process scientific discovery works) subscribes to.
+
+That is, in the trade, known as a straw-man argument: You set it up to knock it over. Here goes: 
+
+P1: Relativists say science is a waste of time
+P2: Science helps us reliably predict and react coherently to phenomena occurring in the world 
+P3: Things which help to predict and react to such phenomena have genuine utility 
+C1: Therefore, science has genuine utility
+C2: Ergo, science is not a waste of time
+
+Case closed. Is relativism dead? No: the problem is, most relativists I know would completely agree with all of the above argument except for premise 1. The cat is most definitely still out of the bag. (In a nutshell, all reasonably stated relativism says is that you can't know that your theory actually maps onto the actual configuration of the outside world; it may, it may not: logically there will always be some other possible explanation for the same set of data, however implausible or difficult to imagine, and in part that difficulty in imagination may be a function of the historical contingency of our belief in, and description of the world in terms of, the current "paradigm". Relativism simply says the best you can do is to know that, for now, your theory works, not that it is *true*. Though Sokal and Bricmont may disagree, I don't think this is controversial amongst philosophers nor, really, scientists.)
+
+Lastly, in criticising an admittedly utterly ludicrous passage bestowed on the world by that splendidly silly feminist philosopher Sylvia Kristeva, Sokal makes the following footnote:
+
+"...Kristeva seems to be appealing ... to the 'Sapir-Whorf thesis' in linguistics that is ...that our language radically conditions our view of the world. This thesis nowadays is sharply criticised by some linguists: see, for example Pinker ..."
+
+Hold the phone. The implication is that the Sapir-Whorf thesis (as to the contingency of language) has been discredited, but by none other than Steven Pinker in his "The Language Instinct" which, as per the above, is at the very least a controversial piece of writing. This is an extremely important point, since it's utterly central to the credibility of the anti-relativist cause, and if one takes Geoffrey Sampson's book (cited above) at face value the nativist claims themselves are built on very suspect reasoning and scientific research. It seems to me (and to writers like Richard Rorty) that language must radically condition our view of the world, because that's the only basis on which we can even describe it.
+
+At the end of the day, properly stated cognitive relativism is no a threat to modern scientific discourse, except that it relegates the scientist from "truth knower" or "person through whom you may have exclusive access to the truth" (sounds a bit like a grand high pooh-bah or - dare I say it - high priest, doesn't it?) to "person whose theory works the best for now" and who may be in competition for that status with other people in the community whether or not they're scientists. 
+
+If science *does* work better than feng shui or healing crystals (and I, for one, think it does) then this shouldn't be a particularly troubling way of looking at the world for a scientist who is at ease with his views and his value to the community. So it makes the knee-jerk reactions against relativism, from the likes of Sokal and elsewhere Richard Dawkins, all the more mystifying.
+
+Olly Buxto

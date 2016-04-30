@@ -1,0 +1,5 @@
+Electromagnetism is a hard subject for many people, including myself.  Schaums Outline of Electromagnetics, by Edminister, is an outstanding collection of problems and solutions more even when a companion in Electromagnetics using Mathcad, the leading technical calculation software.  The big advantage of the interactive Outline is its use of LiveMath.  You can change the starting parameters of a problem and watch as graphs are calculated in front your eyes.  
+
+The student will find this is an exciting tool for exploring the universal laws governing electromagnetic waves and for gaining intuition about how various parameters affect the solution to problems.  
+
+Finally, I am sure that the educator in physics and engineering will find a comprehensive selection of laboratory and homework exercises in Mathcad, with plenty of room for creativity and expansion.

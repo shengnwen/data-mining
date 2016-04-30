@@ -1,0 +1,21 @@
+ This is as it states for the Novice to the Professional and that is completely true. 
+If you are new to PHP or if you know PHP well this book is for you. Great for beginners
+and a reference for the professional to turn to again and again. 
+    The foundation of the web is simple database back ends and interactive web page front ends. 
+MySQL is an Internet standard back end database and it's ease of use combined with the power of PHP
+make the 2 a great combination to construct web databases easily and powerfully. 
+    Gilmore guides the reader step by step from installation to basic functions, and finally to practical uses
+for PHP and MySQL. 
+    But wait a minute, Gilmore adds two more things. He sneaks small chapters in the middle of his book on 
+SqlLite and PDO.  For those thinking that MySQL is a bit too much for their small project then turn to SqLite. 
+Gilmore explains how to install and use SqLite quickly.  If you are a programmer and are familuar with using
+Microsoft's ADO for database connections, then you can turn to PDO (PHP Dataobjects). PDO provides the
+power and simplicity to connect to various databases that you may have at your disposal. 
+    One of the great sections in the book is Gilmore's explanation of how to do Object Orientated Programing
+in PHP. Starting with PHP 5 you can harness the power of PHP to deal with you program objectively.  Object
+Orientated Programming is mentally the way to go as you can plan, organize, and assemble your code logically. 
+    Other chapters of interest include how to effectively use Arrays, Authentication, File Uploads, PHP and LDAP,
+Secure PHP, Securing MySQL, Practical Database Queries, and Importing and Exporting data. 
+ 
+If you do any work with PHP at all, be sure to check out this book. It will pay for itself in full. 
+ 

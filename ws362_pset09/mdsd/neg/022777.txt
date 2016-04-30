@@ -1,0 +1,18 @@
+The evil genius series of electronic hobbyist books tends to be a mixed bag of quality. Sad to say, this is not one of the better books in the series. It is way too elementary for any adult remotely interested in the science behind the hobby. For example, the chapter on rocket math is junior high school level and the chapter on the flight computer was woefully inadequate. The book is also short on explanations in general, and I found the illustrations to be lacking. If you want a really good book on model rockets, might I suggest the updated version of the "Handbook of Model Rocketry" by Stine and Stine. The senior Stine, G. Harry Stine, was a range safety officer at White Sands Missile Range who built and flew various model rockets in the 1950's and then devised a safety code for the activity based on his experience at the range. The instructions and diagrams are very clear, and the authors go the extra mile with technical details that are missing in Harper's book. The following is the table of contents for the Evil Genius book on rockets:
+
+Chapter 1: History of Rocketry 
+Chapter 2: Rocket Science 
+Chapter 3: The Model Rocketeer's Workshop 
+Chapter 4: Model Rocket Stability 
+Chapter 5: Constructing Model Rockets 
+Chapter 6: Recovery Systems 
+Chapter 7: Launching Model Rockets 
+Chapter 8: Rocket Math 
+Chapter 9: Model Rocket Photography 
+Chapter 10: Model Rocket Movie Cameras 
+Chapter 11: Rocket Mail 
+Chapter 12: Introduction to the Flight Computer 
+Chapter 13: Educating with Model Rocketry 
+Chapter 14: Model Rocket Clubs 
+APPENDIX A: MODEL ROCKET SAFETY 
+APPENDIX B: INTERNATIONAL LISTING OF MODEL ROCKET CLUBS

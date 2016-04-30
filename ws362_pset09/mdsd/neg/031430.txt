@@ -1,0 +1,3 @@
+As an electronics engineer, responsible for education at university level, I was a bit disappointed after reading the book. From theoretical/technical point of view, the book starts at a very basic level. For instance phase cancellation and definition of decibels. I did not find anything that was really explained in depth. As far as I can understand, the book is not intended for technicians or engineers dealing with design and analysis of electronic music systems. 
+
+On the other hand, musicians with no technical background that will mainly buy and use a synthesizer can probably find some useful information about common technical terms and buzzwords. However, from my point of view, I am not convinced this book really is The Ultimate Reference for Sound Design.

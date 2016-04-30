@@ -1,0 +1,3 @@
+What would you like in a Desktop Quick Reference? It has to give you the information you need at the moment you need it. Designing Web pages can be a very tedious task as you try to harmonize separate elements into one cohesive whole. Not only that a web page needs to be able to make the user feel at ease and it should also not give any confusion on how the page is supposed to be used. The WEB Design in a Nutshell Desktop Quick Reference gives you quick access to tips and tricks of the different elements of a web page. 
+
+You get technical advice, best practice and expert tips in CSS, JavaScript, Images, and HTML. By using the book you gain more understanding of the things you can exploit in designing web pages.

@@ -1,0 +1,5 @@
+I have a working knowledge of a lot of what's covered in this book.  The presentation is fairly elementary even for a novice. The level of expertise this book targets would be very hard to learn from just a book.  They are better off spending $20 for a pizza anad a six-pack and finding a friend w/ a free afternoon to walk them through explaining and installing Linux. This book is likely to be either too technical or not provide enough information.
+
+On the plus side it comes with a copy of Fedora Core and Knoppix but...
+
+...who's idea was it to cover Linspire instead of Debian.  Wait for the next edition which will likely cover Ubuntu, which is likely to become the new Linux standard

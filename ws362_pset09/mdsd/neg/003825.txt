@@ -1,0 +1,9 @@
+This book was a huge disappointment. It's content is weak in almost all sections with much of the information available from either the Internet or you local photo lab. I didn't find it very useful at all and I'm even tempted to send it back.
+
+The book is pretty much broken up into the three section as described in the book's title. The first part brushes over optimising your workspace - calibrating your monitor - and selecting a printer and then basic printing output. Things most people know already. 
+
+The second goes into a bit more depth regarding getting your pics on the web: registering a domain name, selecting a hosting company, etc. Information you'll find better provided by a quick search in any web search engine. However, one of my main gripes is that it reads like a magazine review of 3rd party programs you should buy to help with the web authoring in html. In fact it advises using Macromedia Dreamweaver.  A program which cost more than 500 USD. Now, I understand that writing html sounds complicated to the novice but you would - honestly - be better served and save some money from learning a bit from any basic html/web authoring book(any of the O'Reilly books are well recommended) Creating a basic html web gallery is not complicated. 
+
+The final part of the book continues on the team of glossing over the subject. It briefly mentions approaching galleries and selling on the Interent. I was expecting so much more from ths section but I really didn't learn much more than I knew already.
+ 
+I find it hard to believe that one of the reviews here gives this book 5 stars yet points out some of the same failings of the book as me. The book has good intentions but just doesn't deliver the level of content and information required to make really useful.

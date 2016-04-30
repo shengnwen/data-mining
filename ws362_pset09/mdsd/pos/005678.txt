@@ -1,0 +1,23 @@
+Knowing all the notes doesn't make music, and knowing all the code doesn't make a web page.   
+
+This is a great book to get you going on serious web design.
+
+In the beginning of the book Lisa Lopuck states:
+"I'm not talking about building personal sites with frilly fonts and loud background patterns.  I'm talking about building enterprise-level Web sites for real-world clients"
+
+You will find step-by-step instructions for:
+*Building Wire-frames
+*Setting up Testing
+*Dealing with Clients
+*Putting together a Proposal
+And just about anything else you might need for setting up a Web Design Business.
+
+But what if you just want to put together a few sites to "Make Some Money on the Web"?
+
+Well, this book might be for you too. For instance; customers will get frustrated and go away if the navagation doesn't work - and here you will find out how to get a few friends together to test your navagation.
+
+There is a lot of information about the planning stages of a site.  And there are a lot of good reasons why it is NOT a good idea to start with "One Page" and then watch Toppsie grow. So she shows you how to do it.  Step-by-step.  
+
+Also note:  This seems to be a new format for Dummies books.  The pages are glossy and the images are very good.
+
+Highly recomended for anyone who wants to build more than one or two sites

@@ -1,0 +1,22 @@
+If you are a CIO, Head of HR, or other so called "support" function looking for help on how to align with the business, this is not the book for you. 
+
+My suggestion is to skip this book, or if you must check it out of the library or buy it used.  The book you want is Kaplan and Norton's first book called "The Balanced Scorecard" which is very good and is just repeated in this book.  Next I would purchase the HBR article on Strategy Maps (September 2000). Those two works cover all of what is in this book and they have a stronger implementation flavor. 
+
+Alignment is a persistent issue facing every organization and operating unit with the organization.  This book does not provide the practical or actionable advice needed to give business leaders the tools and techniques need to make progress in this critical area.
+
+If you want to know why please read on. 
+
+Kaplan and Norton are the undisputed masters of issues related to scorecards and their ideas in that area are used by leading organizations everywhere with great success.  Unfortunately as they have tried to expand beyond scorecards there work in this area (this book and The Strategy-Focused Organization) have not come near the mark in my opinion. 
+
+Alignment is a critical issue in today's dynamic and changing environment.  Unfortunately the authors approach alignment in a very simplistic way: create a strategy map, then create a scorecard and you will get alignment.  Sorry but just using these two tools do not cut it to handle such a tough issue and this book shows it.
+
+Like "The Strategy Focused Organization" Kaplan and Norton seek to use case studies to help illustrate their points.  For that they are to be commended.  However, the case studies they use are very shallow, read more like corporate press releases and product testimonials.  That is a shame and a real weakness of this book as Alignment is a complex issue and simply saying 'we sat down created a Balanced Score Card and a Strategy Map and we were aligned' does not address the issues nor provide insight for the reader. 
+
+The reason for such a low score on this book is the lack of help it provides the people who most are in need of alignment CIOs, HR and to some extent finance.  Kaplan and Norton dedicate Chapter 5 to "Aligning support functions" and right away you know the mindset they are applying.  
+
+For K and N, alignment is a process of completing their deliverables and they treat IT, HR, Finance and any other support function as "staffed with expert specialists whose culture is quite different from that of managers in line operating units.  Consequently, support groups frequently become isolated from the line organization ... executives of business units accuse them of living in HQ based silos and being incapable of responding to local operating needs." (Page 120)
+
+Their solution for IT, HR and Finance alignment puts these organizations back into the 1960's as they advise these functions to read the business strategy map and scorecard and then create your own - separate but not equal - scorecard based on the services you can provide.  That works if all you want IT and HR to do is provide basic services, but if you want to gain competitive advantage, or if you are a CIO, HR or CFO who wants to link into and align with the business this approach puts you at arms length and something apart.  
+
+Kaplan and Norton should know better and more importantly I have to believe that there are case studies that do not treat IT, HR and Finance as support functions but integral parts of the business strategy.  The fact that they could not find these cases where there is one strategy map that the whole company could align around, give the impression that they are looking at the issue of alignment with the wrong lens.
+

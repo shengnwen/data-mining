@@ -1,0 +1,5 @@
+I bought this book with the intention of learning the JAI API for dealing with imagery.  I have read the book from cover to cover three times, and all I have learned is how wonderful a developer the author believes he is.
+
+This book does not go into enough detail on any of the API's, but it is especially lacking with regards to JAI.  He has some sample code in the book, but all of the sample code is wrappers he has written around the Sun API's.  Instead of explaining the API's one would like to learn, we are given a full detailed explanation of the wrapper code he has written, and leaves the API explanation details to the reader to figure out for themselves.
+
+This book is a complete waste of time, and has to be the worst book I have ever read relating to Java.  Next time, save your development skill advertising to your resume.

@@ -1,0 +1,5 @@
+If you want to learn in-depth techniques, this book probably isn't the book for you.  This book is more a handy reference guide to help scientists and engineers brush up on topics we might have forgotten.  Most of the exercises are somewhat easy and straightforward and they provide just enough of an example to allow for understanding of the basic concepts.  But I suppose that's the way the book was designed.  
+
+This book contains most everything from soup to nuts (from group theory to complex analysis).  But the treatment of most topics is cursory or introductory.  And that's all right.  Arken provides references so interested readers can easily find more detailed treatment elsewhere.
+
+This book is a "must have" for scientists and engineers who are presented with many different types of problems.

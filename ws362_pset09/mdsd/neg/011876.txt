@@ -1,0 +1,10 @@
+I know a lot about programming -- and I am also keenly aware that there is even more that I don't know.  I have developed in MS Access, Word and Excel for the last five years on all versions since 97.  I have been teaching myself Visual Studio .NET and am currently attending a Java programming class.  
+
+I was very disappointed in my purchase.  I was looking forward to learning how to use the office developer tools in Visual Studio .NET.  Unfortunately, this book is targeted at those that have already mastered Visual Studio.NET as opposed to those who know VBA and Office development and want to migrate to .NET.
+
+My evidence:
+1) The coding language selected by the author was C#.  This choice, for good or ill, has the net effect of excluding VBA developers because of the vast difference in syntax.  If you know C++ or Java you can make it through the examples, but these languages are not what VBA developers tend to know.  In other words, this book doesn't allow VBA developers to leverage their existing knowledge.
+2) The book starts by discussing Interops and Assemblies.  Again, for good or ill, one should probably be familiar with these concepts before delving into the code examples.  Additionally, you MUST have more than a passing knowledge of threading to make full use of this book.
+3) A review of the index yields not a single topic regarding object oriented programming (OOP) concepts for those new to OOP making it much more of an advanced specialty book than a more broad reference and learning tool.
+
+The author clearly knows what he is taking about.  Unfortuantely, those most in need of learning office tools in .NET will not be in a position to take advantage of his knowledge.

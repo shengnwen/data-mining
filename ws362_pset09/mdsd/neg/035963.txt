@@ -1,0 +1,5 @@
+This book can be of immense value if your organization doesn't have a mature Configuration Management process and supporting build procedure.
+
+I was hoping to learn best practices around practical challenges we face. The book fell short of expectation, may be I was expecting much more from someone who played the Build Master role for a very complex software. 
+
+No doubt this book will increase the awareness around a critical process area for organizations struggling to manage multiple streams of activities, but don't search for the silver-bullets from this book.

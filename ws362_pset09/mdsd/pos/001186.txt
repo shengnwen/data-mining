@@ -1,0 +1,7 @@
+This book will not teach you about game development. That is not its aim. The book aims to give the game designer a framework for analyzing the concepts of "game" and "play", hopefully giving the game designer a more analytical mind when designing games. 
+
+For those who complain about the book not being helpful in creating computer games - you're missing the point. There are plenty of books on game development. 
+
+This book is not an easy read. It's like going back to school and reading a book mainly focused on theory - you're going to get bored and find it useless unless that's exactly what you're looking for. It contains plenty of references to psychology, anthropology, and philosophy that you may never have encountered before in a game design environment.
+
+But for game designers who wish to have a more analytical mind on their craft, this is the best book available

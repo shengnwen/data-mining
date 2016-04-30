@@ -1,0 +1,1 @@
+Contains nothing but very abstract mathematical concepts and formula derivations that would only be of interest to scientists.  This book offer NO examples or PRACTICAL insight on how fiber systems actually work.  Useless

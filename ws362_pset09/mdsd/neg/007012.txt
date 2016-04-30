@@ -1,0 +1,10 @@
+Don't waste time if you're looking for an excellent intro text for a business ethics course.  This text has the following virtues:
+-reasonable overview of normative ethical theory in chapter 2
+-short, pithy case studies to motivate problems
+
+The text has the following vices:
+- it totally ignores libertarianism in the discussion of normative ethics (a significant oversight since it dominates the Western approach to property, contracts and other business issues)
+-there is a biased inclusion of primary sources.  For example, you'll find an essay in favor of unions but none opposing.  There is an essay criticizing employment at will but none defending it.  There is a defense of prferential treatment in hiring (e.g. affirmative action) but none criticizing it.  There is a quasi-defense of manipulative advertising but none criticizing it.
+-some of the primary sources are simply poor choices for a business ethics text.  They are either poorly argued or merely tangential to the real issues.  For example, "Buddhist Economics" by Schumacher, "Homosexuality, Prejudice, and Discrimination" by Mohr, "The Place of Non-humans in Environmental Issues" by Singer, etc.
+
+Instead, I recommend the Beauchamp and Bowie anthology

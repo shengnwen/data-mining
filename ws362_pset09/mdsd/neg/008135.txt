@@ -1,0 +1,1 @@
+The book barely discuss how to apply six sigma to software development. I bought the book based on the title and table of content. After reading the entire book, I found nothing valuable about six sigma software development. None. It may be useful for six sigma introduction in general. But do not read the book if you are interested in applying six sigma for software development

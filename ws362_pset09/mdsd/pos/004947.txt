@@ -1,0 +1,1 @@
+It is just a rare book on physical optics based on Maxwell equations. Rarely a book states the assumptions,the validity of the equations, the principles and how the equations arrived. Certainly, it is a great book for postgraduates and researchers in physical optics not so for undergraduate students who don't want to go through all the mathematics

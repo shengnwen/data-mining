@@ -1,0 +1,1 @@
+This book shows by example that iterative algorithms can be derived - you don't need a lucky inspiration to discover them. If you have ever vacillated between putting something in the initialization or body of a loop; or written a loop that doesn't terminate in some cases; this will change your whole approach to coding.

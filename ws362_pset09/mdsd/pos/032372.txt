@@ -1,0 +1,7 @@
+About me: I'm in molecular biology. I read this book because I was interested in if and how "Optimality Theory" manages to capture and explain the phenomena of structural complexity and structural diversity in language. I can only review the book from my "outsider" position.
+
+I think Optimality Theory in its simplicity and brilliance rivals the Theory of Evolution. It will not become as widely popular, because its formulation is more complex, but its impact in linguistics will equal the impact of evolutionary theory in biology. (Actually I think OT is more interesting than TToE, because it explains the underlying structure and emerging laws rather than limiting itself to describe what happens on the surface.) 
+
+I think John McCarthy does a very good job in explaining its basic principles. The examples are (necessarily) taken from phonology and sometimes syntax. I didn't understand all of them in great detail (as I said I'm not a linguist), but I understood all the principles, which was all I wanted. 
+
+I recommend this book to people who are interested in linguistics, or in complexity in general. (Obviously I'm in no position to assess for example whether it would be a good study guide for students of linguistics.)

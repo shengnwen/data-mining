@@ -1,0 +1,11 @@
+Service Oriented Architecture is one of these concepts that has come along and gripped a substantial part of the business and technical imagination. So companies like IBM are attempting to flesh out what this could mean for their customers. 
+
+From the text, it can be considered that SOA is the idea of Web Services, taken to a higher level. The book describes SOA as "a set of flexible services and processes that a business wants to expose to its customers, partners, or internally". Each of these services might well be implemented as a Web Service. SOA is more about the framework that aggregates these Web Services in a simple, modular manner. 
+
+Plus, note the word "processes". This can include activities or procedures that might not be expressed, or easily expressible if at all, as Web Services. Another dimension in which SOA differs from a Web Service.
+
+How will SOA turn out in practice? The book's explanation is impressive, but at its level of discussion, there is a certain inevitable amount of jargon and handwaving. The lower level idea of Web Services seems now to be reasonably valid and successful. It will take more time with SOA to see what happens.
+
+The book also has a tangential and useful feature. Each chapter ends with links to papers that IBM makes publicly available at its developerWorks website. A rich resource for you to mine. The technical calibre of those papers tends to be quite high, and they develop further the various ideas in the chapters. If this book puts you into the habit of regularly perusing developerWorks, that in itself is a good thing.
+
+By the way, as a minor note, you can tell that SOA is still very new. See in the title of this book the dash between Service and Oriented? This is like when the Web first burst into the general scene. It was then often written as World-Wide Web. The latter notation makes sense, except that nobody writes that way anymore.

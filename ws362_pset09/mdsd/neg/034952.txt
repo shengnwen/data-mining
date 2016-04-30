@@ -1,0 +1,1 @@
+If "practical" means having a sample project with the theory, the name of this book is incorrectly named. With a big bunch of text or description, it is not "practical"

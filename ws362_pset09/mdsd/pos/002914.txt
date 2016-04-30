@@ -1,0 +1,5 @@
+The Microsoft Certified Desktop Support Technician test (Exam 70-272) has been modified and updated to incorporate the material needed to support Microsoft XP (with Service Pack 2) and Microsoft Office Professional Edition 2003. This has resulted in this Second Edition of the Self Paced Training kit. 
+
+The book comes with two CD's that include all the software you will need to prepare for the test. This includes the operating system, and the Office suite of products in trial versions that are fully functional but time limited to give you the basic test platform to practice the points developed in the text. 
+
+The basic format of the text is to give you the information you need to understand to pass the test and a set of questions and answers to help you identify those areas that may need further study. Finally there is a 'Readiness Review' test on the CD as a final in-depth exam just before you take the actual test.
